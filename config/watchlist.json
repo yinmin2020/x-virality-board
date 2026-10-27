@@ -1,0 +1,47 @@
+{
+  "timezone": "America/Anguilla",
+  "min_views": 5000,
+  "star_views": 10000,
+  "lang": "en",
+  "operator": "yinmin1987",
+  "accounts": [
+    "AnthropicAI", "OpenAI", "dotey", "xiaohu", "cgnot996", "liyue_ai",
+    "shao__meng", "op7418", "vista8", "lijigang", "0xlangeai", "cellinlab"
+  ],
+  "trend_input_only": [],
+  "outsider_queries": {
+    "en": "(RAG OR \"agent memory\" OR \"AI memory\" OR Milvus OR \"context engineering\") -is:retweet -is:reply lang:en",
+    "zh": "(Agent OR 智能体 OR 记忆 OR RAG OR 知识库) -is:retweet -is:reply lang:zh"
+  },
+  "keyword_lexicon": {
+    "Anthropic": "anthropic",
+    "Claude / Opus": "claude|opus",
+    "OpenAI / GPT": "openai|gpt-?\\d",
+    "IPO": "\\bipo\\b|招股",
+    "Codex": "codex",
+    "Grok Bot": "grok ?bot",
+    "Grok": "grok",
+    "AI Agent": "agent|智能体",
+    "Skills": "skill|技能",
+    "Memory / RAG": "memory|记忆|\\brag\\b|milvus|知识库",
+    "model / 模型": "\\bmodel|模型",
+    "video / 视频": "视频|\\bvideo",
+    "open source / 开源": "开源|open.?source",
+    "code / 代码": "代码|\\bcode\\b|coding",
+    "prompt / 提示词": "提示词|\\bprompt",
+    "free / 免费": "免费|\\bfree\\b",
+    "subscription / 订阅": "订阅|subscri",
+    "search / 搜索": "搜索|\\bsearch",
+    "WeChat / 微信": "微信|wechat",
+    "layoffs / 离职": "离职|裁员|layoff"
+  },
+  "topics": {
+    "Anthropic IPO and next model": ["Anthropic", "IPO", "Claude / Opus"],
+    "OpenAI GPT-6.1 / computer use": ["OpenAI / GPT", "model / 模型"],
+    "Coding agents (Codex, Claude)": ["Codex", "Claude / Opus", "code / 代码", "AI Agent"],
+    "Grok Bot + video hacks": ["Grok Bot", "Grok", "video / 视频"],
+    "Open source tools and free access": ["open source / 开源", "free / 免费", "subscription / 订阅"],
+    "Agent memory / RAG": ["Memory / RAG", "AI Agent", "Skills"]
+  },
+  "board_url": "https://yinmin2020.github.io/x-virality-board/"
+}

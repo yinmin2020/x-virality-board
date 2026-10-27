@@ -1,0 +1,226 @@
+{
+ "days": {
+  "2026-10-24": {
+   "AnthropicAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "OpenAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "dotey": {
+    "hits": 1,
+    "views": 66742,
+    "best": 66742,
+    "best_id": "2114203536477053273"
+   },
+   "xiaohu": {
+    "hits": 1,
+    "views": 49479,
+    "best": 49479,
+    "best_id": "2113861921040740839"
+   },
+   "cgnot996": {
+    "hits": 0,
+    "views": 0,
+    "best": 3203,
+    "best_id": "2113877425797079264"
+   },
+   "liyue_ai": {
+    "hits": 5,
+    "views": 40152,
+    "best": 10063,
+    "best_id": "2113990113411915860"
+   },
+   "shao__meng": {
+    "hits": 1,
+    "views": 6257,
+    "best": 6257,
+    "best_id": "2114185431277527220"
+   },
+   "op7418": {
+    "hits": 2,
+    "views": 59849,
+    "best": 31453,
+    "best_id": "2113989933564330298"
+   },
+   "vista8": {
+    "hits": 4,
+    "views": 252682,
+    "best": 173153,
+    "best_id": "2113918788018262446"
+   },
+   "lijigang": {
+    "hits": 2,
+    "views": 21319,
+    "best": 12186,
+    "best_id": "2113973443020681681"
+   },
+   "0xlangeai": {
+    "hits": 4,
+    "views": 45095,
+    "best": 16140,
+    "best_id": "2113934908456608078"
+   },
+   "cellinlab": {
+    "hits": 1,
+    "views": 17146,
+    "best": 17146,
+    "best_id": "2114110646694584410"
+   }
+  },
+  "2026-10-25": {
+   "AnthropicAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "OpenAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "dotey": {
+    "hits": 9,
+    "views": 405194,
+    "best": 116343,
+    "best_id": "2114210926253543534"
+   },
+   "xiaohu": {
+    "hits": 5,
+    "views": 113989,
+    "best": 55465,
+    "best_id": "2114563222372290923"
+   },
+   "cgnot996": {
+    "hits": 4,
+    "views": 57586,
+    "best": 36174,
+    "best_id": "2114249976331305147"
+   },
+   "liyue_ai": {
+    "hits": 6,
+    "views": 77157,
+    "best": 41648,
+    "best_id": "2114259563751026917"
+   },
+   "shao__meng": {
+    "hits": 1,
+    "views": 5153,
+    "best": 5153,
+    "best_id": "2114539832555065471"
+   },
+   "op7418": {
+    "hits": 3,
+    "views": 37483,
+    "best": 16236,
+    "best_id": "2114229075514651001"
+   },
+   "vista8": {
+    "hits": 4,
+    "views": 137969,
+    "best": 72671,
+    "best_id": "2114354864088297475"
+   },
+   "lijigang": {
+    "hits": 3,
+    "views": 89312,
+    "best": 45486,
+    "best_id": "2114553896437981204"
+   },
+   "0xlangeai": {
+    "hits": 4,
+    "views": 58339,
+    "best": 24012,
+    "best_id": "2114279020896350322"
+   },
+   "cellinlab": {
+    "hits": 5,
+    "views": 50257,
+    "best": 21907,
+    "best_id": "2114208746532655481"
+   }
+  },
+  "2026-10-26": {
+   "AnthropicAI": {
+    "hits": 1,
+    "views": 7108371,
+    "best": 7108371,
+    "best_id": "2114705042817110293"
+   },
+   "OpenAI": {
+    "hits": 1,
+    "views": 4028336,
+    "best": 4028336,
+    "best_id": "2114780711664398349"
+   },
+   "dotey": {
+    "hits": 9,
+    "views": 486167,
+    "best": 206871,
+    "best_id": "2114763608856956970"
+   },
+   "xiaohu": {
+    "hits": 7,
+    "views": 161415,
+    "best": 55162,
+    "best_id": "2114705510830375081"
+   },
+   "cgnot996": {
+    "hits": 0,
+    "views": 0,
+    "best": 3431,
+    "best_id": "2114899885174743118"
+   },
+   "liyue_ai": {
+    "hits": 1,
+    "views": 131779,
+    "best": 131779,
+    "best_id": "2114570263035789763"
+   },
+   "shao__meng": {
+    "hits": 1,
+    "views": 10215,
+    "best": 10215,
+    "best_id": "2114676494220013822"
+   },
+   "op7418": {
+    "hits": 6,
+    "views": 74544,
+    "best": 19340,
+    "best_id": "2114710451884089845"
+   },
+   "vista8": {
+    "hits": 9,
+    "views": 154192,
+    "best": 70681,
+    "best_id": "2114881673288634855"
+   },
+   "lijigang": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "0xlangeai": {
+    "hits": 3,
+    "views": 44867,
+    "best": 18753,
+    "best_id": "2114718579795148915"
+   },
+   "cellinlab": {
+    "hits": 3,
+    "views": 30619,
+    "best": 12506,
+    "best_id": "2114620754646213085"
+   }
+  }
+ }
+}

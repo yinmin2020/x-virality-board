@@ -1,0 +1,42 @@
+{
+  "_comment": "Written by the agent each day (3 EN post ideas for the operator). Keep facts and numbers traceable to posts on the board. Short hyphen only, no new numbers.",
+  "ideas": [
+    {
+      "title": "Before you add a memory layer, test plain retrieval",
+      "topic": "Agent memory / RAG",
+      "keywords": ["Memory / RAG", "AI Agent"],
+      "format": "screencast",
+      "visual_type": "screencast",
+      "hook_en": "Two new papers point the same way: plain retrieval over the raw chat history can match or beat fancy agent memory. Before you add another memory layer, check whether simple retrieval on the original log already fails. Fix recall first, add structure second.",
+      "video_tip": "15-20s screen recording, split screen: same question, left = top retrieved raw passages, right = a summarized memory entry. End on a one-line caption: 'measure recall before adding layers'.",
+      "angle": "Rides the RAG-is-back / 'memory tax' conversation with a practical test the operator's Agent + RAG + Milvus audience can run today.",
+      "why": "An outsider post on RAW-RAG vs agent memory reached 84.6K views and a second paper post on 'Memory Tax' reached 13.0K in the last ~48h (see Outsiders).",
+      "evidence_urls": ["https://x.com/akshay_pachaar/status/2114659720602534014", "https://x.com/XuanHe21/status/2114917854877307162"]
+    },
+    {
+      "title": "Context engineering is turning into harness engineering",
+      "topic": "Agent memory / RAG",
+      "keywords": ["AI Agent", "Memory / RAG", "Skills"],
+      "format": "video",
+      "visual_type": "video",
+      "hook_en": "Context engineering is quietly becoming harness engineering. Less about the perfect prompt, more about the loop around the model: what it retrieves, what it remembers, what it is allowed to touch. If you build agents, spend this week on the harness.",
+      "video_tip": "10s animated diagram: a model in the center, three rings pop in on a beat (retrieval, memory, permissions), then a hard cut to your own agent's folder tree.",
+      "angle": "Names the shift in one line, then shows the operator's own agent setup as proof.",
+      "why": "An outsider roundup post listing 'context engineering is now harness engineering' and 'agent memory went mainstream' reached 7.2K views; the Anthropic agent-infrastructure post from a Chinese-language outsider reached 25.1K.",
+      "evidence_urls": ["https://x.com/Austen/status/2114679821074649583", "https://x.com/turingbook/status/2114724007639392330"]
+    },
+    {
+      "title": "When model prices fall, memory becomes the bottleneck",
+      "topic": "OpenAI GPT-6.1 / computer use",
+      "keywords": ["OpenAI / GPT", "model / 模型", "AI Agent"],
+      "format": "video",
+      "visual_type": "video",
+      "hook_en": "When the model gets cheaper, cost stops being the bottleneck for agents. Memory takes its place: what the agent keeps, what it forgets, what it can find again. The next wave of agents will win on recall, not on raw model size.",
+      "video_tip": "8-12s screen capture of an agent doing a computer task, then a lower-third caption 'price down, context up' with the agent's memory file scrolling by.",
+      "angle": "Rides the GPT-6.1 Terra launch (cheaper API, computer use) and bends it toward the operator's memory/RAG niche.",
+      "why": "OpenAI's GPT-6.1 Terra video post reached 4.03M views on 26 Oct and Dotey's Chinese summary of it reached 62.5K.",
+      "evidence_urls": ["https://x.com/OpenAI/status/2114780711664398349"]
+    }
+  ],
+  "takeaway": ""
+}

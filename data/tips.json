@@ -1,0 +1,4 @@
+{
+  "_comment": "Optional per-post video_tip overrides keyed by post id. Written by the agent; builder falls back to a media-based generic tip.",
+  "tips": {}
+}
