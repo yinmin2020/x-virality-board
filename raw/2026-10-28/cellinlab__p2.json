@@ -1,0 +1,626 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-27T06:48:26.000Z",
+      "edit_history_tweet_ids": [
+        "2114972473762738296"
+      ],
+      "id": "2114972473762738296",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 5254,
+        "like_count": 26,
+        "quote_count": 2,
+        "reply_count": 18,
+        "retweet_count": 6
+      },
+      "text": "GA，万推！忙了阶段停了几天的互动又来了！🎉\n\n刷到一个朋友整理的 AI 博主推油列表，认真对了一遍——里面好多人都是我平时真在看、真能学到东西的。\n\nAgent 编程、Codex 实战、SEO/GEO、AI 绘图、机器人，覆盖超全！👍\n\n@bozhou_ai 泊舟｜Agent / 多 Agent / 怎么卖\n@li9292 李韭二｜Agent 开发 / 架构",
+      "url": "https://x.com/i/status/2114972473762738296"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114968073690370048"
+        ]
+      },
+      "created_at": "2026-10-27T06:31:40.000Z",
+      "edit_history_tweet_ids": [
+        "2114968255068811733"
+      ],
+      "id": "2114968255068811733",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1114,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114896229088030954",
+          "type": "quoted"
+        }
+      ],
+      "text": "我发现 AI 视频生成成本这种事，\n当你不能拿来赚钱时：\n卧槽，这个怎么这么贵？\n\n当你开始拿视频变现时：\n我靠，这个真的好便宜啊！\n\n1 秒 1毛钱不到能做成这样，还要啥自行车啊😭\n\n注册免费试 👉https://t.co/CiMSYeQ8FH https://t.co/Wz8YVRdFG1 https://t.co/1XFqeb6fYA",
+      "url": "https://x.com/i/status/2114968255068811733"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114952744943616000"
+        ]
+      },
+      "created_at": "2026-10-27T05:30:05.000Z",
+      "edit_history_tweet_ids": [
+        "2114952754582188366"
+      ],
+      "id": "2114952754582188366",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 672,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114952284694311229",
+          "type": "quoted"
+        }
+      ],
+      "text": "流量密码 打印学习📑 https://t.co/dBCygaLTpU https://t.co/ImPL123dwJ",
+      "url": "https://x.com/i/status/2114952754582188366"
+    },
+    {
+      "created_at": "2026-10-27T05:28:13.000Z",
+      "edit_history_tweet_ids": [
+        "2114952284694311229"
+      ],
+      "id": "2114952284694311229",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 888,
+        "like_count": 0,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114568200029646864",
+          "type": "quoted"
+        }
+      ],
+      "text": "帮我分析这个帖子为什么这么火？\n\n命中了哪些传播要素？或者人性弱点？ @grok https://t.co/o8cAWSNGGv",
+      "url": "https://x.com/i/status/2114952284694311229"
+    },
+    {
+      "created_at": "2026-10-27T05:12:26.000Z",
+      "edit_history_tweet_ids": [
+        "2114948312281624843"
+      ],
+      "id": "2114948312281624843",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 612,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2091341484863721969",
+          "type": "quoted"
+        }
+      ],
+      "text": "有推油 便宜出 FoloToy 的 AI PASSPORT 吗？\n\n我突然在想，是不是可以收几个组网啊？\n都发布这么久了，还没有基于这玩意的 IM 出现吗？🤔 https://t.co/FLIvtdHxgZ",
+      "url": "https://x.com/i/status/2114948312281624843"
+    },
+    {
+      "created_at": "2026-10-27T04:59:55.000Z",
+      "edit_history_tweet_ids": [
+        "2114945163688898664"
+      ],
+      "id": "2114945163688898664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 222,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114945160677347738",
+          "type": "replied_to"
+        }
+      ],
+      "text": "完整提示词和实战过程👉\n\n「写了“推镜头”，AI 就真的在推吗？我拿同一张真人首帧做了 15 次对照」\nhttps://t.co/pdrwC1XJY1",
+      "url": "https://x.com/i/status/2114945163688898664"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114944038344503296"
+        ]
+      },
+      "created_at": "2026-10-27T04:59:54.000Z",
+      "edit_history_tweet_ids": [
+        "2114945160677347738"
+      ],
+      "id": "2114945160677347738",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1134,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114578198893936996",
+          "type": "quoted"
+        }
+      ],
+      "text": "绝了！感觉 H3 完全可以做真人剧了？ 【附完整教程🔥\n\n我拿自己 IP 母版试了运镜镜头，效果非常丝滑啊！🤯  \n\n重点是 1 秒才不到 1 毛钱，这价格用来批量做 AI 视频简直太香！  \n\n注册赠金体验👉\nhttps://t.co/CiMSYeQ8FH https://t.co/QSaWLYkDEM https://t.co/nZS1gqBX70",
+      "url": "https://x.com/i/status/2114945160677347738"
+    },
+    {
+      "created_at": "2026-10-27T04:13:52.000Z",
+      "edit_history_tweet_ids": [
+        "2114933573589545466"
+      ],
+      "id": "2114933573589545466",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 958,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114926133624053934",
+          "type": "quoted"
+        }
+      ],
+      "text": "其实很难评，我一直觉得\n\n在 劳动fa 都不当事的环境谈 职业道德 是个很扯淡的问题…\n\n社会契约都是博弈的结果，社会现象也是多方利益和动机动态博弈的实时表现。\n\n没有绝对的公平正义，只有屁股知道坐在哪里。 https://t.co/buSMKkHxTQ",
+      "url": "https://x.com/i/status/2114933573589545466"
+    },
+    {
+      "created_at": "2026-10-27T03:30:34.000Z",
+      "edit_history_tweet_ids": [
+        "2114922677551124629"
+      ],
+      "id": "2114922677551124629",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 964,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114696127287377974",
+          "type": "quoted"
+        }
+      ],
+      "text": "还可以卖 AI 课！卖 怎么 教人用 AI 做课。。。 https://t.co/83mMkCu8hI",
+      "url": "https://x.com/i/status/2114922677551124629"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114897753268723713"
+        ]
+      },
+      "created_at": "2026-10-27T02:54:00.000Z",
+      "edit_history_tweet_ids": [
+        "2114913474731979206"
+      ],
+      "id": "2114913474731979206",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 984,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114896229088030954",
+          "type": "quoted"
+        }
+      ],
+      "text": "某种程度上，固态软件 已经消亡，\n即时生成的 一次性 柔性软件 无处不在。\n\n比如，在一次创作里生成的这种一次性的，用于排版、沟通展示和交互页面，人机交互通过 Chat（语音输入法效率更高！） 去调整创作内容的展示形式。 https://t.co/y5GKWYOkKr https://t.co/1XFqeb5I92",
+      "url": "https://x.com/i/status/2114913474731979206"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114895457508052992"
+        ]
+      },
+      "created_at": "2026-10-27T01:45:28.000Z",
+      "edit_history_tweet_ids": [
+        "2114896229088030954"
+      ],
+      "id": "2114896229088030954",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 4539,
+        "like_count": 16,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114578198893936996",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽？！不是说 H3 只适合做漫剧吗？\n我试了几把真人的，感觉效果也不错啊！🤯\n\n1 秒才不到 1 毛钱，这价格用来做 AI 视频学习测试简直不要太香！\n\n注册就送体验券👉https://t.co/CiMSYeQ8FH https://t.co/dDNb16XPwk https://t.co/nZS1gqBX70",
+      "url": "https://x.com/i/status/2114896229088030954"
+    },
+    {
+      "created_at": "2026-10-27T01:13:39.000Z",
+      "edit_history_tweet_ids": [
+        "2114888220039319557"
+      ],
+      "id": "2114888220039319557",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3179,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "糟糕，部门又一个超能打的小伙伴跳槽了，\n感觉我的低保要越来越难混到的了...",
+      "url": "https://x.com/i/status/2114888220039319557"
+    },
+    {
+      "created_at": "2026-10-27T00:26:28.000Z",
+      "edit_history_tweet_ids": [
+        "2114876347562746363"
+      ],
+      "id": "2114876347562746363",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1834,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113427727701401941",
+          "type": "quoted"
+        }
+      ],
+      "text": "我昨天也是，让我的 codex 几小时内自己赚了两个月订阅费！\n\n全程我只需要告诉他目标！ https://t.co/Sncb7bf5RY",
+      "url": "https://x.com/i/status/2114876347562746363"
+    },
+    {
+      "created_at": "2026-10-27T00:24:57.000Z",
+      "edit_history_tweet_ids": [
+        "2114875965784617126"
+      ],
+      "id": "2114875965784617126",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1111,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114593113687966112",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈哈 艹 \n\nTim 都在拍 OnlyFans，\n你说你脱不下长衫不想为了流量擦边！\n（手动狗头🐶 https://t.co/vZJHwDvENS",
+      "url": "https://x.com/i/status/2114875965784617126"
+    },
+    {
+      "created_at": "2026-10-27T00:21:56.000Z",
+      "edit_history_tweet_ids": [
+        "2114875209148997827"
+      ],
+      "id": "2114875209148997827",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 935,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114566172163407964",
+          "type": "quoted"
+        }
+      ],
+      "text": "一切都是刚刚开始！\n\n- 工作终结\n- 我们在探索、游戏、自我掌握和创造中找到社区和目标\n- 人类为彼此创造，与彼此共同创造，以获得社区、目标和地位 https://t.co/Ewo3IFpNku",
+      "url": "https://x.com/i/status/2114875209148997827"
+    },
+    {
+      "created_at": "2026-10-26T14:26:23.000Z",
+      "edit_history_tweet_ids": [
+        "2114725329940148557"
+      ],
+      "id": "2114725329940148557",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 3012,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114719512688001507",
+          "type": "quoted"
+        }
+      ],
+      "text": "好像是这样，路径不一样了。\n\n就好比努力加薪，涨幅都是在 0- 100% 内部；\n但是如果是探索不同收入渠道，可能100-n%。 https://t.co/5macNSMA7p",
+      "url": "https://x.com/i/status/2114725329940148557"
+    },
+    {
+      "created_at": "2026-10-26T13:31:10.000Z",
+      "edit_history_tweet_ids": [
+        "2114711435880398861"
+      ],
+      "id": "2114711435880398861",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 671,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114641985575485457",
+          "type": "quoted"
+        }
+      ],
+      "text": "来来来 ，有空闲的开发者 来领 Token 了！\n每月补贴 200$！做 Vibe Usage 的开源管理！ https://t.co/Jvo3AovQyL",
+      "url": "https://x.com/i/status/2114711435880398861"
+    },
+    {
+      "created_at": "2026-10-26T12:00:08.000Z",
+      "edit_history_tweet_ids": [
+        "2114688528785530997"
+      ],
+      "id": "2114688528785530997",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 908,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114651338466607116",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽，兄弟们，这咋整？ https://t.co/YJuLgxliiH",
+      "url": "https://x.com/i/status/2114688528785530997"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114665066750775297"
+        ]
+      },
+      "created_at": "2026-10-26T10:27:11.000Z",
+      "edit_history_tweet_ids": [
+        "2114665134098612288"
+      ],
+      "id": "2114665134098612288",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 886,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114529560624812044",
+          "type": "quoted"
+        }
+      ],
+      "text": "实在抱歉，还没习惯。。。 https://t.co/HJwCv6Hqc6 https://t.co/I6yUpsUXsJ",
+      "url": "https://x.com/i/status/2114665134098612288"
+    },
+    {
+      "created_at": "2026-10-26T09:59:50.000Z",
+      "edit_history_tweet_ids": [
+        "2114658250675323230"
+      ],
+      "id": "2114658250675323230",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1090,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114653723398111559",
+          "type": "quoted"
+        }
+      ],
+      "text": "这个问题就是答案。\n\n载体的易获得和创作成本的降低，让人类出现好内容的数量显著提高了。 https://t.co/YYRk5UquoO",
+      "url": "https://x.com/i/status/2114658250675323230"
+    },
+    {
+      "created_at": "2026-10-26T08:39:07.000Z",
+      "edit_history_tweet_ids": [
+        "2114637938973917326"
+      ],
+      "id": "2114637938973917326",
+      "public_metrics": {
+        "bookmark_count": 60,
+        "impression_count": 12574,
+        "like_count": 28,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114578198893936996",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽，我发现好多人不知道 AI 视频价格，\nH3 已经可以做到 不到 1 毛钱 1 秒了！\n\n比如，这家 👉https://t.co/XXS4X7DePW https://t.co/nZS1gqBX70",
+      "url": "https://x.com/i/status/2114637938973917326"
+    },
+    {
+      "created_at": "2026-10-26T07:30:50.000Z",
+      "edit_history_tweet_ids": [
+        "2114620754646213085"
+      ],
+      "id": "2114620754646213085",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 13059,
+        "like_count": 43,
+        "quote_count": 4,
+        "reply_count": 16,
+        "retweet_count": 2
+      },
+      "text": "暴论：SeeDance 2.5 级别的视频模型成本降到 1 分钱每秒的时候，会迎来视频内容文艺复兴！",
+      "url": "https://x.com/i/status/2114620754646213085"
+    },
+    {
+      "created_at": "2026-10-26T06:45:54.000Z",
+      "edit_history_tweet_ids": [
+        "2114609445561151735"
+      ],
+      "id": "2114609445561151735",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 921,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114208746532655481",
+          "type": "quoted"
+        }
+      ],
+      "text": "强烈呼吁！拒绝耍猴行为！ https://t.co/OZbAq8xTnY",
+      "url": "https://x.com/i/status/2114609445561151735"
+    },
+    {
+      "created_at": "2026-10-26T06:45:22.000Z",
+      "edit_history_tweet_ids": [
+        "2114609311448211926"
+      ],
+      "id": "2114609311448211926",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1037,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114256653566775730",
+          "type": "quoted"
+        }
+      ],
+      "text": "果然，又浪费 70% 额度... \n耍吧耍吧，已经降档了。 https://t.co/6qWsogbrYR",
+      "url": "https://x.com/i/status/2114609311448211926"
+    },
+    {
+      "created_at": "2026-10-26T05:23:47.000Z",
+      "edit_history_tweet_ids": [
+        "2114588780422443311"
+      ],
+      "id": "2114588780422443311",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1137,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114588174249071102",
+          "type": "quoted"
+        }
+      ],
+      "text": "什么意思，又要重置吗！？@grok\nOpen AI 算力怕不是出了什么问题... https://t.co/OsfuuqlK7c",
+      "url": "https://x.com/i/status/2114588780422443311"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "13_2114968073690370048",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2114952744943616000",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2114944038344503296",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2114897753268723713",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2114895457508052992",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2114665066750775297",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2114972473762738296",
+    "next_token": "7140dibdnow9c7btwp0g75zttn8k0yyr5ebyw48wxag4x",
+    "oldest_id": "2114588780422443311",
+    "previous_token": "77qpymm88g5h9vqkmfprnljdosyxueaf4etrrx908n0ae",
+    "result_count": 25
+  }
+}

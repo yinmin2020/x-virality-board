@@ -1,0 +1,890 @@
+{
+  "data": [
+    {
+      "author_id": "1080114970509987845",
+      "created_at": "2026-10-28T03:02:19.000Z",
+      "edit_history_tweet_ids": [
+        "2115277956897706428"
+      ],
+      "id": "2115277956897706428",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 188,
+        "like_count": 1,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "🎓 斯坦福 2026 秋季新课 CS329Z：Engineering AI Agents（AI 智能体工程）\n\n对于想深入学习 Agent 开发的人来说，这是一套很有价值的系统性学习资源。\n\nCS329Z 由 Diyi Yang、Michael Ryan 和 John Yang 等人授课，重点讲解如何从零构建、优化和评估真正能工作的 AI Agent 系统。\n\n📚 课程主要内容：",
+      "url": "https://x.com/coder_onchain/status/2115277956897706428"
+    },
+    {
+      "author_id": "1207019158791229440",
+      "created_at": "2026-10-28T03:19:39.000Z",
+      "edit_history_tweet_ids": [
+        "2115282319531786275"
+      ],
+      "id": "2115282319531786275",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 2459,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115282013523710461",
+          "type": "quoted"
+        }
+      ],
+      "text": "想当 agent 工程师，斯坦福这门 CS329Z 可以直接拿来抄作业。\n\n从 RAG、工具调用、MCP，一路讲到记忆、多智能体、评测和安全。\n\n课件和必读论文都挂在官网上。\n\n🔗 https://t.co/YnRdZsqAgu https://t.co/ILyOQHJ2DP",
+      "url": "https://x.com/NFTCPS/status/2115282319531786275"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115115003653304320"
+        ]
+      },
+      "author_id": "1928485065329356804",
+      "created_at": "2026-10-28T06:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115330220777758725"
+      ],
+      "id": "2115330220777758725",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 172,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "光看教程做不出 AI 应用？不如直接翻现成项目练手。\n\nawesome-llm-apps 这个仓库我翻了一圈，全是基于大语言模型搭建的应用案例，AI Agent、RAG、多智能体协作、各类模型集成都在里头。\n\n🤖 看不同 Agent 怎么搭\n📚 学 RAG 和知识库应用\n💻 对着代码动手复现\n找灵感、学架构、练手做 Demo https://t.co/GVSfJ7JV0T",
+      "url": "https://x.com/wangxiaoxin88/status/2115330220777758725"
+    },
+    {
+      "author_id": "2046949850370174976",
+      "created_at": "2026-10-27T04:38:40.000Z",
+      "edit_history_tweet_ids": [
+        "2114939817352179839"
+      ],
+      "id": "2114939817352179839",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 145,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "2026 年 AI Agent 开发最常见的 30 个术语（英文全称 + 中文解释）\n\n最近从机械自动化跨到 AI Agent 开发，发现这个领域又有一整套工程术语。\n\n整理了 30 个常见概念，按实际开发流程分类。\n\n一、模型与上下文\n\nLLM（Large Language Model）：大语言模型，Agent 的推理与生成核心。",
+      "url": "https://x.com/SeanchenZ/status/2114939817352179839"
+    },
+    {
+      "author_id": "1844800853674508288",
+      "created_at": "2026-10-28T11:03:42.000Z",
+      "edit_history_tweet_ids": [
+        "2115399100375933330"
+      ],
+      "id": "2115399100375933330",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "「开十个 agent 一起写」听着爽，直到它们抢同一文件、重复踩同一坑。\n\n开源 ruflo（约 **8.0 万**★）把自己定位成 agent harness：多智能体编排、自适应记忆、联邦与 RAG，并原生接 Claude Code / Codex / Hermes 等。热闹功能很多——真正贵的是你有没有任务边界和回滚面。",
+      "url": "https://x.com/nickling017/status/2115399100375933330"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115257285413109760"
+        ]
+      },
+      "author_id": "2054327928226484224",
+      "created_at": "2026-10-28T01:40:16.000Z",
+      "edit_history_tweet_ids": [
+        "2115257307672281181"
+      ],
+      "id": "2115257307672281181",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 42,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "学Agent设计模式最大的痛，就是找不到能边学边动手练的资料。\n\n好消息是，谷歌的Antonio Gulli把这套东西整理成书了——正文21章加7个附录，配套材料全部开源放在GitHub。 https://t.co/SR3fa9zq6x",
+      "url": "https://x.com/GYLQ520/status/2115257307672281181"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2115348843869138944"
+        ]
+      },
+      "author_id": "1650822571032739841",
+      "created_at": "2026-10-28T07:44:13.000Z",
+      "edit_history_tweet_ids": [
+        "2115348898399371348"
+      ],
+      "id": "2115348898399371348",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 931,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "这是个金矿\n\nAnthropic 把 Agent Skills 变成了开放标准，GitHub 上已经堆满了给 Claude Code 用的、开箱即用的智能体团队。免费。\n\n其中一个仓库就打包了 135 个智能体、35 个 skill、42 条命令、176 个以上插件和 20 个 hook。\n\n另一个收了 100 多个专门化的子智能体。\n\n下面这 10 https://t.co/fV1g6DHBvP",
+      "url": "https://x.com/nuannuan_share/status/2115348898399371348"
+    },
+    {
+      "author_id": "1854284520595566592",
+      "created_at": "2026-10-27T00:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2114870945177653523"
+      ],
+      "id": "2114870945177653523",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1274,
+        "like_count": 9,
+        "quote_count": 1,
+        "reply_count": 21,
+        "retweet_count": 0
+      },
+      "text": "现在最明显（但真的好用）的创业点子：\n\n1、企业数据估值平台：你的公司数据卖给 AI 大模型公司，究竟值多少钱？\n\n2、Agent 版百度统计：哪些 AI 智能体访问了你的网站？它们想找什么？\n\n3、一人公司创业孵化器：专门投资带着 AI 智能体团队创业的独立创始人。\n\n4、AI 员工权限管理平台：管理每个 AI",
+      "url": "https://x.com/3three_AI/status/2114870945177653523"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115252872107696128"
+        ]
+      },
+      "author_id": "1727548535816724480",
+      "created_at": "2026-10-28T01:22:42.000Z",
+      "edit_history_tweet_ids": [
+        "2115252887882539279"
+      ],
+      "id": "2115252887882539279",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 1297,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 20,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "多智能体时代，工程师要解的是基建、身份、隔离与急停\n\nAnthroic 平台负责人 @katelyn_lesse 认为：工程师的「身份危机」被看反了，模型再强，多智能体要做出可信结果，仍靠人把基础设施、身份与授权、安全隔离、可观测与急停做对；这些题大多还空着，正是未来一两年工程师的主战场。 https://t.co/bcCSq4PxnK https://t.co/t26zO8qzXG",
+      "url": "https://x.com/shao__meng/status/2115252887882539279"
+    },
+    {
+      "author_id": "3178231",
+      "created_at": "2026-10-27T23:49:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115229306490126432"
+      ],
+      "id": "2115229306490126432",
+      "public_metrics": {
+        "bookmark_count": 438,
+        "impression_count": 46289,
+        "like_count": 315,
+        "quote_count": 17,
+        "reply_count": 85,
+        "retweet_count": 49
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "Anthropic 平台工程负责人 Katelyn Lesse：上千个 AI 智能体一起干活，还缺程序员解决四个难题\n\nAI 越来越会写代码，很多程序员开始怀疑自己的手艺还值不值钱。Anthropic 平台工程负责人 Katelyn Lesse 10 月 25 日发文说，她看到的情况正相反：接下来一两年，AI https://t.co/qzus2HXpYW",
+      "url": "https://x.com/dotey/status/2115229306490126432"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114880216271327232"
+        ]
+      },
+      "author_id": "1511574513967722505",
+      "created_at": "2026-10-27T00:41:54.000Z",
+      "edit_history_tweet_ids": [
+        "2114879440190951860",
+        "2114880229919641773",
+        "2114880909019349414",
+        "2114881916013035991"
+      ],
+      "id": "2114880229919641773",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "留给工程师们解决的新问题\n\n很多软件工程师正在经历一种被称为「身份危机（identity https://t.co/3JG9OY5cYJ https://t.co/KRKNzJpnpR",
+      "url": "https://x.com/_Genshin_Ganyu_/status/2114880229919641773"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114880216271327232"
+        ]
+      },
+      "author_id": "1511574513967722505",
+      "created_at": "2026-10-27T00:48:36.000Z",
+      "edit_history_tweet_ids": [
+        "2114879440190951860",
+        "2114880229919641773",
+        "2114880909019349414",
+        "2114881916013035991"
+      ],
+      "id": "2114881916013035991",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1217,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "留给工程师们解决的新问题\n\n很多软件工程师正在经历一种被称为「身份危机（identity https://t.co/pcDCAuRcFP https://t.co/KRKNzJpnpR",
+      "url": "https://x.com/_Genshin_Ganyu_/status/2114881916013035991"
+    },
+    {
+      "author_id": "1511574513967722505",
+      "created_at": "2026-10-27T00:38:45.000Z",
+      "edit_history_tweet_ids": [
+        "2114879440190951860",
+        "2114880229919641773",
+        "2114880909019349414",
+        "2114881916013035991"
+      ],
+      "id": "2114879440190951860",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "留给工程师们解决的新问题\n\n很多软件工程师正在经历一种被称为「身份危机（identity https://t.co/KRKNzJpnpR",
+      "url": "https://x.com/_Genshin_Ganyu_/status/2114879440190951860"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115233480191930368"
+        ]
+      },
+      "author_id": "1888516575478837248",
+      "created_at": "2026-10-28T00:05:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115233503743013172"
+      ],
+      "id": "2115233503743013172",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 66,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "【Anthropic平台工程负责人：上千个AI智能体协同工作，还要靠工程师解决四大难题】\n\nAnthropic平台工程负责人Katelyn Lesse 10月25日撰文称，很多程序员正担心自己的技能被AI取代，但她看到的恰恰相反：未来一两年，AI要做成大事，得先靠软件工程师解决一批新问题。 https://t.co/CXOKTFQvWM",
+      "url": "https://x.com/0xlunasterling/status/2115233503743013172"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114880216271327232"
+        ]
+      },
+      "author_id": "1511574513967722505",
+      "created_at": "2026-10-27T00:44:35.000Z",
+      "edit_history_tweet_ids": [
+        "2114879440190951860",
+        "2114880229919641773",
+        "2114880909019349414",
+        "2114881916013035991"
+      ],
+      "id": "2114880909019349414",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114542280535318557",
+          "type": "quoted"
+        }
+      ],
+      "text": "留给工程师们解决的新问题\n\n很多软件工程师正在经历一种被称为「身份危机（identity https://t.co/0k1at90qiV https://t.co/KRKNzJpnpR",
+      "url": "https://x.com/_Genshin_Ganyu_/status/2114880909019349414"
+    },
+    {
+      "author_id": "1516238983000637442",
+      "created_at": "2026-10-26T14:52:48.000Z",
+      "edit_history_tweet_ids": [
+        "2114731981682729467"
+      ],
+      "id": "2114731981682729467",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 740,
+        "like_count": 3,
+        "quote_count": 2,
+        "reply_count": 11,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2106866903591612744",
+          "type": "quoted"
+        }
+      ],
+      "text": "推荐下漫谈这期《当 AI 进入组织，那些从没人说过的真相》播客，内容非常精彩，下面总结几条关键点。\n\n1、短板是流程，不是人。\n\n个人用 AI 是短程单点闭环（Coding 提效 3–5 倍），企业运转是长链条跨部门协作（交付仅从 20 天缩至 17 https://t.co/xOCDO84XwX",
+      "url": "https://x.com/Zhibin992/status/2114731981682729467"
+    },
+    {
+      "author_id": "2108531260427816960",
+      "created_at": "2026-10-27T06:04:27.000Z",
+      "edit_history_tweet_ids": [
+        "2114961402171727959"
+      ],
+      "id": "2114961402171727959",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 107,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "IBM 今天给 AI 智能体发了身份证。\n\nAgent Identity 正式可用，Vault 2.2 同步上线：每个智能体有专属身份、只拿任务够用的短期凭证，越权可实时吊销。\n\n智能体越跑越远，先管住身份再谈干活。\n\n做 AI 智能体的：先上锁，还是先跑起来再说？\n\n#IBM #AI智能体",
+      "url": "https://x.com/xiaoanlab/status/2114961402171727959"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115450321480859648"
+        ]
+      },
+      "author_id": "1517131612453965824",
+      "created_at": "2026-10-28T14:27:23.000Z",
+      "edit_history_tweet_ids": [
+        "2115450360798298472"
+      ],
+      "id": "2115450360798298472",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 99,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "🚀 DeepSeek 网页搜索与抓取 API 正式上线！\n\n做 AI Agent 和 RAG 应用的朋友们有福了，DeepSeek 现已推出 Search 与 Fetch 接口，直接为应用注入实时联网检索与网页解析能力！\n\n🔍 两大核心能力：\n\nSearch 接口：基于 DeepSeek 自研搜索引擎支持，按 query https://t.co/5PyhQDpQ99",
+      "url": "https://x.com/hisevenih/status/2115450360798298472"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114942068573544448"
+        ]
+      },
+      "author_id": "2110610632198516736",
+      "created_at": "2026-10-27T04:47:53.000Z",
+      "edit_history_tweet_ids": [
+        "2114942135917220298"
+      ],
+      "id": "2114942135917220298",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "学 AI Agent 别急着报班，先啃这 4 本免费电子书\nGalileo 放出的 Mastering GenAI Series，四本加起来约 500 页，RAG 到 Agent 评估的核心知识都盖到了\nAI Agents、RAG、多智能体协作、LLM-as-a-Judge 各一本\n正在入门或进阶 AI 应用开发的，先系统补补底子，再定往哪个方向扎 https://t.co/lt1rDr4URM",
+      "url": "https://x.com/octopusaia/status/2114942135917220298"
+    },
+    {
+      "author_id": "1427044369891094528",
+      "created_at": "2026-10-27T01:06:41.000Z",
+      "edit_history_tweet_ids": [
+        "2114886469164609833"
+      ],
+      "id": "2114886469164609833",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "沃尔玛这波操作很有意思：亚马逊刚开始挡 AI 智能体代下单，它反手就推出了 Agent Gateway，让智能体能查库存、按用户授权下单，还给每个智能体单独建账、设限额。意思很明白——别人怕智能体抢生意，它要先把智能体的订单接住。跨境卖家看热闹之余也得想想：你的商品信息，智能体读得懂吗？（据",
+      "url": "https://x.com/changyong007/status/2114886469164609833"
+    },
+    {
+      "author_id": "2108531260427816960",
+      "created_at": "2026-10-27T12:33:49.000Z",
+      "edit_history_tweet_ids": [
+        "2115059390474768848"
+      ],
+      "id": "2115059390474768848",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 233,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "Akamai 一次端上推理托管和智能体沙箱。\n\nInference 托管推理，12 个开源模型、80 亿到 2.8 万亿参数；Agent Sandbox 用 WebAssembly 隔离智能体代码。\n\n推理不用自己搭，代码跑歪不炸主系统。\n\n对跑智能体的人来说，托管，还是自搭？\n\n#Akamai #AI智能体",
+      "url": "https://x.com/xiaoanlab/status/2115059390474768848"
+    },
+    {
+      "author_id": "807925206",
+      "created_at": "2026-10-27T07:42:13.000Z",
+      "edit_history_tweet_ids": [
+        "2114986008349491318"
+      ],
+      "id": "2114986008349491318",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 206,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "AI 智能体也要办身份证了。\n\nIBM 今天在 TechXchange 上把 Agent Identity 转正：每个智能体有主人、有权限、凭证会过期；Vault 2.2 给智能体开专属账号、自动续凭证，还上了抗量子加密；watsonx Orchestrate 则能跨平台发现 Bedrock、Foundry、Gemini 上跑的智能体，失控了还能一键叫停。\n\nGartner",
+      "url": "https://x.com/tonnyzhou/status/2114986008349491318"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114581569327489024"
+        ]
+      },
+      "author_id": "1775713394945032192",
+      "created_at": "2026-10-26T18:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2114786640745074953"
+      ],
+      "id": "2114786640745074953",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 789,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "text": "学AI Agent别急着报班，先啃这4本免费电子书。\n\nGalileo 放出了 Mastering GenAI Series，四本加起来约 500 页，RAG 到 Agent 评估的核心知识都盖到了。\n\n📘 Mastering AI Agents：搞懂 Agent 的设计和搭建\n📗 Mastering RAG：学检索增强生成和向量数据库\n📙 Mastering Multi-Agent https://t.co/4a6FWiZRvV",
+      "url": "https://x.com/Huahuazo/status/2114786640745074953"
+    },
+    {
+      "author_id": "2005878381041364992",
+      "created_at": "2026-10-26T19:19:45.000Z",
+      "edit_history_tweet_ids": [
+        "2114799160511914451"
+      ],
+      "id": "2114799160511914451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "我是 Agent #26472。我希望 AI 智能体在 Web3 中替我盯盘和执行策略——24 小时监控行情，触发条件自动下单，不再错过深夜的机会。你希望智能体为你做什么？#ProofOfAgent @Ptahtrade https://t.co/KnAfWOZNWb",
+      "url": "https://x.com/lin1486751/status/2114799160511914451"
+    },
+    {
+      "author_id": "2008483287363448834",
+      "created_at": "2026-10-27T03:56:57.000Z",
+      "edit_history_tweet_ids": [
+        "2114929319562944539"
+      ],
+      "id": "2114929319562944539",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "智能体协议标准迎来开源地震，Anthropic 放弃独占捐赠核心资产。\nAnthropic 刚正式将 Agent Skills 标准、域名与代码仓库全量捐赠给独立开源基金会，防止智能体接口协议被单一闭源巨头私有化绑架。\n现实影响：多智能体跨框架互通迈出关键一步，出海系统搭建千万别再写死定制私有协议，尽早向通用 Agent",
+      "url": "https://x.com/AIOPCX/status/2114929319562944539"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115115003653304320",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115257285413109760",
+        "type": "photo"
+      },
+      {
+        "media_key": "7_2115348843869138944",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115252872107696128",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114880216271327232",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115233480191930368",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115450321480859648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114942068573544448",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114581569327489024",
+        "type": "photo"
+      }
+    ],
+    "users": [
+      {
+        "id": "1080114970509987845",
+        "name": "链上码农",
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 2803,
+          "like_count": 6867,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 12818
+        },
+        "username": "coder_onchain"
+      },
+      {
+        "id": "1207019158791229440",
+        "name": "鸟哥 | 蓝鸟会🕊️",
+        "public_metrics": {
+          "followers_count": 139066,
+          "following_count": 5574,
+          "like_count": 51604,
+          "listed_count": 1347,
+          "media_count": 7396,
+          "tweet_count": 22806
+        },
+        "username": "NFTCPS"
+      },
+      {
+        "id": "1928485065329356804",
+        "name": "奶茶不加冰",
+        "public_metrics": {
+          "followers_count": 10185,
+          "following_count": 8031,
+          "like_count": 33,
+          "listed_count": 9,
+          "media_count": 1023,
+          "tweet_count": 1190
+        },
+        "username": "wangxiaoxin88"
+      },
+      {
+        "id": "2046949850370174976",
+        "name": "porco",
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 80,
+          "like_count": 3927,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 958
+        },
+        "username": "SeanchenZ"
+      },
+      {
+        "id": "1844800853674508288",
+        "name": "咸鱼",
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 2550,
+          "like_count": 5539,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 3528
+        },
+        "username": "nickling017"
+      },
+      {
+        "id": "2054327928226484224",
+        "name": "孤桜ETH",
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 1613,
+          "like_count": 456,
+          "listed_count": 25,
+          "media_count": 2864,
+          "tweet_count": 9032
+        },
+        "username": "GYLQ520"
+      },
+      {
+        "id": "1650822571032739841",
+        "name": "暖暖爱AI",
+        "public_metrics": {
+          "followers_count": 60841,
+          "following_count": 47,
+          "like_count": 12487,
+          "listed_count": 351,
+          "media_count": 3115,
+          "tweet_count": 5938
+        },
+        "username": "nuannuan_share"
+      },
+      {
+        "id": "1854284520595566592",
+        "name": "三个三",
+        "public_metrics": {
+          "followers_count": 11997,
+          "following_count": 1071,
+          "like_count": 955,
+          "listed_count": 51,
+          "media_count": 299,
+          "tweet_count": 1652
+        },
+        "username": "3three_AI"
+      },
+      {
+        "id": "1727548535816724480",
+        "name": "meng shao",
+        "public_metrics": {
+          "followers_count": 36531,
+          "following_count": 1115,
+          "like_count": 66650,
+          "listed_count": 693,
+          "media_count": 7543,
+          "tweet_count": 15927
+        },
+        "username": "shao__meng"
+      },
+      {
+        "id": "3178231",
+        "name": "宝玉",
+        "public_metrics": {
+          "followers_count": 262540,
+          "following_count": 1765,
+          "like_count": 56520,
+          "listed_count": 4751,
+          "media_count": 6059,
+          "tweet_count": 34981
+        },
+        "username": "dotey"
+      },
+      {
+        "id": "1511574513967722505",
+        "name": "研究员王小美🥥🐑",
+        "public_metrics": {
+          "followers_count": 4770,
+          "following_count": 1785,
+          "like_count": 6768,
+          "listed_count": 10,
+          "media_count": 484,
+          "tweet_count": 3322
+        },
+        "username": "_Genshin_Ganyu_"
+      },
+      {
+        "id": "1888516575478837248",
+        "name": "Ciel 🎒",
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 983,
+          "like_count": 1204,
+          "listed_count": 16,
+          "media_count": 350,
+          "tweet_count": 1966
+        },
+        "username": "0xlunasterling"
+      },
+      {
+        "id": "1516238983000637442",
+        "name": "Robin | Robotics Data",
+        "public_metrics": {
+          "followers_count": 11385,
+          "following_count": 8096,
+          "like_count": 10970,
+          "listed_count": 13,
+          "media_count": 1377,
+          "tweet_count": 21893
+        },
+        "username": "Zhibin992"
+      },
+      {
+        "id": "2108531260427816960",
+        "name": "XiaoAnLab",
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 1545,
+          "like_count": 2215,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1756
+        },
+        "username": "xiaoanlab"
+      },
+      {
+        "id": "1517131612453965824",
+        "name": "HiSeven｜🕊️",
+        "public_metrics": {
+          "followers_count": 28834,
+          "following_count": 24008,
+          "like_count": 152934,
+          "listed_count": 94,
+          "media_count": 1659,
+          "tweet_count": 162745
+        },
+        "username": "hisevenih"
+      },
+      {
+        "id": "2110610632198516736",
+        "name": "章鱼说",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 464,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 277
+        },
+        "username": "octopusaia"
+      },
+      {
+        "id": "1427044369891094528",
+        "name": "跑步最快的程序员指挥Ai Agent",
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 788,
+          "like_count": 48,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1439
+        },
+        "username": "changyong007"
+      },
+      {
+        "id": "807925206",
+        "name": "Tonny｜AI Builder",
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1265,
+          "like_count": 700,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 7498
+        },
+        "username": "tonnyzhou"
+      },
+      {
+        "id": "1775713394945032192",
+        "name": "LanfAI",
+        "public_metrics": {
+          "followers_count": 21182,
+          "following_count": 6352,
+          "like_count": 352,
+          "listed_count": 70,
+          "media_count": 3343,
+          "tweet_count": 3944
+        },
+        "username": "Huahuazo"
+      },
+      {
+        "id": "2005878381041364992",
+        "name": "独行天下",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "lin1486751"
+      },
+      {
+        "id": "2008483287363448834",
+        "name": "赛博参谋",
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 373,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 590
+        },
+        "username": "AIOPCX"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115450360798298472",
+    "next_token": "b26v89c19zqg8o3juzlx935x7pifsqja21yl9ndjehsvx",
+    "oldest_id": "2114731981682729467",
+    "result_count": 25
+  }
+}

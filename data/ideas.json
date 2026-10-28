@@ -2,64 +2,63 @@
   "_comment": "Written by the agent each day (3 EN post ideas for the operator). Keep facts and numbers traceable to posts on the board. Short hyphen only, no new numbers.",
   "ideas": [
     {
-      "title": "Agents are waiting for their Kubernetes moment",
-      "topic": "Coding agents (Codex, Claude)",
+      "title": "Harnesses beat model chasing again",
+      "topic": "Open source tools and free access",
       "keywords": [
+        "open source / 开源",
         "AI Agent",
-        "Anthropic",
         "code / 代码"
-      ],
-      "format": "video",
-      "visual_type": "video",
-      "hook_en": "Agents are waiting for their Kubernetes moment. Anthropic's platform lead lists the missing pieces: agent file systems, sandboxes, runtimes. Manus says its engineering stack went from human-friendly to exposing interfaces to AI. As an ops person, this is the most familiar plot twist in tech.",
-      "video_tip": "12s split screen: left a 2015-style kubectl get pods, right an agent sandbox list; caption morphs 'containers needed an orchestrator' into 'agents need one too'.",
-      "angle": "Uses yin min's DevOps / K8s background to frame agent infrastructure as the next platform layer.",
-      "why": "A Chinese summary of Anthropic platform lead Katelyn Lesse's piece on agent infrastructure (compared to k8s) reached 29.4K views; Dotey's Manus AI Native org post reached 24.4K; Anthropic's S-1 post reached 7.8M on 26 Oct.",
-      "evidence_urls": [
-        "https://x.com/turingbook/status/2114724007639392330",
-        "https://x.com/dotey/status/2114929079975563269",
-        "https://x.com/AnthropicAI/status/2114705042817110293"
-      ]
-    },
-    {
-      "title": "Fix the parser before you blame the memory",
-      "topic": "Agent memory / RAG",
-      "keywords": [
-        "Memory / RAG",
-        "model / 模型",
-        "open source / 开源"
       ],
       "format": "screencast",
       "visual_type": "screencast",
-      "hook_en": "New eval: many agent memory systems can't beat naive RAG, even at higher cost. Meanwhile OCR models now swallow entire book series in one pass. The boring layers are winning. If your agent forgets, check parsing and retrieval before you buy another memory framework.",
-      "video_tip": "15s screencast: drop a messy PDF in, show the raw parsed chunks scrolling, highlight one broken table, then a caption 'garbage in, no memory can save it'.",
-      "angle": "Second-day take on the RAG-vs-memory debate, moved one layer down to document parsing, which yin min's RAG + Milvus audience feels daily.",
-      "why": "XuanHe21's thread on memory systems underperforming naive RAG reached 15.9K views; xiaohu's post on the second-gen Unlimited OCR model reached 50.8K; the RAW-RAG post is at 92.8K.",
+      "hook_en": "I used to chase the next big model. Lately I catch myself chasing harnesses instead. Cheap mid-tier models plus a plugin layer people actually enjoy hacking. That feels closer to how we once flashed ROMs than how we buy API tiers. If your agent stack only upgrades models and never upgrades the shell around them, you are optimizing the wrong layer.",
+      "video_tip": "18s screencast: open a blank agent shell, drop in two plugins side by side, flash a caption 'model stays; harness changes' then cut to a tiny plugin list scrolling like an Obsidian community tab.",
+      "angle": "yin min as DevOps + Agent builder: platform/shell > raw model upgrades; rides DeepSeek Harness plugin wave without copying anyone's punchline.",
+      "why": "op7418's DeepSeek Harness plugin post hit 339K views; vista8's Harness-as-Obsidian take hit 46K. Open-source tooling keywords were heavy on the board.",
       "evidence_urls": [
-        "https://x.com/XuanHe21/status/2114917854877307162",
-        "https://x.com/xiaohu/status/2114927673894199611",
-        "https://x.com/akshay_pachaar/status/2114659720602534014"
+        "https://x.com/op7418/status/2115000078104691168",
+        "https://x.com/vista8/status/2115084756253863978"
       ]
     },
     {
-      "title": "My assistant now reads X for me",
-      "topic": "Grok Bot + video hacks",
+      "title": "Stop interviewing for what Claude already owns",
+      "topic": "Coding agents (Codex, Claude)",
       "keywords": [
-        "Grok Bot",
-        "Grok",
-        "video / 视频"
+        "Claude / Opus",
+        "Anthropic",
+        "code / 代码"
+      ],
+      "format": "talking-head",
+      "visual_type": "video",
+      "hook_en": "If your interview still hinges on a textbook coding puzzle, you are ranking candidates against Claude's homework set. I hire for ops and agents: I care who can debug a flaky retrieval path, own a failure mode, and say no to a shiny memory framework. The race is not who types faster. It is who still has judgment when the model is already fluent.",
+      "video_tip": "12s: whiteboard erase of a leetcode-style prompt, rewrite three bullets: failure ownership, retrieval debugging, shipping judgment; end on 'Claude owns the puzzle; you own the system'.",
+      "angle": "Personal hiring/ops judgment reacting to Anthropic skipping classic coding screens — original voice, not a summary of Felix's blog.",
+      "why": "dotey's Felix Rieseberg interview piece hit 84K; Anthropic/Claude keywords dominated view-weighted lexicon; Claude-authored ETH paper thread hit 68K.",
+      "evidence_urls": [
+        "https://x.com/dotey/status/2115218749888634988",
+        "https://x.com/dotey/status/2114952872458633296",
+        "https://x.com/AnthropicAI/status/2115178675050307942"
+      ]
+    },
+    {
+      "title": "Personal agents are shipping before enterprise memory is ready",
+      "topic": "Agent memory / RAG",
+      "keywords": [
+        "AI Agent",
+        "Memory / RAG",
+        "Grok Bot"
       ],
       "format": "video",
       "visual_type": "video",
-      "hook_en": "People are swapping Siri for Grok Bot on their iPhones. I went the other way: I gave it the accounts I follow and it now scans their posts every morning, finds what took off, and rebuilds a public dashboard for me. A personal agent should run while you sleep, not only when you call it.",
-      "video_tip": "10s phone screen recording: open the board, scroll the top hits, tap one post, end on the board URL as a lower-third.",
-      "angle": "Rides the Grok Bot wave (top keywords Grok / Grok Bot / video) with yin min's own working build as proof.",
-      "why": "liyue_ai's Grok Bot-replaces-Siri video reached 134.5K views; Grok and Grok Bot were the #2 and #4 keywords across watchlist posts on 26 Oct.",
+      "hook_en": "Timeline today: consumer agents plugging into payments and rides, Grok Bot desks running unattended loops, and my own posts still lagging the 5K view bar. That contrast is the story. Distribution for personal agents is accelerating. Durable memory and retrieval for the same agents is still the boring bottleneck. I am not scared of the demos. I am watching who ships the memory layer that does not fall over on day three.",
+      "video_tip": "15s split: left a personal-agent home screen lighting up connectors; right a RAG trace with a red 'day-3 forgotten context' flash; caption 'ship the connector last if memory is still soft'.",
+      "angle": "Rides personal-Agent + Grok Bot wave while anchoring yin min's RAG/Memory lane and honest self-performance vs thresholds.",
+      "why": "xiaohu's personal Agent / 灵光 2.0 post hit 43K; 0xlangeai's Grok Bot quant video hit 128K; board keywords topped with Claude/Anthropic then AI Agent / Grok Bot.",
       "evidence_urls": [
-        "https://x.com/liyue_ai/status/2114570263035789763",
-        "https://yinmin2020.github.io/x-virality-board/"
+        "https://x.com/xiaohu/status/2114956083517329906",
+        "https://x.com/0xlangeai/status/2114996566755037275",
+        "https://x.com/yinmin1987/status/2115261453238468876"
       ]
     }
-  ],
-  "takeaway": ""
+  ]
 }

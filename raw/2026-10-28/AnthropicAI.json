@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-27T22:20:23.000Z",
+      "edit_history_tweet_ids": [
+        "2115207004293853358"
+      ],
+      "id": "2115207004293853358",
+      "public_metrics": {
+        "bookmark_count": 251,
+        "impression_count": 235936,
+        "like_count": 1797,
+        "quote_count": 103,
+        "reply_count": 279,
+        "retweet_count": 114
+      },
+      "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.\nhttps://t.co/p0lA6cP2y1",
+      "url": "https://x.com/i/status/2115207004293853358"
+    },
+    {
+      "created_at": "2026-10-27T20:27:48.000Z",
+      "edit_history_tweet_ids": [
+        "2115178675050307942"
+      ],
+      "id": "2115178675050307942",
+      "public_metrics": {
+        "bookmark_count": 3218,
+        "impression_count": 2312311,
+        "like_count": 8923,
+        "quote_count": 553,
+        "reply_count": 589,
+        "retweet_count": 933
+      },
+      "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+      "url": "https://x.com/i/status/2115178675050307942"
+    },
+    {
+      "created_at": "2026-10-26T13:05:46.000Z",
+      "edit_history_tweet_ids": [
+        "2114705042817110293"
+      ],
+      "id": "2114705042817110293",
+      "public_metrics": {
+        "bookmark_count": 3237,
+        "impression_count": 8813050,
+        "like_count": 18121,
+        "quote_count": 2390,
+        "reply_count": 1295,
+        "retweet_count": 2354
+      },
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
+      "url": "https://x.com/i/status/2114705042817110293"
+    }
+  ],
+  "meta": {
+    "newest_id": "2115207004293853358",
+    "oldest_id": "2114705042817110293",
+    "result_count": 3
+  }
+}

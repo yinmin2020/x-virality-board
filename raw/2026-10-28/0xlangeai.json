@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115442996300914688"
+        ]
+      },
+      "created_at": "2026-10-28T14:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115444725801243091"
+      ],
+      "id": "2115444725801243091",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 200,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Tibo &amp; Lauren https://t.co/lKKxeozNnI",
+      "url": "https://x.com/i/status/2115444725801243091"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115435996565348352"
+        ]
+      },
+      "created_at": "2026-10-28T13:31:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115436316779573329"
+      ],
+      "id": "2115436316779573329",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 199,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115313586105192884",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,  lauren  tan 的反击来了 \n\ntibo 拍了 https://t.co/yB7rfZ9nIm 的域名 \n\nlauren 就制作了个 bot 取名叫 tibot https://t.co/QT28o3zZ58 https://t.co/mNJg7I71s4",
+      "url": "https://x.com/i/status/2115436316779573329"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115166648361779200"
+        ],
+        "media_source_tweet_id": [
+          "2115167081780093145"
+        ]
+      },
+      "created_at": "2026-10-28T12:24:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115419441135755661"
+      ],
+      "id": "2115419441135755661",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 806,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "管着数十亿美元科技基金 𝗔𝘁𝗿𝗲𝗶𝗱𝗲𝘀 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 的管理合伙人兼首席投资官 𝗚𝗮𝘃𝗶𝗻 𝗕𝗮𝗸𝗲𝗿（前富达明星基金经理），刚在 𝗧𝗕𝗣𝗡 直播连线里聊到他自己怎么用 AI：他现在手上已经养了 17 个 𝗚𝗿𝗼𝗸 𝗕𝗼𝘁，而且直言这是对他本人和整个基金产生最大实际影响的 AI 产品。\n\n30",
+      "url": "https://x.com/i/status/2115419441135755661"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115400656395886592",
+          "3_2115400742215495681"
+        ]
+      },
+      "created_at": "2026-10-28T11:11:04.000Z",
+      "edit_history_tweet_ids": [
+        "2115400953499439224"
+      ],
+      "id": "2115400953499439224",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 531,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115383255809896519",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,  zenmux 抽奖中了 1M 的 Opus5.5 token ,  这很香啊 \n\n总算有 Opus5.5 可以用上了 https://t.co/VJiBmkt99R https://t.co/Ixymr9wOVf",
+      "url": "https://x.com/i/status/2115400953499439224"
+    },
+    {
+      "created_at": "2026-10-28T10:00:44.000Z",
+      "edit_history_tweet_ids": [
+        "2115383255809896519"
+      ],
+      "id": "2115383255809896519",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 2208,
+        "like_count": 40,
+        "quote_count": 8,
+        "reply_count": 46,
+        "retweet_count": 24
+      },
+      "text": "平时要用 AI 写代码、跑 Agent、做图的，可以看看 ZenMux 这个万圣节活动 🎃\n\n每天用模型，还能顺手解锁一个模型盲盒\n\n参与条件很直接：每个活动日，在 ZenMux 用现金余额进行按量付费（PAYG）消费，累计满 $1，就能到活动页开一次盲盒\n\nZenMux 是一站式 AI 模型平台，一个账户、一套",
+      "url": "https://x.com/i/status/2115383255809896519"
+    },
+    {
+      "created_at": "2026-10-28T09:01:12.000Z",
+      "edit_history_tweet_ids": [
+        "2115368271587471636"
+      ],
+      "id": "2115368271587471636",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2807,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113472272950559230",
+          "type": "quoted"
+        }
+      ],
+      "text": "牛逼 ❗️❗️❗️ 刚刷到一篇把 𝗔𝗴𝗲𝗻𝘁 直接塞进收件箱里的文章, 全程在手机上没手动点开过一封邮件。 \n\n用网易邮箱大师新出的 𝗠𝗮𝗶𝗹 𝗔𝗴𝗲𝗻𝘁 处理 96 封求职邮件、89 个附件，两句话 69 秒直接收完并生成候选人明细 𝗘𝘅𝗰𝗲𝗹 https://t.co/cmKqqj7Gk0",
+      "url": "https://x.com/i/status/2115368271587471636"
+    },
+    {
+      "created_at": "2026-10-28T08:01:29.000Z",
+      "edit_history_tweet_ids": [
+        "2115353243354382616"
+      ],
+      "id": "2115353243354382616",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 1783,
+        "like_count": 11,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114259038028652657",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,  有朋友找我问这个视频的提示词 ,  刚好公布下: \n\n用 lemomo-ai/lemo-opuscar 的 Three.js 全 3D 影棚管线，做一支 12 秒、1920×1080、30fps、H.264 + AAC（-14 LUFS）的产品演示片。\n\n题材：《Grok Bot Pages 新手保姆级教程：报告、备忘录、仪表盘实操》\n核心叙事四幕：\n1. https://t.co/TqcaifFbOS",
+      "url": "https://x.com/i/status/2115353243354382616"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115114850510897152"
+        ],
+        "media_source_tweet_id": [
+          "2115115252690145519"
+        ]
+      },
+      "created_at": "2026-10-28T07:15:56.000Z",
+      "edit_history_tweet_ids": [
+        "2115341779965030416"
+      ],
+      "id": "2115341779965030416",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1230,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗘𝗢 𝗦𝘂𝗻𝗱𝗮𝗿 𝗣𝗶𝗰𝗵𝗮𝗶 放出最新一代实时交互世界模型 𝗚𝗲𝗻𝗶𝗲 𝟰，视频生成彻底从「看一段死画面」变成「边玩边改的活世界」\n\n𝗚𝗲𝗻𝗶𝗲 𝟰 这次立住的 4 个核心能力：\n\n1.",
+      "url": "https://x.com/i/status/2115341779965030416"
+    },
+    {
+      "created_at": "2026-10-28T05:23:54.000Z",
+      "edit_history_tweet_ids": [
+        "2115313586105192884"
+      ],
+      "id": "2115313586105192884",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 75632,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115297093879472332",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽 ！！！ tibo 这个梗玩的很大 ，我看懂了 https://t.co/felSJHjkC3",
+      "url": "https://x.com/i/status/2115313586105192884"
+    },
+    {
+      "created_at": "2026-10-28T04:30:04.000Z",
+      "edit_history_tweet_ids": [
+        "2115300040701096272"
+      ],
+      "id": "2115300040701096272",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1357,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115281078428881145",
+          "type": "quoted"
+        }
+      ],
+      "text": "很多人觉得 𝗖𝗹𝗮𝘂𝗱𝗲 𝗖𝗼𝗱𝗲 变笨，其实是一半踩了不报错的配置坑，一半是用法习惯在拖后腿。\n\n最容易中招的 3 个隐形坑：\n1. 项目里同时放 𝗖𝗟𝗔𝗨𝗗𝗘.𝗺𝗱 和 𝗔𝗚𝗘𝗡𝗧𝗦.𝗺𝗱，默认只读前者，𝗔𝗚𝗘𝗡𝗧𝗦.𝗺𝗱 从头到尾没被加载过也不报错（改法是在 𝗖𝗟𝗔𝗨𝗗𝗘.𝗺𝗱 里加一行 https://t.co/4yLfNrtH04",
+      "url": "https://x.com/i/status/2115300040701096272"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115281683188776960"
+        ]
+      },
+      "created_at": "2026-10-28T03:17:24.000Z",
+      "edit_history_tweet_ids": [
+        "2115281750645686370"
+      ],
+      "id": "2115281750645686370",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1808,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115273253711409208",
+          "type": "quoted"
+        }
+      ],
+      "text": "Tibo  现在只会玩重置了,  赶紧蹬起来 \n\n还有 73% 能蹬完嘛 https://t.co/FBGAxGl3VQ https://t.co/pjgfYJcmM5",
+      "url": "https://x.com/i/status/2115281750645686370"
+    },
+    {
+      "created_at": "2026-10-28T02:18:30.000Z",
+      "edit_history_tweet_ids": [
+        "2115266929103700219"
+      ],
+      "id": "2115266929103700219",
+      "public_metrics": {
+        "bookmark_count": 40,
+        "impression_count": 6820,
+        "like_count": 34,
+        "quote_count": 3,
+        "reply_count": 4,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115251581998563837",
+          "type": "quoted"
+        }
+      ],
+      "text": "Yihui 大佬直接把自己月入万刀的,  密码给揭示了,  赶紧收藏了 \n\n新产品 𝗦𝗸𝗶𝗹𝗹𝗿𝘆 上线 1 个月，拿到 400+ 活跃付费订阅，近 30 天收入 12,037 美元（𝗠𝗥𝗥 3,918 美元）。写代码快了 10 倍，做出「0 付费 0 用户」产品的速度也快了 10 倍。 https://t.co/qdR9txOU24",
+      "url": "https://x.com/i/status/2115266929103700219"
+    },
+    {
+      "created_at": "2026-10-28T00:52:55.000Z",
+      "edit_history_tweet_ids": [
+        "2115245394074751226"
+      ],
+      "id": "2115245394074751226",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 3577,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115126953825185925",
+          "type": "quoted"
+        }
+      ],
+      "text": "兄弟们,   VPS 测评的太详细了 .  这篇帖子的含金量有多高,  去看了就知道了 https://t.co/vHdubJkR0P",
+      "url": "https://x.com/i/status/2115245394074751226"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115237574273073152"
+        ]
+      },
+      "created_at": "2026-10-28T00:22:20.000Z",
+      "edit_history_tweet_ids": [
+        "2115237695819800784"
+      ],
+      "id": "2115237695819800784",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 4941,
+        "like_count": 32,
+        "quote_count": 1,
+        "reply_count": 34,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115202513846812978",
+          "type": "quoted"
+        }
+      ],
+      "text": "牛逼 ! ! !  Grok Bot 现在可以直接生成视频了 ,  生成的效果还这么好 \n\n直接在 Bot 输入 “生成一段 10 秒、16:9、1080p 的视频：雨夜东京街头，镜头跟着一只橘猫穿过霓虹灯水洼”\n\n就能生成如下的视频: https://t.co/2PcxP3dzTM https://t.co/QaSAkHbwwu",
+      "url": "https://x.com/i/status/2115237695819800784"
+    },
+    {
+      "created_at": "2026-10-27T22:02:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115202513846812978"
+      ],
+      "id": "2115202513846812978",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 7738,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 19,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115111897397628974",
+          "type": "quoted"
+        }
+      ],
+      "text": "SpaceXAI 做 Cursor 和 Grok Bot 的 𝗺𝗮𝘁𝘁 𝗽𝗮𝗹𝗺𝗲𝗿，拍了约 7 分半口播，把这周 𝗚𝗿𝗼𝗸 𝗕𝗼𝘁 的大更新一口气过了一遍。\n\n几个核心新能力：\n\n1. 𝗣𝗮𝗴𝗲𝘀 可视化页：让 Bot 做完数据分析、趋势拆解后，直接生成一张能互动、能分享的页面，灵感来自 𝘊𝘶𝘳𝘴𝘰𝘳 𝘊𝘢𝘯𝘷𝘢𝘴。\n2. https://t.co/Z3FPMgs6wq",
+      "url": "https://x.com/i/status/2115202513846812978"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115076278261022720"
+        ]
+      },
+      "created_at": "2026-10-27T13:41:49.000Z",
+      "edit_history_tweet_ids": [
+        "2115076504778691007"
+      ],
+      "id": "2115076504778691007",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 4727,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103300004966478284",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,  Muse 罕见来了小版本更新 \n\n在我的记忆中, 这是第一次碰到同是一个大版本的小版本更新 \n\n估计是出了大bug 了 https://t.co/5womlOERQb https://t.co/4dwpt0XDYn",
+      "url": "https://x.com/i/status/2115076504778691007"
+    },
+    {
+      "created_at": "2026-10-27T13:24:27.000Z",
+      "edit_history_tweet_ids": [
+        "2115072135744114989"
+      ],
+      "id": "2115072135744114989",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 796,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115065593107800136",
+          "type": "quoted"
+        }
+      ],
+      "text": "X 原创内容达标之后,  没有港卡怎么收钱,  可以看看 leaf 这篇 \n\nWise 入金激活完全指南,  这可是他躺了几天坑, 才踩出来的经验,  太宝贵了 https://t.co/p9FgefqQ9H",
+      "url": "https://x.com/i/status/2115072135744114989"
+    },
+    {
+      "created_at": "2026-10-27T12:25:16.000Z",
+      "edit_history_tweet_ids": [
+        "2115057238637457503"
+      ],
+      "id": "2115057238637457503",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1037,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114973973503185354",
+          "type": "quoted"
+        }
+      ],
+      "text": "Cara 从好莱坞到腾讯，再到内容OPC， Cara 这一路都是很有魄力。 \n\n最核心还是对内容的高品质追求，支持着她往前行 https://t.co/YK3dM14zU3",
+      "url": "https://x.com/i/status/2115057238637457503"
+    },
+    {
+      "created_at": "2026-10-27T10:40:42.000Z",
+      "edit_history_tweet_ids": [
+        "2115030923913928919"
+      ],
+      "id": "2115030923913928919",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9500,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114996566755037275",
+          "type": "replied_to"
+        }
+      ],
+      "text": "多方证实，这个海外博主搞得这个是纯演示的图，根本不是现实交易， 卧槽 ！！！ 这太扯淡了",
+      "url": "https://x.com/i/status/2115030923913928919"
+    },
+    {
+      "created_at": "2026-10-27T09:37:17.000Z",
+      "edit_history_tweet_ids": [
+        "2115014966038401163"
+      ],
+      "id": "2115014966038401163",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 3268,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115006510979801566",
+          "type": "quoted"
+        }
+      ],
+      "text": "FDE 实践秘籍来了，数据清洗是FDE实践中非常重要的一环 \n\n学会了，就可以去接单了 https://t.co/rZcYeijyHK",
+      "url": "https://x.com/i/status/2115014966038401163"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114372154389073920"
+        ],
+        "media_source_tweet_id": [
+          "2114372210269782303"
+        ]
+      },
+      "created_at": "2026-10-27T08:24:10.000Z",
+      "edit_history_tweet_ids": [
+        "2114996566755037275"
+      ],
+      "id": "2114996566755037275",
+      "public_metrics": {
+        "bookmark_count": 385,
+        "impression_count": 128269,
+        "like_count": 404,
+        "quote_count": 11,
+        "reply_count": 130,
+        "retweet_count": 45
+      },
+      "text": "Grok Bot 做量化有点强啊 ! ! ! \n\n海外博主搭的交易终端丢了 44.82 美元，一觉醒来账户变成 11,643.21 美元，全程没手写一行代码。\n https://t.co/9vTbV7Sx4o",
+      "url": "https://x.com/i/status/2114996566755037275"
+    },
+    {
+      "created_at": "2026-10-27T07:04:17.000Z",
+      "edit_history_tweet_ids": [
+        "2114975422983344632",
+        "2114975622711931230",
+        "2114976460612280817"
+      ],
+      "id": "2114976460612280817",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1239,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114576054018818536",
+          "type": "quoted"
+        }
+      ],
+      "text": "Geo 是真的能搞,  AI 平台的流量比 SEO 快多了,  别问我怎么知道的,   我之前站点开单就是 GEO 来的用户 \n\n姚老师开源的 GeoInflow  更是值得看一看\n\n它底层预置了全球 61 种 AI 爬虫的身份和分类，把服务器抓取日志、AI 搜索引荐和常规访客统计并到了同一个后台里。有几块设计挺实用：\n\n1. 直接拆开看 https://t.co/7PqxBgJahW",
+      "url": "https://x.com/i/status/2114976460612280817"
+    },
+    {
+      "created_at": "2026-10-27T06:02:04.000Z",
+      "edit_history_tweet_ids": [
+        "2114960802478535139"
+      ],
+      "id": "2114960802478535139",
+      "public_metrics": {
+        "bookmark_count": 242,
+        "impression_count": 11901,
+        "like_count": 198,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 22
+      },
+      "text": "想用 Opus 5.5 做视频，别从零开始。\n这几个 GitHub 仓库直接收藏：\n\nawesome-opus5-5-videos（11k★） 目前最全的爆款合集，每条都带原帖和可复制提示词 https://t.co/O4x35aiqL3\n\nawesome-opus-5.5-video 中文友好，2000+ 作品收录，大量带提示词 https://t.co/dEWC6zQwj6\n\nlemo-opuscar 59",
+      "url": "https://x.com/i/status/2114960802478535139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115442996300914688",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115435996565348352",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115166648361779200",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115400656395886592",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115400742215495681",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115114850510897152",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115281683188776960",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115237574273073152",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115076278261022720",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2114372154389073920",
+        "type": "video"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115444725801243091",
+    "next_token": "7140dibdnow9c7btwp0g7610w9saecdrsh72qnlmqvvi1",
+    "oldest_id": "2114960802478535139",
+    "result_count": 23
+  }
+}

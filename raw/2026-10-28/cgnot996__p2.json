@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114670863475978240"
+        ]
+      },
+      "created_at": "2026-10-26T10:50:00.000Z",
+      "edit_history_tweet_ids": [
+        "2114670876050460994"
+      ],
+      "id": "2114670876050460994",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 3966,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109226370891194565",
+          "type": "quoted"
+        }
+      ],
+      "text": "😫今天搬瓦工的 IP 被墙了，又麻烦 网络管家 Bot 出马修复了，要登录搬瓦工的管理后台换 IP + 迁移，直接登录，并且从我的 Gmail 邮箱里拿到了验证码，不用自己操作什么，太方便了\n\n不过搬瓦工的 IP 也这么容易被墙么，你们有遇到这个情况吗？ https://t.co/BeftHHT4TH https://t.co/OemiJqQzXK",
+      "url": "https://x.com/i/status/2114670876050460994"
+    },
+    {
+      "created_at": "2026-10-26T08:31:52.000Z",
+      "edit_history_tweet_ids": [
+        "2114636116573950370"
+      ],
+      "id": "2114636116573950370",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1622,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114624517528273026",
+          "type": "quoted"
+        }
+      ],
+      "text": "🤯这段对话把我答疑群的价值拉高了一截，缘起是有同学问怎么搭建个人知识库，大家讨论的时候司徒老师分享了自己的观点\n\n其中有个点我感触很深，也是自己纠结了很长时间才确定的，就是如果自己不看知识库内容，其实 obsidian 不是必须用的。就完全交给 Agent 来维护知识库，文件夹+md https://t.co/c3CERb2I0M",
+      "url": "https://x.com/i/status/2114636116573950370"
+    },
+    {
+      "created_at": "2026-10-26T07:34:48.000Z",
+      "edit_history_tweet_ids": [
+        "2114621754379554896"
+      ],
+      "id": "2114621754379554896",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1714,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114602910797709607",
+          "type": "quoted"
+        }
+      ],
+      "text": "👍不得不说太全了，做企业 AI 落地的人通读一遍能少走很多弯路。结合我们在做的 FDE 项目，普遍最耽误推进的核心就是跟甲方的人沟通需求，外加繁重的数据清洗。\n\nFDE 的终点是让业务消费数据，但大部分工时其实都耗在准备数据上了。 https://t.co/SQoaztJblT",
+      "url": "https://x.com/i/status/2114621754379554896"
+    },
+    {
+      "created_at": "2026-10-26T05:43:30.000Z",
+      "edit_history_tweet_ids": [
+        "2114593745928917089"
+      ],
+      "id": "2114593745928917089",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1567,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114326060477436015",
+          "type": "quoted"
+        }
+      ],
+      "text": "🎉 最近私聊催我分享三个月跑出万粉经验的同学很多。除了在垂类里持续投入，我最庆幸的是刚起步迷茫那阵子，有 @bbkirstry 小晚老师拉了我一把。\n\n和小晚老师几次线下碰面畅聊并得到私聊指点后，我才摸清了发力方向，顺着实践拿到了还不错的结果。推荐大家多关注小晚老师。 https://t.co/B7uKpnG51C",
+      "url": "https://x.com/i/status/2114593745928917089"
+    },
+    {
+      "created_at": "2026-10-26T04:03:31.000Z",
+      "edit_history_tweet_ids": [
+        "2114568582889914739"
+      ],
+      "id": "2114568582889914739",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2238,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114365361068138990",
+          "type": "quoted"
+        }
+      ],
+      "text": "🎉 棒！又是一个实用功能，老马确认 Grok Bot 能替用户给个人或商家打电话了，代提请求、记录答复并回传摘要，等于在 Bot 调度里补齐了电话节点。\n\n1️⃣ 适合丢给电话节点的事：餐厅订座改期、催物流工单回执或问商户营业时间这类标准事项，开口直接给具体要求与时间底线即可。\n2️⃣ https://t.co/lwtssynsa7",
+      "url": "https://x.com/i/status/2114568582889914739"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2114670863475978240",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2114670876050460994",
+    "oldest_id": "2114568582889914739",
+    "previous_token": "77qpymm88g5h9vqkmfprnlihbif7pdq9njo6xctzzff3o",
+    "result_count": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-26T13:14:32.000Z",
+      "edit_history_tweet_ids": [
+        "2114706975615508817",
+        "2114707251206225921"
+      ],
+      "id": "2114707251206225921",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 18300,
+        "like_count": 31,
+        "quote_count": 5,
+        "reply_count": 23,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114705510830375081",
+          "type": "quoted"
+        }
+      ],
+      "text": "Anthropic正式提交纳斯达克IPO申请，股票代码为“ANT”\n\n根据披露的信息：Anthropic上半年营收163亿美元，上年同期为12亿美元。\n\n截至2026年6月30日的六个月，Anthropic净亏损为807亿美元，称未来可能无法实现或维持盈利。\n\n根据SpaceXAI相关安排，在延续至2029年的期限内，合计支出将最高达1205亿美元。 https://t.co/eu67xzA6hw",
+      "url": "https://x.com/i/status/2114707251206225921"
+    },
+    {
+      "created_at": "2026-10-26T13:07:37.000Z",
+      "edit_history_tweet_ids": [
+        "2114705510830375081"
+      ],
+      "id": "2114705510830375081",
+      "public_metrics": {
+        "bookmark_count": 30,
+        "impression_count": 59567,
+        "like_count": 150,
+        "quote_count": 12,
+        "reply_count": 51,
+        "retweet_count": 6
+      },
+      "text": "预计 Anthropic 将在提交IPO后的第二天，发布全新一代的大模型 Fable 5.5\n\n该模型将在你话还没说完的情况下就知道你要干啥...\n\n以往所有的提示词和技能约束将失效...\n\n因为仅通过自然语言模型已经完全理解你要干啥🫡",
+      "url": "https://x.com/i/status/2114705510830375081"
+    },
+    {
+      "created_at": "2026-10-26T08:20:43.000Z",
+      "edit_history_tweet_ids": [
+        "2114632585049784479",
+        "2114633309250805788"
+      ],
+      "id": "2114633309250805788",
+      "public_metrics": {
+        "bookmark_count": 47,
+        "impression_count": 21683,
+        "like_count": 97,
+        "quote_count": 3,
+        "reply_count": 30,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113014142600953868",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽\n\n博主入侵了他的三星电视，发现了电视机会常开其麦克风\n\n它会自动进行内容识别、地理定位、网络映射、广告定向和用户画像抓取分析\n\n同时电视机会把这些数据与三星的“400个合作伙伴”共享\n\n更恐怖的是： https://t.co/6a8bcwx9cq",
+      "url": "https://x.com/i/status/2114633309250805788"
+    }
+  ],
+  "meta": {
+    "newest_id": "2114707251206225921",
+    "oldest_id": "2114633309250805788",
+    "previous_token": "77qpymm88g5h9vqkmfprnlirtcxeuwhihv62vzqe6z86p",
+    "result_count": 3
+  }
+}

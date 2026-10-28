@@ -1,0 +1,487 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-28T03:34:11.000Z",
+      "edit_history_tweet_ids": [
+        "2115285977484902564"
+      ],
+      "id": "2115285977484902564",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 579,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115254598067945660",
+          "type": "quoted"
+        }
+      ],
+      "text": "16G肯定不够的\n开几个codex claude\n不一会就卡死了 https://t.co/7XxYtskqHf",
+      "url": "https://x.com/i/status/2115285977484902564"
+    },
+    {
+      "created_at": "2026-10-28T03:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "2115285026527125623"
+      ],
+      "id": "2115285026527125623",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 168,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115133828650213693",
+          "type": "quoted"
+        }
+      ],
+      "text": "Token账单是不是要炸掉了\n不过先收藏 https://t.co/mnyX6NjZHE",
+      "url": "https://x.com/i/status/2115285026527125623"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115260856711708672"
+        ]
+      },
+      "created_at": "2026-10-28T01:56:44.000Z",
+      "edit_history_tweet_ids": [
+        "2115261453238468876"
+      ],
+      "id": "2115261453238468876",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 2554,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "被推荐了一个好用的产品\nhttps://t.co/pKqURjZAWw\n目前需要WaitList https://t.co/6fZ1XRJhvs",
+      "url": "https://x.com/i/status/2115261453238468876"
+    },
+    {
+      "created_at": "2026-10-28T01:42:25.000Z",
+      "edit_history_tweet_ids": [
+        "2115257849995513951"
+      ],
+      "id": "2115257849995513951",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 508,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114650931681952053",
+          "type": "quoted"
+        }
+      ],
+      "text": "打算研究下PI\n把我之前用LangChain LangGraph做的Agent\n重构重构！ https://t.co/ckLBHRVtyk",
+      "url": "https://x.com/i/status/2115257849995513951"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115255927536226304",
+          "3_2115255927527858176",
+          "3_2115255927599243264"
+        ]
+      },
+      "created_at": "2026-10-28T01:34:50.000Z",
+      "edit_history_tweet_ids": [
+        "2115255940588957951"
+      ],
+      "id": "2115255940588957951",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 415,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "总得来一趟西湖吧\n欢迎大家来我的家乡杭州玩 https://t.co/WBlJPWJTPz",
+      "url": "https://x.com/i/status/2115255940588957951"
+    },
+    {
+      "created_at": "2026-10-28T01:23:53.000Z",
+      "edit_history_tweet_ids": [
+        "2115253185212260590"
+      ],
+      "id": "2115253185212260590",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 159,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115086448869495138",
+          "type": "quoted"
+        }
+      ],
+      "text": "人家抽到 Opus 5.5 去做短片，我要是抽到了估计还是拿去写脚本修 bug 🤣 \nZenMux 万圣节盲盒，奖品看活动页，我先去开一个。 https://t.co/sAyFStPbE0",
+      "url": "https://x.com/i/status/2115253185212260590"
+    },
+    {
+      "created_at": "2026-10-28T01:09:47.000Z",
+      "edit_history_tweet_ids": [
+        "2115249636721955171"
+      ],
+      "id": "2115249636721955171",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 107,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115114426827501782",
+          "type": "quoted"
+        }
+      ],
+      "text": "We used to watch AI make videos. Now we're stepping inside them. Genie 4 feels like the start of something huge. https://t.co/HZu2FANn44",
+      "url": "https://x.com/i/status/2115249636721955171"
+    },
+    {
+      "created_at": "2026-10-27T22:51:19.000Z",
+      "edit_history_tweet_ids": [
+        "2115214790725624318"
+      ],
+      "id": "2115214790725624318",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 170,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "我的时间线\n全部都是GrokBot玩法\n太疯狂了",
+      "url": "https://x.com/i/status/2115214790725624318"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115204111280799744"
+        ]
+      },
+      "created_at": "2026-10-27T22:08:56.000Z",
+      "edit_history_tweet_ids": [
+        "2115204122622505271"
+      ],
+      "id": "2115204122622505271",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 148,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "早安🌞 https://t.co/2dI0WNXHQE",
+      "url": "https://x.com/i/status/2115204122622505271"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115052262305181696"
+        ]
+      },
+      "created_at": "2026-10-27T12:05:34.000Z",
+      "edit_history_tweet_ids": [
+        "2115052282471711225"
+      ],
+      "id": "2115052282471711225",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 504,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "周末杭州GDG活动\n如果有喜欢Milvus的朋友\n可以送你们周边👏 https://t.co/8UdsORvgve",
+      "url": "https://x.com/i/status/2115052282471711225"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115015640381554688",
+          "3_2115015688259592192"
+        ]
+      },
+      "created_at": "2026-10-27T09:41:02.000Z",
+      "edit_history_tweet_ids": [
+        "2115015909710430334"
+      ],
+      "id": "2115015909710430334",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 226,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114691636898808182",
+          "type": "quoted"
+        }
+      ],
+      "text": "Grokbot抓取我想关注的大佬推文\n并做成看板  太爽了\n快来试试吧 https://t.co/fbeROCDXdC https://t.co/Z7MGf5qQGf",
+      "url": "https://x.com/i/status/2115015909710430334"
+    },
+    {
+      "created_at": "2026-10-27T05:55:56.000Z",
+      "edit_history_tweet_ids": [
+        "2114959262321610944"
+      ],
+      "id": "2114959262321610944",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 241,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114632751202943290",
+          "type": "quoted"
+        }
+      ],
+      "text": "Agent 产品卷到开源客户端这一层了。Cindy 今天站上 GitHub 趋势榜第一，本地优先这条路我觉得会越来越香。 https://t.co/l6HmjfSDKY",
+      "url": "https://x.com/i/status/2114959262321610944"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114940842901147648"
+        ]
+      },
+      "created_at": "2026-10-27T04:42:49.000Z",
+      "edit_history_tweet_ids": [
+        "2114940860185891045"
+      ],
+      "id": "2114940860185891045",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 293,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "现在抖音上喜欢看老师解题\n如果小时候遇到这样的老师\n也不至于数学那么烂😢 https://t.co/L66RnNLT1R",
+      "url": "https://x.com/i/status/2114940860185891045"
+    },
+    {
+      "created_at": "2026-10-27T03:01:42.000Z",
+      "edit_history_tweet_ids": [
+        "2114915411636752503"
+      ],
+      "id": "2114915411636752503",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 10037,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114880735324803545",
+          "type": "quoted"
+        }
+      ],
+      "text": "确实有点窒息 https://t.co/YOgziI7HO4",
+      "url": "https://x.com/i/status/2114915411636752503"
+    },
+    {
+      "created_at": "2026-10-27T02:47:59.000Z",
+      "edit_history_tweet_ids": [
+        "2114911961381286059"
+      ],
+      "id": "2114911961381286059",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 181,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114876738081882481",
+          "type": "quoted"
+        }
+      ],
+      "text": "老板你已经快和他一样潇洒了😃 https://t.co/w5aYCQBRd3",
+      "url": "https://x.com/i/status/2114911961381286059"
+    },
+    {
+      "created_at": "2026-10-27T01:28:05.000Z",
+      "edit_history_tweet_ids": [
+        "2114891855657939399"
+      ],
+      "id": "2114891855657939399",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 180,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113844051938054167",
+          "type": "quoted"
+        }
+      ],
+      "text": "Youtube上看过很多这个老哥的视频 https://t.co/oLqw4bzz71",
+      "url": "https://x.com/i/status/2114891855657939399"
+    },
+    {
+      "created_at": "2026-10-27T00:58:51.000Z",
+      "edit_history_tweet_ids": [
+        "2114884498404098301"
+      ],
+      "id": "2114884498404098301",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 214,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114780711664398349",
+          "type": "quoted"
+        }
+      ],
+      "text": "就不能推出可以和Opus5.5媲美的模型么 https://t.co/irXAaETOmv",
+      "url": "https://x.com/i/status/2114884498404098301"
+    },
+    {
+      "created_at": "2026-10-26T12:23:24.000Z",
+      "edit_history_tweet_ids": [
+        "2114694162776019226",
+        "2114694278299414882",
+        "2114694381961871399"
+      ],
+      "id": "2114694381961871399",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1175,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "团队中有一位优秀的伙伴本周末LastDay\n抽了点时间散步聊了聊\n打算是先休息一段时间\n交流了一下后面的方向\n毫无疑问一定是All In Ai\n尽量不要去做纯粹的传统/云原生运维\n往AI Infra/Agent工程师方向努力\n祝好了💪",
+      "url": "https://x.com/i/status/2114694381961871399"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114569495566028800",
+          "3_2114569495566065665"
+        ]
+      },
+      "created_at": "2026-10-26T04:07:15.000Z",
+      "edit_history_tweet_ids": [
+        "2114569521537368565"
+      ],
+      "id": "2114569521537368565",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 582,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 37,
+        "retweet_count": 0
+      },
+      "text": "饭后散步\n杭州的秋天太舒服了\n就是时间短了点 https://t.co/LFgr2DVc0x",
+      "url": "https://x.com/i/status/2114569521537368565"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115260856711708672",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115255927536226304",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115255927527858176",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115255927599243264",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115204111280799744",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115052262305181696",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115015640381554688",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115015688259592192",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114940842901147648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114569495566028800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2114569495566065665",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115285977484902564",
+    "oldest_id": "2114569521537368565",
+    "result_count": 19
+  }
+}

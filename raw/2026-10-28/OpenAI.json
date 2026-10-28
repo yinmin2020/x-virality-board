@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-26T18:06:29.000Z",
+      "edit_history_tweet_ids": [
+        "2114780720170164735"
+      ],
+      "id": "2114780720170164735",
+      "public_metrics": {
+        "bookmark_count": 98,
+        "impression_count": 268949,
+        "like_count": 1511,
+        "quote_count": 38,
+        "reply_count": 40,
+        "retweet_count": 71
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114780717188272382",
+          "type": "replied_to"
+        }
+      ],
+      "text": "GPT-6.1 Terra is rolling out now and is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.\n\nDevelopers can also access it through the OpenAI API as gpt-6.1-terra.\n\nhttps://t.co/TVsi7lEeX9",
+      "url": "https://x.com/i/status/2114780720170164735"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114778720359649280"
+        ]
+      },
+      "created_at": "2026-10-26T18:06:28.000Z",
+      "edit_history_tweet_ids": [
+        "2114780717188272382"
+      ],
+      "id": "2114780717188272382",
+      "public_metrics": {
+        "bookmark_count": 562,
+        "impression_count": 1105547,
+        "like_count": 3338,
+        "quote_count": 488,
+        "reply_count": 132,
+        "retweet_count": 380
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114780715086754261",
+          "type": "replied_to"
+        }
+      ],
+      "text": "GPT-6.1 Terra substantially outperforms GPT-5.6 Terra on Agents’ Last Exam, a test of how well agents use software at work.\n\nIt even matches GPT-6 Astra at one-tenth the price per token and finishes tasks over 3× faster on average than both Astra and GPT-6.1 Sol. https://t.co/pzAmnvjBUi",
+      "url": "https://x.com/i/status/2114780717188272382"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114778628261072896"
+        ]
+      },
+      "created_at": "2026-10-26T18:06:27.000Z",
+      "edit_history_tweet_ids": [
+        "2114780715086754261"
+      ],
+      "id": "2114780715086754261",
+      "public_metrics": {
+        "bookmark_count": 346,
+        "impression_count": 452700,
+        "like_count": 4243,
+        "quote_count": 80,
+        "reply_count": 74,
+        "retweet_count": 143
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114780711664398349",
+          "type": "replied_to"
+        }
+      ],
+      "text": "GPT-6.1 Terra continues to advance the cost-intelligence frontier across our model families.\n\nIt’s a significant step up over GPT‑5.6 Terra, with 50% lower standard API prices.\n\nIn ChatGPT Work and Codex, your usage allowance goes further with GPT‑6.1 Terra than with GPT‑5.6 https://t.co/k52sUAZrTr",
+      "url": "https://x.com/i/status/2114780715086754261"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114778494395678720"
+        ]
+      },
+      "created_at": "2026-10-26T18:06:27.000Z",
+      "edit_history_tweet_ids": [
+        "2114780711664398349"
+      ],
+      "id": "2114780711664398349",
+      "public_metrics": {
+        "bookmark_count": 4308,
+        "impression_count": 6283044,
+        "like_count": 27702,
+        "quote_count": 2223,
+        "reply_count": 1631,
+        "retweet_count": 2464
+      },
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
+      "url": "https://x.com/i/status/2114780711664398349"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2114778720359649280",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2114778628261072896",
+        "type": "video"
+      },
+      {
+        "media_key": "13_2114778494395678720",
+        "type": "video"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2114780720170164735",
+    "oldest_id": "2114780711664398349",
+    "result_count": 4
+  }
+}
