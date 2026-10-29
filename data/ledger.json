@@ -295,6 +295,80 @@
     "best": 6416,
     "best_id": "2115270907442921842"
    }
+  },
+  "2026-10-28": {
+   "AnthropicAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "OpenAI": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "dotey": {
+    "hits": 12,
+    "views": 466913,
+    "best": 119435,
+    "best_id": "2115591064073413118"
+   },
+   "xiaohu": {
+    "hits": 6,
+    "views": 210706,
+    "best": 106696,
+    "best_id": "2115366691660308553"
+   },
+   "cgnot996": {
+    "hits": 4,
+    "views": 49734,
+    "best": 29734,
+    "best_id": "2115647822087544957"
+   },
+   "liyue_ai": {
+    "hits": 4,
+    "views": 108267,
+    "best": 58020,
+    "best_id": "2115444790355771871"
+   },
+   "shao__meng": {
+    "hits": 0,
+    "views": 0,
+    "best": 4815,
+    "best_id": "2115428696672866729"
+   },
+   "op7418": {
+    "hits": 12,
+    "views": 343664,
+    "best": 159385,
+    "best_id": "2115357210457100743"
+   },
+   "vista8": {
+    "hits": 7,
+    "views": 206064,
+    "best": 99654,
+    "best_id": "2115487808404230154"
+   },
+   "lijigang": {
+    "hits": 0,
+    "views": 0,
+    "best": 0,
+    "best_id": null
+   },
+   "0xlangeai": {
+    "hits": 3,
+    "views": 132454,
+    "best": 120815,
+    "best_id": "2115313586105192884"
+   },
+   "cellinlab": {
+    "hits": 0,
+    "views": 0,
+    "best": 2572,
+    "best_id": "2115651280416997599"
+   }
   }
  }
 }

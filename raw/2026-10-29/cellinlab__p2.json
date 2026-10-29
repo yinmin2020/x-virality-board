@@ -1,0 +1,591 @@
+{
+ "data": [
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115270902208446464",
+     "3_2115270905228341248"
+    ]
+   },
+   "created_at": "2026-10-28T02:34:18.000Z",
+   "edit_history_tweet_ids": [
+    "2115270907442921842"
+   ],
+   "id": "2115270907442921842",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 7869,
+    "like_count": 36,
+    "quote_count": 16,
+    "reply_count": 50,
+    "retweet_count": 32
+   },
+   "text": "我之前有个脑洞：让西游记人物坐下来录播客 👀\n\n比如唐僧和悟空聊聊，取经这项目，到底是谁在带谁？😂\n\n真要做起来，得写对话、做人物图、生成视频；要是再配个能点播的网页，又回到了写代码！😭\n\n一个点子会用到好几种工具。像 ZenMux https://t.co/YwnjxjEW3G",
+   "url": "https://x.com/i/status/2115270907442921842"
+  },
+  {
+   "created_at": "2026-10-28T01:10:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115249899793182769"
+   ],
+   "id": "2115249899793182769",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 927,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115115281760792816",
+     "type": "quoted"
+    }
+   ],
+   "text": "回头看，发现每次 硬着头皮上 都完成了新突破。 https://t.co/gaZlxZMUty",
+   "url": "https://x.com/i/status/2115249899793182769"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115249704670023680"
+    ]
+   },
+   "created_at": "2026-10-28T01:10:09.000Z",
+   "edit_history_tweet_ids": [
+    "2115249730703986979"
+   ],
+   "id": "2115249730703986979",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 548,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "我以为我可以投呢。。。 https://t.co/x8w4HaQQo3",
+   "url": "https://x.com/i/status/2115249730703986979"
+  },
+  {
+   "created_at": "2026-10-27T09:45:25.000Z",
+   "edit_history_tweet_ids": [
+    "2115017013458551273"
+   ],
+   "id": "2115017013458551273",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 5892,
+    "like_count": 10,
+    "quote_count": 2,
+    "reply_count": 7,
+    "retweet_count": 0
+   },
+   "text": "笑死，公司小伙伴重装完台式机\n说 VSCode 可以不装了！\n\n只用留 Vibe42 + omp，\n出差直接丝滑远程指导，\n出门掏手机就能接着写代码 😂\n\n我内心 OS：我要不要说这是我鱼博 @xiangyuli  开发的？\n但我怕他顺着网线找到我 ID，曝光我日常划水发的擦边...\n\n@vibe42ai 渗透率已经这么高了吗",
+   "url": "https://x.com/i/status/2115017013458551273"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2114969269150846976"
+    ]
+   },
+   "created_at": "2026-10-27T07:36:00.000Z",
+   "edit_history_tweet_ids": [
+    "2114984442263646299"
+   ],
+   "id": "2114984442263646299",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1134,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 8,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2109544805139349668",
+     "type": "quoted"
+    }
+   ],
+   "text": "真的服了！\n\n说 Codex 笨吧，他知道自己做错事了。\n说 他聪明吧，他做错了不知道自己改。\n\n是刻意这么进行产品设计，来让用户感受 AI 智能吗？🤯 https://t.co/GqhBNFvfof https://t.co/NWErSNzVea",
+   "url": "https://x.com/i/status/2114984442263646299"
+  },
+  {
+   "created_at": "2026-10-27T06:48:52.000Z",
+   "edit_history_tweet_ids": [
+    "2114972581719945600"
+   ],
+   "id": "2114972581719945600",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 197,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114578198893936996",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972569799668000",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@cellinlab Cell 细胞｜AI 视频 / 创作 / Maker\n\n最后也夹带一下我自己 🙈 https://t.co/HkTrR8gIub",
+   "url": "https://x.com/i/status/2114972581719945600"
+  },
+  {
+   "created_at": "2026-10-27T06:48:49.000Z",
+   "edit_history_tweet_ids": [
+    "2114972569799668000"
+   ],
+   "id": "2114972569799668000",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 286,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114364371363135625",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972557996909022",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@SUOHA_AI 梭哈｜AI 硬件 / 机器人 / 供应链\n\n盯机器人的同时，连零部件和相关公司都拆。\n\n这条是币安 Agentic Wallet + 全自动打新/投研 Agent 教程——硬件党以外，Agent×Crypto 交叉也很猛。 https://t.co/nzVwjr8s56",
+   "url": "https://x.com/i/status/2114972569799668000"
+  },
+  {
+   "created_at": "2026-10-27T06:48:46.000Z",
+   "edit_history_tweet_ids": [
+    "2114972557996909022"
+   ],
+   "id": "2114972557996909022",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 86,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113519150727651570",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972545955086642",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@liyue_ai 李岳｜AI 绘图 / 视觉 / 提示词\n\n不光晒成品，还会告诉你怎么做——海报、Skill、工具实测都有。\n\n最近这条开源项目惊叹帖曝光近 50 万，视觉党的审美雷达很准，值得盯着看。 https://t.co/BJGTGwV3hW",
+   "url": "https://x.com/i/status/2114972557996909022"
+  },
+  {
+   "created_at": "2026-10-27T06:48:43.000Z",
+   "edit_history_tweet_ids": [
+    "2114972545955086642"
+   ],
+   "id": "2114972545955086642",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 118,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112894242385428737",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972533971931622",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@GoSailGlobal Jason Zhu｜SEO / GEO / 出海增长\n\n产品没人用？流量和 AI 搜索推荐这块找他。\n\n这条把「美国公司 + EIN」压到 Claude 十分钟清单：注册、域名、银行、上架——出海基建党直接收藏。 https://t.co/eG2uTwvJkQ",
+   "url": "https://x.com/i/status/2114972545955086642"
+  },
+  {
+   "created_at": "2026-10-27T06:48:41.000Z",
+   "edit_history_tweet_ids": [
+    "2114972533971931622"
+   ],
+   "id": "2114972533971931622",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 96,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113490736327123197",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972522085269981",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@goan999999 G哥｜AI 工具 / Codex / Agent / 副业\n\n原推油列表作者本人。能自己跑通的，先跑一遍再分享——这点我服。\n\n这条给 Codex 装 ECC：28.6 万 Star、多 Agent + Skills，相当于白嫖一个开发团队，最近绝对爆款。 https://t.co/YarF4ts6K6",
+   "url": "https://x.com/i/status/2114972533971931622"
+  },
+  {
+   "created_at": "2026-10-27T06:48:38.000Z",
+   "edit_history_tweet_ids": [
+    "2114972522085269981"
+   ],
+   "id": "2114972522085269981",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 107,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112505087243547119",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972510194405429",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@GeekCatX 知识猫｜Codex / AI 工具实战\n\n十年码农，Codex 玩得溜，教程细到能跟着做。\n\n这条更狠：闲鱼几毛资料 → Gemini 大窗口清洗排版 → 再卖——损归损，一人创作变现的思路很清晰。 https://t.co/c76ze8h6FB",
+   "url": "https://x.com/i/status/2114972522085269981"
+  },
+  {
+   "created_at": "2026-10-27T06:48:35.000Z",
+   "edit_history_tweet_ids": [
+    "2114972510194405429"
+   ],
+   "id": "2114972510194405429",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 93,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113568179616436580",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972498270019609",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@RealYDT 阿良｜AI 编程 / Agent 架构 / 安全审计\n\n工具评测写得很硬，想知道 AI 编程到底能干到哪，去翻他仓库级实测。\n\n这条讲顶尖公司押注的 Fusion 类产品——转发爆炸，值得 quote 留档。 https://t.co/e0MQKnH91t",
+   "url": "https://x.com/i/status/2114972510194405429"
+  },
+  {
+   "created_at": "2026-10-27T06:48:32.000Z",
+   "edit_history_tweet_ids": [
+    "2114972498270019609"
+   ],
+   "id": "2114972498270019609",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 140,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113580065766134112",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972486291079330",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@li9292 李韭二｜Agent 开发 / 架构 / 成本\n\n自己搭 Agent 老翻车？二哥专治架构、成本和工具协作思路。\n\n这条把一句 AGENTS.md 规则讲透了：AI 界面土，往往不是丑，是话太多——「让布局自己说话」。动手派，直接抄进自己的规则里。 https://t.co/jI4u9VrZQs",
+   "url": "https://x.com/i/status/2114972498270019609"
+  },
+  {
+   "created_at": "2026-10-27T06:48:29.000Z",
+   "edit_history_tweet_ids": [
+    "2114972486291079330"
+   ],
+   "id": "2114972486291079330",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 316,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113148231156912246",
+     "type": "quoted"
+    },
+    {
+     "id": "2114972473762738296",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@bozhou_ai 泊舟｜Agent / 多 Agent / 怎么卖\n\n6 月裸辞，10 月把账拆到「年入百万」：工资、自媒体、中转站，一笔一笔给你看。\n\n研究 Agent 的人很多，琢磨「做出来以后怎么卖」的人太少——舟总这点最值得学。 https://t.co/kjPX6uFJl8",
+   "url": "https://x.com/i/status/2114972486291079330"
+  },
+  {
+   "created_at": "2026-10-27T06:48:26.000Z",
+   "edit_history_tweet_ids": [
+    "2114972473762738296"
+   ],
+   "id": "2114972473762738296",
+   "public_metrics": {
+    "bookmark_count": 16,
+    "impression_count": 5746,
+    "like_count": 25,
+    "quote_count": 2,
+    "reply_count": 18,
+    "retweet_count": 6
+   },
+   "text": "GA，万推！忙了阶段停了几天的互动又来了！🎉\n\n刷到一个朋友整理的 AI 博主推油列表，认真对了一遍——里面好多人都是我平时真在看、真能学到东西的。\n\nAgent 编程、Codex 实战、SEO/GEO、AI 绘图、机器人，覆盖超全！👍\n\n@bozhou_ai 泊舟｜Agent / 多 Agent / 怎么卖\n@li9292 李韭二｜Agent 开发 / 架构",
+   "url": "https://x.com/i/status/2114972473762738296"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2114968073690370048"
+    ]
+   },
+   "created_at": "2026-10-27T06:31:40.000Z",
+   "edit_history_tweet_ids": [
+    "2114968255068811733"
+   ],
+   "id": "2114968255068811733",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1163,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114896229088030954",
+     "type": "quoted"
+    }
+   ],
+   "text": "我发现 AI 视频生成成本这种事，\n当你不能拿来赚钱时：\n卧槽，这个怎么这么贵？\n\n当你开始拿视频变现时：\n我靠，这个真的好便宜啊！\n\n1 秒 1毛钱不到能做成这样，还要啥自行车啊😭\n\n注册免费试 👉https://t.co/CiMSYeQ8FH https://t.co/Wz8YVRdFG1 https://t.co/1XFqeb6fYA",
+   "url": "https://x.com/i/status/2114968255068811733"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2114952744943616000"
+    ]
+   },
+   "created_at": "2026-10-27T05:30:05.000Z",
+   "edit_history_tweet_ids": [
+    "2114952754582188366"
+   ],
+   "id": "2114952754582188366",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 678,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114952284694311229",
+     "type": "quoted"
+    }
+   ],
+   "text": "流量密码 打印学习📑 https://t.co/dBCygaLTpU https://t.co/ImPL123dwJ",
+   "url": "https://x.com/i/status/2114952754582188366"
+  },
+  {
+   "created_at": "2026-10-27T05:28:13.000Z",
+   "edit_history_tweet_ids": [
+    "2114952284694311229"
+   ],
+   "id": "2114952284694311229",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 905,
+    "like_count": 0,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114568200029646864",
+     "type": "quoted"
+    }
+   ],
+   "text": "帮我分析这个帖子为什么这么火？\n\n命中了哪些传播要素？或者人性弱点？ @grok https://t.co/o8cAWSNGGv",
+   "url": "https://x.com/i/status/2114952284694311229"
+  },
+  {
+   "created_at": "2026-10-27T05:12:26.000Z",
+   "edit_history_tweet_ids": [
+    "2114948312281624843"
+   ],
+   "id": "2114948312281624843",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 627,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091341484863721969",
+     "type": "quoted"
+    }
+   ],
+   "text": "有推油 便宜出 FoloToy 的 AI PASSPORT 吗？\n\n我突然在想，是不是可以收几个组网啊？\n都发布这么久了，还没有基于这玩意的 IM 出现吗？🤔 https://t.co/FLIvtdHxgZ",
+   "url": "https://x.com/i/status/2114948312281624843"
+  },
+  {
+   "created_at": "2026-10-27T04:59:55.000Z",
+   "edit_history_tweet_ids": [
+    "2114945163688898664"
+   ],
+   "id": "2114945163688898664",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 231,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114945160677347738",
+     "type": "replied_to"
+    }
+   ],
+   "text": "完整提示词和实战过程👉\n\n「写了“推镜头”，AI 就真的在推吗？我拿同一张真人首帧做了 15 次对照」\nhttps://t.co/pdrwC1XJY1",
+   "url": "https://x.com/i/status/2114945163688898664"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2114944038344503296"
+    ]
+   },
+   "created_at": "2026-10-27T04:59:54.000Z",
+   "edit_history_tweet_ids": [
+    "2114945160677347738"
+   ],
+   "id": "2114945160677347738",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 1268,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114578198893936996",
+     "type": "quoted"
+    }
+   ],
+   "text": "绝了！感觉 H3 完全可以做真人剧了？ 【附完整教程🔥\n\n我拿自己 IP 母版试了运镜镜头，效果非常丝滑啊！🤯  \n\n重点是 1 秒才不到 1 毛钱，这价格用来批量做 AI 视频简直太香！  \n\n注册赠金体验👉\nhttps://t.co/CiMSYeQ8FH https://t.co/QSaWLYkDEM https://t.co/nZS1gqBX70",
+   "url": "https://x.com/i/status/2114945160677347738"
+  },
+  {
+   "created_at": "2026-10-27T04:13:52.000Z",
+   "edit_history_tweet_ids": [
+    "2114933573589545466"
+   ],
+   "id": "2114933573589545466",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 972,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114926133624053934",
+     "type": "quoted"
+    }
+   ],
+   "text": "其实很难评，我一直觉得\n\n在 劳动fa 都不当事的环境谈 职业道德 是个很扯淡的问题…\n\n社会契约都是博弈的结果，社会现象也是多方利益和动机动态博弈的实时表现。\n\n没有绝对的公平正义，只有屁股知道坐在哪里。 https://t.co/buSMKkHxTQ",
+   "url": "https://x.com/i/status/2114933573589545466"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "media_key": "3_2115270902208446464",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115270905228341248",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115249704670023680",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2114969269150846976",
+    "type": "photo"
+   },
+   {
+    "media_key": "13_2114968073690370048",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2114952744943616000",
+    "type": "photo"
+   },
+   {
+    "media_key": "13_2114944038344503296",
+    "type": "video"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2115270907442921842",
+  "oldest_id": "2114933573589545466",
+  "previous_token": "77qpymm88g5h9vqkmfprnnm0b4vux2cosufdnlqe07j1u",
+  "result_count": 22
+ }
+}

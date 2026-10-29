@@ -1,0 +1,344 @@
+{
+ "data": [
+  {
+   "created_at": "2026-10-28T01:30:35.000Z",
+   "edit_history_tweet_ids": [
+    "2115254871536611530"
+   ],
+   "id": "2115254871536611530",
+   "in_reply_to_user_id": "3178231",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 6745,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115254551078904086",
+     "type": "replied_to"
+    }
+   ],
+   "text": "如果你想申请的话，可以去：https://t.co/XEVsA7uuVD",
+   "url": "https://x.com/i/status/2115254871536611530"
+  },
+  {
+   "created_at": "2026-10-28T01:29:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115254551078904086"
+   ],
+   "id": "2115254551078904086",
+   "public_metrics": {
+    "bookmark_count": 19,
+    "impression_count": 22408,
+    "like_count": 41,
+    "quote_count": 6,
+    "reply_count": 65,
+    "retweet_count": 4
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114981340538159107",
+     "type": "quoted"
+    }
+   ],
+   "text": "如果你的 Claude Duet Waitlist 申请被接受，你将获得一次免费重置，可以检查一下 Claude Code 的手机 App 看是不是可以用 Duet 了。\n\nDuet 就是 Claude 的 Bot，我很期待，希望早点通过我的申请。 https://t.co/lCWD5Yv03b",
+   "url": "https://x.com/i/status/2115254551078904086"
+  },
+  {
+   "created_at": "2026-10-28T01:19:43.000Z",
+   "edit_history_tweet_ids": [
+    "2115252134769729617"
+   ],
+   "id": "2115252134769729617",
+   "public_metrics": {
+    "bookmark_count": 13,
+    "impression_count": 15379,
+    "like_count": 54,
+    "quote_count": 2,
+    "reply_count": 53,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115246437764350161",
+     "type": "quoted"
+    }
+   ],
+   "text": "GPT 6.1 Terra 这几天我用下来还不错，没用来编程，比 sol 耐用速度快，一些翻译写作任务做的挺不错 https://t.co/NrK0JiXwNK",
+   "url": "https://x.com/i/status/2115252134769729617"
+  },
+  {
+   "created_at": "2026-10-27T23:49:00.000Z",
+   "edit_history_tweet_ids": [
+    "2115229306490126432"
+   ],
+   "id": "2115229306490126432",
+   "public_metrics": {
+    "bookmark_count": 567,
+    "impression_count": 60485,
+    "like_count": 419,
+    "quote_count": 17,
+    "reply_count": 90,
+    "retweet_count": 63
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114542280535318557",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic 平台工程负责人 Katelyn Lesse：上千个 AI 智能体一起干活，还缺程序员解决四个难题\n\nAI 越来越会写代码，很多程序员开始怀疑自己的手艺还值不值钱。Anthropic 平台工程负责人 Katelyn Lesse 10 月 25 日发文说，她看到的情况正相反：接下来一两年，AI https://t.co/qzus2HXpYW",
+   "url": "https://x.com/i/status/2115229306490126432"
+  },
+  {
+   "created_at": "2026-10-27T23:07:03.000Z",
+   "edit_history_tweet_ids": [
+    "2115218749888634988"
+   ],
+   "id": "2115218749888634988",
+   "public_metrics": {
+    "bookmark_count": 699,
+    "impression_count": 96326,
+    "like_count": 653,
+    "quote_count": 24,
+    "reply_count": 127,
+    "retweet_count": 76
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115200995546566910",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic 工程经理 Felix Rieseberg：面试不再考编程题，新人的冲劲正在跑赢资历\n\nFelix Rieseberg 在 Anthropic 当工程经理，自己招人。他 10 月 27 日在个人博客说，这个月起，他面试时不再让候选人做传统的编程题。理由是 Claude 现在比人更会做这些题：考一道 https://t.co/OlQp9tpoMH",
+   "url": "https://x.com/i/status/2115218749888634988"
+  },
+  {
+   "created_at": "2026-10-27T20:45:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115183164905906513"
+   ],
+   "id": "2115183164905906513",
+   "public_metrics": {
+    "bookmark_count": 78,
+    "impression_count": 26236,
+    "like_count": 120,
+    "quote_count": 2,
+    "reply_count": 41,
+    "retweet_count": 14
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115178675050307942",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic 公布 Claude 参与新药研发的进展：设计、实验、写申报材料都在做，最快 2028 年底进入人体临床试验\n\nAnthropic 10 月 27 日发文，介绍过去几个月 Claude 在新药研发里做了什么：和 6 https://t.co/EwuwXCjIm4",
+   "url": "https://x.com/i/status/2115183164905906513"
+  },
+  {
+   "created_at": "2026-10-27T20:29:35.000Z",
+   "edit_history_tweet_ids": [
+    "2115179120468402228"
+   ],
+   "id": "2115179120468402228",
+   "in_reply_to_user_id": "3178231",
+   "public_metrics": {
+    "bookmark_count": 7,
+    "impression_count": 4891,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115175525698417150",
+     "type": "quoted"
+    },
+    {
+     "id": "2115175958768488768",
+     "type": "replied_to"
+    }
+   ],
+   "text": "只写代码多么轻松快乐 😂\nhttps://t.co/pw46UoJExH",
+   "url": "https://x.com/i/status/2115179120468402228"
+  },
+  {
+   "created_at": "2026-10-27T20:17:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115175958768488768"
+   ],
+   "id": "2115175958768488768",
+   "in_reply_to_user_id": "3178231",
+   "public_metrics": {
+    "bookmark_count": 11,
+    "impression_count": 8003,
+    "like_count": 14,
+    "quote_count": 1,
+    "reply_count": 15,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115162837844889943",
+     "type": "replied_to"
+    }
+   ],
+   "text": "一个好问题：一个管理人的经理在“执行/交付/建设团队”之外还有“培养人”的指标；一个管理agent的经理有没有相应的评价指标？\n\n好的 Agent 管理者应该沉淀知识库和 Skill，优化 AGENTS.md，从而大幅提升 Agent 理解项目、执行特定任务的效率。",
+   "url": "https://x.com/i/status/2115175958768488768"
+  },
+  {
+   "created_at": "2026-10-27T19:43:15.000Z",
+   "edit_history_tweet_ids": [
+    "2115167460714250475"
+   ],
+   "id": "2115167460714250475",
+   "public_metrics": {
+    "bookmark_count": 9,
+    "impression_count": 12173,
+    "like_count": 15,
+    "quote_count": 0,
+    "reply_count": 20,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115159585548021814",
+     "type": "quoted"
+    }
+   ],
+   "text": "我怎么印象中 Cursor 早就有这个标注功能了 https://t.co/DVUSbCTVzm",
+   "url": "https://x.com/i/status/2115167460714250475"
+  },
+  {
+   "created_at": "2026-10-27T19:24:53.000Z",
+   "edit_history_tweet_ids": [
+    "2115162837844889943"
+   ],
+   "id": "2115162837844889943",
+   "public_metrics": {
+    "bookmark_count": 188,
+    "impression_count": 51185,
+    "like_count": 196,
+    "quote_count": 12,
+    "reply_count": 56,
+    "retweet_count": 26
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114889715723948077",
+     "type": "quoted"
+    }
+   ],
+   "text": "多 loop 或者说多个 Agent 自己执行任务自己验证，这种方式会成为趋势的，原推说的这些问题都存在，但都不是障碍。\n\n这很像一个人从一个 IC（独立贡献者）晋升为 https://t.co/Yj8dvp8xxR",
+   "url": "https://x.com/i/status/2115162837844889943"
+  },
+  {
+   "created_at": "2026-10-27T18:15:54.000Z",
+   "edit_history_tweet_ids": [
+    "2115145479222665228"
+   ],
+   "id": "2115145479222665228",
+   "public_metrics": {
+    "bookmark_count": 70,
+    "impression_count": 30211,
+    "like_count": 100,
+    "quote_count": 4,
+    "reply_count": 37,
+    "retweet_count": 18
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115089794867040584",
+     "type": "quoted"
+    }
+   ],
+   "text": "AI 用 24 天让计算机核对完数学史上最长的证明：定理成立，但其中一篇论文的证法有漏洞，AI 换了一种证法补上\n\n一个证明长达 1.5 万页，散落在 500 多篇论文里，几十年来没有一个人从头到尾读完过，它到底对不对？AI 数学公司 Axiom 10 月 26 日宣布，他们用几十个 AI agent 花了 24 https://t.co/j2s1mQouj9",
+   "url": "https://x.com/i/status/2115145479222665228"
+  },
+  {
+   "created_at": "2026-10-27T14:22:03.000Z",
+   "edit_history_tweet_ids": [
+    "2115086630679695513"
+   ],
+   "id": "2115086630679695513",
+   "public_metrics": {
+    "bookmark_count": 12,
+    "impression_count": 44604,
+    "like_count": 57,
+    "quote_count": 1,
+    "reply_count": 16,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114934690440458257",
+     "type": "quoted"
+    }
+   ],
+   "text": "😂 这…… https://t.co/XCYlpqCZVe",
+   "url": "https://x.com/i/status/2115086630679695513"
+  },
+  {
+   "created_at": "2026-10-27T05:31:09.000Z",
+   "edit_history_tweet_ids": [
+    "2114953023525212546"
+   ],
+   "id": "2114953023525212546",
+   "in_reply_to_user_id": "3178231",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 12484,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114867168072315221",
+     "type": "quoted"
+    },
+    {
+     "id": "2114952872458633296",
+     "type": "replied_to"
+    }
+   ],
+   "text": "OpenAI 的\nhttps://t.co/Z4M6bJRXt7",
+   "url": "https://x.com/i/status/2114953023525212546"
+  },
+  {
+   "created_at": "2026-10-27T05:30:33.000Z",
+   "edit_history_tweet_ids": [
+    "2114952872458633296"
+   ],
+   "id": "2114952872458633296",
+   "public_metrics": {
+    "bookmark_count": 67,
+    "impression_count": 69493,
+    "like_count": 172,
+    "quote_count": 14,
+    "reply_count": 94,
+    "retweet_count": 17
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114930095009968506",
+     "type": "quoted"
+    }
+   ],
+   "text": "OpenAI 宣布 AI 推翻“指数时间假设”（ETH）的同一天，Anthropic 在 GitHub 上放出一篇论文，得出同样的结论，署名作者只有一个：Claude。\n\n论文说，核心算法是 10 月 16 日由一个内部研究版 Claude 找到的，用了 1400 万个输出 Token，没有人类输入。\n\nOpenAI 说自己的模型也是 10 月 16 https://t.co/yvrBTHWu2l",
+   "url": "https://x.com/i/status/2114952872458633296"
+  }
+ ],
+ "meta": {
+  "newest_id": "2115254871536611530",
+  "oldest_id": "2114952872458633296",
+  "previous_token": "77qpymm88g5h9vqkmfprnnm084hqay91twj5s6vstg9ww",
+  "result_count": 14
+ }
+}

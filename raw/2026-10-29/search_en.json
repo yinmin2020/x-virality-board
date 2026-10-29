@@ -1,0 +1,925 @@
+{
+ "data": [
+  {
+   "author_id": "2070402843727790080",
+   "created_at": "2026-10-29T03:50:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115652348651388961"
+   ],
+   "id": "2115652348651388961",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 168,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 6,
+    "retweet_count": 0
+   },
+   "text": "Looking to #connect with context engineering folks:\n\n📚 prompt files (too many)\n🧩 agent memory (forgetful)\n🧹 context cleanup (never done)\n🔍 retrieval setups (duct tape)\n🧪 eval runs (mostly vibes)\n🧱 system prompts (novels)\n\nyou too? let's connect 🤝 (i reply fast)",
+   "url": "https://x.com/boringdev77/status/2115652348651388961"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115701359345639424"
+    ]
+   },
+   "author_id": "1626612517165494276",
+   "created_at": "2026-10-29T07:28:59.000Z",
+   "edit_history_tweet_ids": [
+    "2115707455200243931"
+   ],
+   "id": "2115707455200243931",
+   "public_metrics": {
+    "bookmark_count": 4,
+    "impression_count": 456,
+    "like_count": 45,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 10
+   },
+   "text": "China may have just changed the AI memory game.\n\nTencentDB Agent Memory is open source, runs locally, and uses plain SQLite.\n\nNo Pinecone. No cloud APIs.\n\nThe numbers are wild:\n\n→ 61% fewer tokens\n→ PersonaMem accuracy: 48% → 76%\n→ Zero external API dependencies https://t.co/j6YfQVxuhz",
+   "url": "https://x.com/Vidhi2828/status/2115707455200243931"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115432816271904769"
+    ]
+   },
+   "author_id": "1159849290686226432",
+   "created_at": "2026-10-28T13:17:43.000Z",
+   "edit_history_tweet_ids": [
+    "2115432825495158981"
+   ],
+   "id": "2115432825495158981",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 319,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115153950026457132",
+     "type": "quoted"
+    }
+   ],
+   "text": "🧠 Hiring: Senior AI Engineer – LLM Agents - Ensitech\n📍 Remote (LATAM) | 💼 Full-time | 🧑‍💻 AI / LLM / Python / LangGraph | 💰 Competitive salary and benefits | 🕐 Posted 11 hours ago - October 28, 2026\n\nThe company is seeking a Senior AI Engineer to build and deploy https://t.co/0LsnkefBZR https://t.co/RrDOje9j7p",
+   "url": "https://x.com/crypto_vazima/status/2115432825495158981"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115152201479868416"
+    ]
+   },
+   "author_id": "2237382702",
+   "created_at": "2026-10-27T18:42:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115152212980605202"
+   ],
+   "id": "2115152212980605202",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 436,
+    "like_count": 54,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "Only 10 days left to join the @agentdojo campaign on @rarelistio and compete for a share of 1,500 USDT!\n\nImagine a world where AI agents aren't just tools... they're fighters.\n\nIn Agent Dojo, every agent is a unique warrior with its own personality, memory, decision-making https://t.co/qSBUyCVe1j",
+   "url": "https://x.com/olapadesam00/status/2115152212980605202"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115217814219034624"
+    ]
+   },
+   "author_id": "1360589207236919303",
+   "created_at": "2026-10-27T23:03:29.000Z",
+   "edit_history_tweet_ids": [
+    "2115217850592068013"
+   ],
+   "id": "2115217850592068013",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 511,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 1
+   },
+   "text": "The last person Steve Nouri interviewed was Nvidia's CEO, Jensen Huang.\n\nThen I was next. Not an easy follow-up\n\nBut I aim to deliver...\n\nHere's what we touched on at Oracle AI World in Las Vegas⤵\n\nIf you’re building agents, or leading a team that is, this is what I’d tell you https://t.co/B5X6O9oqH7",
+   "url": "https://x.com/richmondalake/status/2115217850592068013"
+  },
+  {
+   "author_id": "129969370",
+   "created_at": "2026-10-27T18:26:38.000Z",
+   "edit_history_tweet_ids": [
+    "2115148180610568514"
+   ],
+   "id": "2115148180610568514",
+   "public_metrics": {
+    "bookmark_count": 10,
+    "impression_count": 937,
+    "like_count": 15,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 1
+   },
+   "text": "Memory Tax: Dissecting the Net Value of Agent Memory\n\nFinds that many agent memory systems score below naive RAG over raw history. Splits memory's net value into benefit and tax.\n\n📝 https://t.co/YYLCvU7MgE\n👨🏽‍💻 https://t.co/TAZaDAkezh\n🤗 https://t.co/VLJSYMzocZ",
+   "url": "https://x.com/_reachsumit/status/2115148180610568514"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115085153085145088"
+    ]
+   },
+   "author_id": "757891106",
+   "created_at": "2026-10-28T13:00:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115428371379167588"
+   ],
+   "id": "2115428371379167588",
+   "public_metrics": {
+    "bookmark_count": 22,
+    "impression_count": 4835,
+    "like_count": 31,
+    "quote_count": 1,
+    "reply_count": 2,
+    "retweet_count": 3
+   },
+   "text": "〰️ TODAY at 10AM PT 〰️\n.NET AI Community Standup: Data Ingestion with .NET\n\nExplore how data ingestion, embeddings, and vector search support context engineering, including RAG, to help you build practical AI (cont) https://t.co/26zBIrpRAG https://t.co/T7ACxEUpkg",
+   "url": "https://x.com/dotnet/status/2115428371379167588"
+  },
+  {
+   "author_id": "1788271564649029632",
+   "created_at": "2026-10-29T04:56:12.000Z",
+   "edit_history_tweet_ids": [
+    "2115669003397955946"
+   ],
+   "id": "2115669003397955946",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 62,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 0
+   },
+   "text": "if you're building with AI, these are the five @DeepLearningAI courses i'd recommend, in this order:\n\n1. Agentic AI\n2. Loop Engineering\n3. Evaluating AI Agents\n4. Context Engineering\n5. RAG\n\nstart with agent workflows, then learn to refine and evaluate them, improve their",
+   "url": "https://x.com/solimancf/status/2115669003397955946"
+  },
+  {
+   "author_id": "916359097766858752",
+   "created_at": "2026-10-28T13:29:25.000Z",
+   "edit_history_tweet_ids": [
+    "2115435770055979167"
+   ],
+   "id": "2115435770055979167",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 787,
+    "like_count": 20,
+    "quote_count": 1,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115288728797155502",
+     "type": "quoted"
+    }
+   ],
+   "text": "The word “vector” has become one of the most important concepts in modern AI.Hindsight, the open-source agent memory system from @vectorizeio, is a strong example — built so agents can learn over time rather than simply recall conversation history. It has 55k+ GitHub stars: https://t.co/Jyo5eRJ0bK",
+   "url": "https://x.com/domainize/status/2115435770055979167"
+  },
+  {
+   "author_id": "1326081338206801921",
+   "created_at": "2026-10-27T18:34:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115150037059874888"
+   ],
+   "id": "2115150037059874888",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "another paper finds plain rag over the raw chat history beats the fancy agent memory systems. the hoarders were right",
+   "url": "https://x.com/ChristophZhang/status/2115150037059874888"
+  },
+  {
+   "author_id": "1360589207236919303",
+   "created_at": "2026-10-28T22:10:41.000Z",
+   "edit_history_tweet_ids": [
+    "2115566951577899224"
+   ],
+   "id": "2115566951577899224",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 461,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Someone asked me what the best moment of @Oracle AI World was.\n\nIt wasn’t the announcements, the puppies or the Cybertruck.\n\nIt was six words from a customer after my workshop.\n\n“You’ve just changed everything for me.”\n\nThey had just sat through my session on agent memory in",
+   "url": "https://x.com/richmondalake/status/2115566951577899224"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115219231646117888"
+    ]
+   },
+   "author_id": "3512491936",
+   "created_at": "2026-10-27T23:08:59.000Z",
+   "edit_history_tweet_ids": [
+    "2115219234586292344"
+   ],
+   "id": "2115219234586292344",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 179,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "\"When the tax outweighs the benefit, memory falls below RAG overall.\" - the Memory Tax paper. Plain RAG topped all 11 agent memory systems on one test.\n\n#AIAgents #AI https://t.co/64IU4bVLif",
+   "url": "https://x.com/fourweekmba/status/2115219234586292344"
+  },
+  {
+   "author_id": "2036801967721492481",
+   "created_at": "2026-10-28T13:31:04.000Z",
+   "edit_history_tweet_ids": [
+    "2115436185149481295"
+   ],
+   "id": "2115436185149481295",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Quick poll for the red teamers here 👇\n\nWhat's the most underrated AI attack surface right now?\n• MCP servers / tools\n• RAG documents\n• Agent memory\n• Browser agents\n\nDrop your war stories, we're all learning together.",
+   "url": "https://x.com/kagex_ai/status/2115436185149481295"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115665149621329920"
+    ]
+   },
+   "author_id": "1273309498921242624",
+   "created_at": "2026-10-29T04:40:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115665170777403898"
+   ],
+   "id": "2115665170777403898",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "UIUC and co tested 11 agent memory systems × 3 benchmarks × 3 backbones. 90 of 99 results came in below plain one-round RAG over the raw history. They call that the memory tax. https://t.co/GRVZ22OYoG",
+   "url": "https://x.com/UnfoldingManas/status/2115665170777403898"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "7_2115626344138547200"
+    ]
+   },
+   "author_id": "1655617090886172672",
+   "created_at": "2026-10-29T02:07:59.000Z",
+   "edit_history_tweet_ids": [
+    "2115626671386558689"
+   ],
+   "id": "2115626671386558689",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "At AI World, Tirthankar Lahiri and Sara Narayan will explore how Oracle AI Database brings together AI Vector Search, semantic knowledge, RAG, agent flows, unified agent memory, and built-in agent development capabilities in an AI-native agentic platform. https://t.co/x9ne0Ao3Gl https://t.co/PWVIfmJRjE",
+   "url": "https://x.com/Its_AKar/status/2115626671386558689"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115354337471868928"
+    ]
+   },
+   "author_id": "1289485823109402624",
+   "created_at": "2026-10-28T08:06:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115354548822831339"
+   ],
+   "id": "2115354548822831339",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 103,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "90/99 agent memory systems lost to plain RAG\n\nnew paper (Memory Tax): they tested 11 systems vs retrieval over raw chat history. rewriting history drops/distorts facts, then retrieval gets harder\n\nbefore shipping a memory layer: try RAG on the transcript first https://t.co/nw7GG4PdxG",
+   "url": "https://x.com/ilyapantsyr/status/2115354548822831339"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115599531022946305"
+    ]
+   },
+   "author_id": "1906617820122595328",
+   "created_at": "2026-10-29T00:20:09.000Z",
+   "edit_history_tweet_ids": [
+    "2115599534290260301"
+   ],
+   "id": "2115599534290260301",
+   "public_metrics": {
+    "bookmark_count": 8,
+    "impression_count": 1606,
+    "like_count": 19,
+    "quote_count": 2,
+    "reply_count": 9,
+    "retweet_count": 3
+   },
+   "text": "Agent memory is paying a tax\n\nAcross 11 memory systems, 3 benchmarks and 3 backbones, 90 of 99 memory results land below naive RAG, often at far higher token cost. UIUC and Tsinghua researchers call this gap memory tax. https://t.co/Wqqz5af5Vc",
+   "url": "https://x.com/HuggingPapers/status/2115599534290260301"
+  },
+  {
+   "author_id": "2109669786791903233",
+   "created_at": "2026-10-28T17:30:46.000Z",
+   "edit_history_tweet_ids": [
+    "2115496510569758875"
+   ],
+   "id": "2115496510569758875",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Fancy agent memory layers often lose to plain RAG over raw chat history — and cost more.\n\nSummaries quietly rewrite dates. Keep events raw; project only for this turn.\n\nDid yours win on YOUR logs, or the blog demo?",
+   "url": "https://x.com/EthanColeq9/status/2115496510569758875"
+  },
+  {
+   "author_id": "1280738015300579328",
+   "created_at": "2026-10-28T05:01:53.000Z",
+   "edit_history_tweet_ids": [
+    "2115308045324673412"
+   ],
+   "id": "2115308045324673412",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 78,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115098954799169970",
+     "type": "quoted"
+    }
+   ],
+   "text": "New \"Memory Tax\" paper: plain RAG over raw chat history beat most dedicated agent-memory systems on LongMemEval and MINT-Eval, at lower cost. Extraction distorts facts. Test simple retrieval before building a memory layer. via @omarsar0 #AIAgents https://t.co/OB56FfzRSU",
+   "url": "https://x.com/VisiveAI/status/2115308045324673412"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115439440558469121"
+    ]
+   },
+   "author_id": "1698750662396321793",
+   "created_at": "2026-10-28T13:45:15.000Z",
+   "edit_history_tweet_ids": [
+    "2115439755542323578"
+   ],
+   "id": "2115439755542323578",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 87,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115098954799169970",
+     "type": "quoted"
+    }
+   ],
+   "text": "A paper tested 11 agent memory systems against plain RAG on raw chat history. 90 of 99 scores came in below RAG (2 rounds), best gain +3.9 points. On one test memory used 8x to 365x the tokens. Preprint, LLM judge. Running a memory layer? Source: arXiv 2610.34073 https://t.co/nACS5Am4gM https://t.co/C7e0C7gLgx",
+   "url": "https://x.com/DisruptConcept/status/2115439755542323578"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115543015691608064"
+    ]
+   },
+   "author_id": "1837960126239854592",
+   "created_at": "2026-10-28T20:35:34.000Z",
+   "edit_history_tweet_ids": [
+    "2115543017537073523"
+   ],
+   "id": "2115543017537073523",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 62,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "New paper from UIUC, Tsinghua and others with a blunt finding: a lot of agent memory systems score below plain RAG over the raw chat history, and they cost more to run.\n\nThey call it the memory tax. https://t.co/fFqNHpuKmo",
+   "url": "https://x.com/buildAgoat/status/2115543017537073523"
+  },
+  {
+   "author_id": "2032737357951283200",
+   "created_at": "2026-10-28T03:56:45.000Z",
+   "edit_history_tweet_ids": [
+    "2115291656518062280"
+   ],
+   "id": "2115291656518062280",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 36,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "New paper on agent memory: fancy memory layers often lose to plain RAG over raw chat history. They call the gap “memory tax” — rewriting facts can cost more than it buys.\n\nBenchmark the simple baseline first.\n\nhttps://t.co/W81WgXRvwE",
+   "url": "https://x.com/mindmux/status/2115291656518062280"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "7_2115626003892477952"
+    ]
+   },
+   "author_id": "1608351024670035968",
+   "created_at": "2026-10-29T02:06:38.000Z",
+   "edit_history_tweet_ids": [
+    "2115626331316576277"
+   ],
+   "id": "2115626331316576277",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "At AI World, Tirthankar Lahiri and Sara Narayan will explore how Oracle AI Database brings together AI Vector Search, semantic knowledge, RAG, agent flows, unified agent memory, and built-in agent development capabilities in an AI-native agentic platform. https://t.co/YwuklMwkvc https://t.co/TMzRTRBeu7",
+   "url": "https://x.com/scottytherocky/status/2115626331316576277"
+  },
+  {
+   "author_id": "1720786888015929344",
+   "created_at": "2026-10-28T14:23:26.000Z",
+   "edit_history_tweet_ids": [
+    "2115449365800374622"
+   ],
+   "id": "2115449365800374622",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "New paper from UIUC: many agent memory systems score below plain RAG over raw history. They call the gap memory tax, answers lost because summarizing or rewriting dropped the evidence.\n\nSame lesson from my citation-first RAG work: once a chunk is paraphrased, you can't cite it.",
+   "url": "https://x.com/ashwinsharan158/status/2115449365800374622"
+  },
+  {
+   "author_id": "2076254281007525888",
+   "created_at": "2026-10-29T05:09:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115672229685989789"
+   ],
+   "id": "2115672229685989789",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 36,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2112518585465860230",
+     "type": "quoted"
+    }
+   ],
+   "text": "Tested EverOS Cloud from @evermind for agent memory and this is exactly what I needed - no custom RAG needed.\n\nHooked my support triage agent to ticket #409 (error 403 on sync) and dumped SOPs + old tickets in. It searches memory before it starts, then saves the run after. https://t.co/iO7qn5F4Rp",
+   "url": "https://x.com/ameerah2y1/status/2115672229685989789"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "media_key": "3_2115701359345639424",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115432816271904769",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115152201479868416",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115217814219034624",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115085153085145088",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115219231646117888",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115665149621329920",
+    "type": "photo"
+   },
+   {
+    "media_key": "7_2115626344138547200",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2115354337471868928",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115599531022946305",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115439440558469121",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115543015691608064",
+    "type": "photo"
+   },
+   {
+    "media_key": "7_2115626003892477952",
+    "type": "video"
+   }
+  ],
+  "users": [
+   {
+    "id": "2070402843727790080",
+    "name": "The Boring Developer",
+    "public_metrics": {
+     "followers_count": 1570,
+     "following_count": 1388,
+     "like_count": 3862,
+     "listed_count": 2,
+     "media_count": 35,
+     "tweet_count": 6552
+    },
+    "username": "boringdev77"
+   },
+   {
+    "id": "1626612517165494276",
+    "name": "Vidhi Toshniwal",
+    "public_metrics": {
+     "followers_count": 5241,
+     "following_count": 150,
+     "like_count": 8489,
+     "listed_count": 9,
+     "media_count": 166,
+     "tweet_count": 4258
+    },
+    "username": "Vidhi2828"
+   },
+   {
+    "id": "1159849290686226432",
+    "name": "Allweb3jobs by Crypto Vazima",
+    "public_metrics": {
+     "followers_count": 5446,
+     "following_count": 93,
+     "like_count": 4652,
+     "listed_count": 19,
+     "media_count": 20010,
+     "tweet_count": 22877
+    },
+    "username": "crypto_vazima"
+   },
+   {
+    "id": "2237382702",
+    "name": "🌱EngrSamest🕉🏡🔺",
+    "public_metrics": {
+     "followers_count": 8478,
+     "following_count": 7794,
+     "like_count": 144682,
+     "listed_count": 55,
+     "media_count": 5009,
+     "tweet_count": 46766
+    },
+    "username": "olapadesam00"
+   },
+   {
+    "id": "1360589207236919303",
+    "name": "Richmond Alake",
+    "public_metrics": {
+     "followers_count": 1012,
+     "following_count": 175,
+     "like_count": 1341,
+     "listed_count": 24,
+     "media_count": 219,
+     "tweet_count": 746
+    },
+    "username": "richmondalake"
+   },
+   {
+    "id": "129969370",
+    "name": "Sumit",
+    "public_metrics": {
+     "followers_count": 4450,
+     "following_count": 514,
+     "like_count": 1924,
+     "listed_count": 107,
+     "media_count": 1701,
+     "tweet_count": 10898
+    },
+    "username": "_reachsumit"
+   },
+   {
+    "id": "757891106",
+    "name": ".NET",
+    "public_metrics": {
+     "followers_count": 341480,
+     "following_count": 848,
+     "like_count": 597,
+     "listed_count": 2902,
+     "media_count": 6433,
+     "tweet_count": 11938
+    },
+    "username": "dotnet"
+   },
+   {
+    "id": "1788271564649029632",
+    "name": "Soliman",
+    "public_metrics": {
+     "followers_count": 134,
+     "following_count": 905,
+     "like_count": 1152,
+     "listed_count": 1,
+     "media_count": 67,
+     "tweet_count": 755
+    },
+    "username": "solimancf"
+   },
+   {
+    "id": "916359097766858752",
+    "name": "domainize",
+    "public_metrics": {
+     "followers_count": 2103,
+     "following_count": 850,
+     "like_count": 15915,
+     "listed_count": 13,
+     "media_count": 1522,
+     "tweet_count": 21804
+    },
+    "username": "domainize"
+   },
+   {
+    "id": "1326081338206801921",
+    "name": "Weighty",
+    "public_metrics": {
+     "followers_count": 45,
+     "following_count": 862,
+     "like_count": 57,
+     "listed_count": 0,
+     "media_count": 7,
+     "tweet_count": 139
+    },
+    "username": "ChristophZhang"
+   },
+   {
+    "id": "3512491936",
+    "name": "Gennaro",
+    "public_metrics": {
+     "followers_count": 5958,
+     "following_count": 4228,
+     "like_count": 28179,
+     "listed_count": 158,
+     "media_count": 5461,
+     "tweet_count": 25979
+    },
+    "username": "fourweekmba"
+   },
+   {
+    "id": "2036801967721492481",
+    "name": "kagex.ai",
+    "public_metrics": {
+     "followers_count": 5,
+     "following_count": 43,
+     "like_count": 95,
+     "listed_count": 0,
+     "media_count": 53,
+     "tweet_count": 127
+    },
+    "username": "kagex_ai"
+   },
+   {
+    "id": "1273309498921242624",
+    "name": "Manas Rastogi",
+    "public_metrics": {
+     "followers_count": 1,
+     "following_count": 130,
+     "like_count": 57,
+     "listed_count": 0,
+     "media_count": 3,
+     "tweet_count": 19
+    },
+    "username": "UnfoldingManas"
+   },
+   {
+    "id": "1655617090886172672",
+    "name": "AK",
+    "public_metrics": {
+     "followers_count": 0,
+     "following_count": 6,
+     "like_count": 28,
+     "listed_count": 0,
+     "media_count": 232,
+     "tweet_count": 268
+    },
+    "username": "Its_AKar"
+   },
+   {
+    "id": "1289485823109402624",
+    "name": "Illia Pantsyr",
+    "public_metrics": {
+     "followers_count": 24,
+     "following_count": 282,
+     "like_count": 2334,
+     "listed_count": 2,
+     "media_count": 32,
+     "tweet_count": 203
+    },
+    "username": "ilyapantsyr"
+   },
+   {
+    "id": "1906617820122595328",
+    "name": "Papers with Code",
+    "public_metrics": {
+     "followers_count": 22258,
+     "following_count": 4,
+     "like_count": 62,
+     "listed_count": 352,
+     "media_count": 3611,
+     "tweet_count": 7821
+    },
+    "username": "HuggingPapers"
+   },
+   {
+    "id": "2109669786791903233",
+    "name": "Ethan Cole",
+    "public_metrics": {
+     "followers_count": 2,
+     "following_count": 4,
+     "like_count": 2,
+     "listed_count": 0,
+     "media_count": 8,
+     "tweet_count": 80
+    },
+    "username": "EthanColeq9"
+   },
+   {
+    "id": "1280738015300579328",
+    "name": "VisiveAI",
+    "public_metrics": {
+     "followers_count": 2664,
+     "following_count": 2099,
+     "like_count": 3632,
+     "listed_count": 27,
+     "media_count": 9075,
+     "tweet_count": 12564
+    },
+    "username": "VisiveAI"
+   },
+   {
+    "id": "1698750662396321793",
+    "name": "DisruptiveConcepts",
+    "public_metrics": {
+     "followers_count": 2909,
+     "following_count": 5346,
+     "like_count": 189597,
+     "listed_count": 7,
+     "media_count": 468,
+     "tweet_count": 8152
+    },
+    "username": "DisruptConcept"
+   },
+   {
+    "id": "1837960126239854592",
+    "name": "Build A Goat",
+    "public_metrics": {
+     "followers_count": 390,
+     "following_count": 1201,
+     "like_count": 7608,
+     "listed_count": 2,
+     "media_count": 559,
+     "tweet_count": 2966
+    },
+    "username": "buildAgoat"
+   },
+   {
+    "id": "2032737357951283200",
+    "name": "MindMux.ai",
+    "public_metrics": {
+     "followers_count": 39,
+     "following_count": 4,
+     "like_count": 68,
+     "listed_count": 0,
+     "media_count": 1,
+     "tweet_count": 35
+    },
+    "username": "mindmux"
+   },
+   {
+    "id": "1608351024670035968",
+    "name": "Scott",
+    "public_metrics": {
+     "followers_count": 0,
+     "following_count": 1,
+     "like_count": 0,
+     "listed_count": 0,
+     "media_count": 226,
+     "tweet_count": 263
+    },
+    "username": "scottytherocky"
+   },
+   {
+    "id": "1720786888015929344",
+    "name": "Ashwin sharan",
+    "public_metrics": {
+     "followers_count": 2,
+     "following_count": 91,
+     "like_count": 54,
+     "listed_count": 0,
+     "media_count": 9,
+     "tweet_count": 138
+    },
+    "username": "ashwinsharan158"
+   },
+   {
+    "id": "2076254281007525888",
+    "name": "meerah",
+    "public_metrics": {
+     "followers_count": 6345,
+     "following_count": 7098,
+     "like_count": 2305,
+     "listed_count": 1,
+     "media_count": 15,
+     "tweet_count": 2642
+    },
+    "username": "ameerah2y1"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2115707455200243931",
+  "next_token": "b26v89c19zqg8o3juzlxnvztbrrs5nrkz7ahdxryhulx9",
+  "oldest_id": "2115148180610568514",
+  "result_count": 25
+ }
+}

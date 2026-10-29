@@ -1,0 +1,43 @@
+{
+ "data": [
+  {
+   "created_at": "2026-10-27T22:20:23.000Z",
+   "edit_history_tweet_ids": [
+    "2115207004293853358"
+   ],
+   "id": "2115207004293853358",
+   "public_metrics": {
+    "bookmark_count": 320,
+    "impression_count": 447051,
+    "like_count": 2208,
+    "quote_count": 130,
+    "reply_count": 336,
+    "retweet_count": 134
+   },
+   "text": "We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off.\nhttps://t.co/p0lA6cP2y1",
+   "url": "https://x.com/i/status/2115207004293853358"
+  },
+  {
+   "created_at": "2026-10-27T20:27:48.000Z",
+   "edit_history_tweet_ids": [
+    "2115178675050307942"
+   ],
+   "id": "2115178675050307942",
+   "public_metrics": {
+    "bookmark_count": 3974,
+    "impression_count": 3464524,
+    "like_count": 11581,
+    "quote_count": 678,
+    "reply_count": 745,
+    "retweet_count": 1295
+   },
+   "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+   "url": "https://x.com/i/status/2115178675050307942"
+  }
+ ],
+ "meta": {
+  "newest_id": "2115207004293853358",
+  "oldest_id": "2115178675050307942",
+  "result_count": 2
+ }
+}

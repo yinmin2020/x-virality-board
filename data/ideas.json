@@ -2,62 +2,59 @@
   "_comment": "Written by the agent each day (3 EN post ideas for the operator). Keep facts and numbers traceable to posts on the board. Short hyphen only, no new numbers.",
   "ideas": [
     {
-      "title": "Harnesses beat model chasing again",
-      "topic": "Open source tools and free access",
+      "title": "Context compaction is memory design, not a setting",
+      "topic": "Agent memory / RAG",
       "keywords": [
-        "open source / 开源",
-        "AI Agent",
+        "Memory / RAG",
+        "Claude / Opus",
         "code / 代码"
       ],
       "format": "screencast",
       "visual_type": "screencast",
-      "hook_en": "I used to chase the next big model. Lately I catch myself chasing harnesses instead. Cheap mid-tier models plus a plugin layer people actually enjoy hacking. That feels closer to how we once flashed ROMs than how we buy API tiers. If your agent stack only upgrades models and never upgrades the shell around them, you are optimizing the wrong layer.",
-      "video_tip": "18s screencast: open a blank agent shell, drop in two plugins side by side, flash a caption 'model stays; harness changes' then cut to a tiny plugin list scrolling like an Obsidian community tab.",
-      "angle": "yin min as DevOps + Agent builder: platform/shell > raw model upgrades; rides DeepSeek Harness plugin wave without copying anyone's punchline.",
-      "why": "op7418's DeepSeek Harness plugin post hit 339K views; vista8's Harness-as-Obsidian take hit 46K. Open-source tooling keywords were heavy on the board.",
+      "hook_en": "Everyone is sharing the right number for auto-compact. I keep thinking about the other question: what survives the summary? In my own agents the bugs never came from too little context. They came from the agent forgetting one decision it made two hours ago. Compaction is a memory policy. Treat it like one: pin the decisions, let the chatter go.",
+      "video_tip": "15s screencast: a long agent session scrolls fast, then collapses into a short summary; highlight two pinned lines labeled 'decisions' while everything else fades out.",
+      "angle": "yin min's Memory/RAG + Milvus background: reframes a Claude Code tip as a memory-architecture point.",
+      "why": "dotey's Claude Code /autocompact tip hit 44.5K views on 10-28; Memory/coding-agent keywords keep showing up on the board.",
       "evidence_urls": [
-        "https://x.com/op7418/status/2115000078104691168",
-        "https://x.com/vista8/status/2115084756253863978"
+        "https://x.com/dotey/status/2115505947187585302"
       ]
     },
     {
-      "title": "Stop interviewing for what Claude already owns",
+      "title": "Multi-agent needs ops people, not just prompt people",
       "topic": "Coding agents (Codex, Claude)",
       "keywords": [
-        "Claude / Opus",
+        "AI Agent",
         "Anthropic",
         "code / 代码"
       ],
       "format": "talking-head",
-      "visual_type": "video",
-      "hook_en": "If your interview still hinges on a textbook coding puzzle, you are ranking candidates against Claude's homework set. I hire for ops and agents: I care who can debug a flaky retrieval path, own a failure mode, and say no to a shiny memory framework. The race is not who types faster. It is who still has judgment when the model is already fluent.",
-      "video_tip": "12s: whiteboard erase of a leetcode-style prompt, rewrite three bullets: failure ownership, retrieval debugging, shipping judgment; end on 'Claude owns the puzzle; you own the system'.",
-      "angle": "Personal hiring/ops judgment reacting to Anthropic skipping classic coding screens — original voice, not a summary of Felix's blog.",
-      "why": "dotey's Felix Rieseberg interview piece hit 84K; Anthropic/Claude keywords dominated view-weighted lexicon; Claude-authored ETH paper thread hit 68K.",
+      "visual_type": "talking-head",
+      "hook_en": "I run an ops team, and reading the takes on 'thousands of agents working together' made me oddly calm. The hard parts listed there are identity, isolation, observability and a kill switch. That is my day job, just with a new kind of worker. If you came from DevOps and worry AI made you obsolete, I think the opposite is happening.",
+      "video_tip": "20s talking-head: start on a terminal of K8s pods, overlay four words one by one (identity, isolation, observability, kill switch), end on 'same job, new workers'.",
+      "angle": "yin min as DevOps lead building an Ops Agent: first-person reassurance for infra engineers.",
+      "why": "dotey's write-up of Anthropic platform lead Katelyn Lesse on multi-agent engineering problems reached 60.5K views; shao__meng covered the same infra/identity/kill-switch angle.",
       "evidence_urls": [
-        "https://x.com/dotey/status/2115218749888634988",
-        "https://x.com/dotey/status/2114952872458633296",
-        "https://x.com/AnthropicAI/status/2115178675050307942"
+        "https://x.com/dotey/status/2115229306490126432",
+        "https://x.com/shao__meng/status/2115252887882539279"
       ]
     },
     {
-      "title": "Personal agents are shipping before enterprise memory is ready",
-      "topic": "Agent memory / RAG",
+      "title": "Leftover worktrees are agent garbage collection",
+      "topic": "Coding agents (Codex, Claude)",
       "keywords": [
         "AI Agent",
-        "Memory / RAG",
-        "Grok Bot"
+        "Codex",
+        "code / 代码"
       ],
-      "format": "video",
-      "visual_type": "video",
-      "hook_en": "Timeline today: consumer agents plugging into payments and rides, Grok Bot desks running unattended loops, and my own posts still lagging the 5K view bar. That contrast is the story. Distribution for personal agents is accelerating. Durable memory and retrieval for the same agents is still the boring bottleneck. I am not scared of the demos. I am watching who ships the memory layer that does not fall over on day three.",
-      "video_tip": "15s split: left a personal-agent home screen lighting up connectors; right a RAG trace with a red 'day-3 forgotten context' flash; caption 'ship the connector last if memory is still soft'.",
-      "angle": "Rides personal-Agent + Grok Bot wave while anchoring yin min's RAG/Memory lane and honest self-performance vs thresholds.",
-      "why": "xiaohu's personal Agent / 灵光 2.0 post hit 43K; 0xlangeai's Grok Bot quant video hit 128K; board keywords topped with Claude/Anthropic then AI Agent / Grok Bot.",
+      "format": "screencast",
+      "visual_type": "screencast",
+      "hook_en": "My laptop froze last week with a few Codex and Claude sessions open, and the culprit was not the models. It was everything the agents left behind. Old worktrees, branches, build folders. Agents are great at starting work and terrible at cleaning up. One rule in AGENTS.md fixed more for me than any model upgrade: when you finish, delete what you created.",
+      "video_tip": "15s screencast: `git worktree list` showing a long pile of agent worktrees, then add one cleanup rule to AGENTS.md, rerun the list and show it nearly empty.",
+      "angle": "Builds on yin min's own post about 16GB RAM choking under several Codex/Claude sessions; practical DevOps hygiene for agents.",
+      "why": "dotey's AGENTS.md worktree-cleanup rule hit 35.9K views on 10-28; coding-agent keywords dominated the board.",
       "evidence_urls": [
-        "https://x.com/xiaohu/status/2114956083517329906",
-        "https://x.com/0xlangeai/status/2114996566755037275",
-        "https://x.com/yinmin1987/status/2115261453238468876"
+        "https://x.com/dotey/status/2115314783503196605",
+        "https://x.com/yinmin1987/status/2115285977484902564"
       ]
     }
   ]

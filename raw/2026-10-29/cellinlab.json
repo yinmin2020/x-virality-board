@@ -1,0 +1,653 @@
+{
+ "data": [
+  {
+   "created_at": "2026-10-29T08:56:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115729520112345423"
+   ],
+   "id": "2115729520112345423",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 17916,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115701730742808811",
+     "type": "quoted"
+    }
+   ],
+   "text": "卧槽，现在已经这样了吗。。。 https://t.co/UY0kxZZOAq",
+   "url": "https://x.com/i/status/2115729520112345423"
+  },
+  {
+   "created_at": "2026-10-29T05:29:31.000Z",
+   "edit_history_tweet_ids": [
+    "2115677390521479620"
+   ],
+   "id": "2115677390521479620",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 654,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115676645092942247",
+     "type": "quoted"
+    }
+   ],
+   "text": "哈哈哈哈 那剧情可能就是：\n\nCook：什么？你要搞触摸屏？要不这个 CEO 你来当？🐶 https://t.co/IpwY0BLc5l",
+   "url": "https://x.com/i/status/2115677390521479620"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115676737397022720"
+    ]
+   },
+   "created_at": "2026-10-29T05:27:55.000Z",
+   "edit_history_tweet_ids": [
+    "2115676985209000328"
+   ],
+   "id": "2115676985209000328",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 812,
+    "like_count": 2,
+    "quote_count": 1,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115639339887829318",
+     "type": "quoted"
+    }
+   ],
+   "text": "不会 过几年出来 MBP 版本 折叠屏 吧？？！\n\n先让屏幕支持触摸，再慢慢把键盘变成屏幕。\n一半用来显示内容，一半随时切换成虚拟键盘。\n再往后，语音输入、甚至意念输入越来越方便，键盘也许就不再是必需品了。\n最后展开，就是一块大屏幕。\n\n收起来，像一台放大版的 iPhone Duo... https://t.co/BHvXnvI5Eg https://t.co/QHcRzDyyys",
+   "url": "https://x.com/i/status/2115676985209000328"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115654814915018753"
+    ]
+   },
+   "created_at": "2026-10-29T03:59:54.000Z",
+   "edit_history_tweet_ids": [
+    "2115654837224542530"
+   ],
+   "id": "2115654837224542530",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 647,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115472847309263168",
+     "type": "quoted"
+    }
+   ],
+   "text": "把所有常用表情包 全换成自己的 IP 了！\n\nIP 的秘诀就是：在场，重复，专注！ https://t.co/EH7I0kdG9f https://t.co/HWP6Y1RY5a",
+   "url": "https://x.com/i/status/2115654837224542530"
+  },
+  {
+   "created_at": "2026-10-29T03:45:49.000Z",
+   "edit_history_tweet_ids": [
+    "2115651293729767472"
+   ],
+   "id": "2115651293729767472",
+   "in_reply_to_user_id": "1131442257675083777",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 249,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115651280416997599",
+     "type": "replied_to"
+    }
+   ],
+   "text": "想跟着教程自己试试，可以看看 Renoise 的万圣节活动 🎃\n\n北京时间 10 月 27 日 00:00 至 11 月 3 日 00:00：\n\n• Standard（$60/月）可不限量使用 Wan 3.0\n• Advanced（$200/月）可不限量使用 Seedance 2.5、Wan 3.0 和 Kling 4.0 Omni\n• 订阅最高 30% off\n\n入口：https://t.co/eOeemkucP1",
+   "url": "https://x.com/i/status/2115651293729767472"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2115651087126687746"
+    ]
+   },
+   "created_at": "2026-10-29T03:45:46.000Z",
+   "edit_history_tweet_ids": [
+    "2115651280416997599"
+   ],
+   "id": "2115651280416997599",
+   "public_metrics": {
+    "bookmark_count": 19,
+    "impression_count": 2572,
+    "like_count": 24,
+    "quote_count": 13,
+    "reply_count": 25,
+    "retweet_count": 5
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115647047332512094",
+     "type": "quoted"
+    }
+   ],
+   "text": "前面那支穿越《硅谷》的剧情片，还有里面的 DayShare 产品概念片，到底是怎么做出来的？\n\n这次我把整个过程整理成了一个教程。\n\n一开始，我其实用错了方法：把 Renoise 当成一个单纯生成视频片段的工具，镜头、画面、动作都想自己提前规定好。 https://t.co/Y3wbVSPn7o https://t.co/esX6t4smoS",
+   "url": "https://x.com/i/status/2115651280416997599"
+  },
+  {
+   "created_at": "2026-10-29T03:29:00.000Z",
+   "edit_history_tweet_ids": [
+    "2115647060347367780"
+   ],
+   "id": "2115647060347367780",
+   "in_reply_to_user_id": "1131442257675083777",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 230,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115647047332512094",
+     "type": "replied_to"
+    }
+   ],
+   "text": "想用 Codex + Renoise 做自己的产品片，也可以趁万圣节活动试试 🎃\n\n活动时间：北京时间 10 月 27 日 00:00 至 11 月 3 日 00:00。\n\nStandard（$60/月）可不限量使用 Wan 3.0；Advanced（$200/月）可不限量使用 Seedance 2.5、Wan 3.0 和 Kling 4.0 Omni。订阅最高 30% off。\n\n👉",
+   "url": "https://x.com/i/status/2115647060347367780"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2115646938549043200"
+    ]
+   },
+   "created_at": "2026-10-29T03:28:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115647047332512094"
+   ],
+   "id": "2115647047332512094",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2239,
+    "like_count": 3,
+    "quote_count": 2,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115642414623047704",
+     "type": "quoted"
+    }
+   ],
+   "text": "很难相信这产品宣传片只用了 Codex + Renoise ，全程没有打开剪辑软件！\n\n看完成片，我真的有点被震到了……🤯\n\n制作这支片子过程，没有手动剪一个镜头，也没有亲自设计任何动效。\n\n我做的，只是在对话里告诉它我想做什么，提供一些参考图和要求，然后让它自己去发挥。\n\n结果它直接给我做出了一支 78 https://t.co/OLjTuewVv1 https://t.co/ApDdAvdUhm",
+   "url": "https://x.com/i/status/2115647047332512094"
+  },
+  {
+   "created_at": "2026-10-29T03:10:36.000Z",
+   "edit_history_tweet_ids": [
+    "2115642427101110545"
+   ],
+   "id": "2115642427101110545",
+   "in_reply_to_user_id": "1131442257675083777",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 185,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115642414623047704",
+     "type": "replied_to"
+    }
+   ],
+   "text": "想试试把自己的想法做成 AI 视频，可以看看 Renoise 的万圣节活动 🎃\n\n北京时间 10 月 27 日 00:00 到 11 月 3 日 00:00：\n\n• Standard（$60/月）可不限量使用 Wan 3.0\n• Advanced（$200/月）可不限量使用 Seedance 2.5、Wan 3.0 和 Kling 4.0 Omni\n• 订阅最高 30% off\n\n👉 https://t.co/eOeemkucP1",
+   "url": "https://x.com/i/status/2115642427101110545"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2115642216865832960"
+    ]
+   },
+   "created_at": "2026-10-29T03:10:33.000Z",
+   "edit_history_tweet_ids": [
+    "2115642414623047704"
+   ],
+   "id": "2115642414623047704",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 2317,
+    "like_count": 5,
+    "quote_count": 1,
+    "reply_count": 5,
+    "retweet_count": 0
+   },
+   "text": "当我把自己的真人 IP 穿越到美剧《硅谷》，和他们一起头脑风暴一个创业想法……😂\n\n刚用 Renoise 做了一支 AI 剧情短片：我跑进《硅谷》的创业屋，站在白板前，向大家介绍一个叫「趣发布」的产品。\n\n这次是在 Codex 里调用 Renoise https://t.co/pbyEHBpajE",
+   "url": "https://x.com/i/status/2115642414623047704"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115639646009036800"
+    ]
+   },
+   "created_at": "2026-10-29T02:59:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115639673548845133"
+   ],
+   "id": "2115639673548845133",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 563,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115270907442921842",
+     "type": "quoted"
+    }
+   ],
+   "text": "卧槽？ Zenmux 居然还可以抢红包换 Token 了！ https://t.co/xz2PXJ8y28 https://t.co/Leu8R318Qh",
+   "url": "https://x.com/i/status/2115639673548845133"
+  },
+  {
+   "created_at": "2026-10-29T02:41:04.000Z",
+   "edit_history_tweet_ids": [
+    "2115634995343843633"
+   ],
+   "id": "2115634995343843633",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 778,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "又是忙到没空刷推的一天。。",
+   "url": "https://x.com/i/status/2115634995343843633"
+  },
+  {
+   "created_at": "2026-10-29T02:15:11.000Z",
+   "edit_history_tweet_ids": [
+    "2115628483774943737"
+   ],
+   "id": "2115628483774943737",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 716,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115622708037943683",
+     "type": "quoted"
+    }
+   ],
+   "text": "Make 华北制造 great again！🚀 https://t.co/YvxjsfMJWw",
+   "url": "https://x.com/i/status/2115628483774943737"
+  },
+  {
+   "created_at": "2026-10-28T15:56:45.000Z",
+   "edit_history_tweet_ids": [
+    "2115472847309263168"
+   ],
+   "id": "2115472847309263168",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1461,
+    "like_count": 1,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115465308681211943",
+     "type": "quoted"
+    }
+   ],
+   "text": "感谢认可！\n\n高频出场、一直在场、获得信任、产生价值！ https://t.co/OX8nyXBTAe",
+   "url": "https://x.com/i/status/2115472847309263168"
+  },
+  {
+   "created_at": "2026-10-28T12:43:41.000Z",
+   "edit_history_tweet_ids": [
+    "2115424260672151982"
+   ],
+   "id": "2115424260672151982",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1039,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115422431280001440",
+     "type": "quoted"
+    }
+   ],
+   "text": "太棒了！搞起来！仓库可比车库大！ https://t.co/FEY7ZZPoui",
+   "url": "https://x.com/i/status/2115424260672151982"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115422707764654080"
+    ]
+   },
+   "created_at": "2026-10-28T12:37:35.000Z",
+   "edit_history_tweet_ids": [
+    "2115422727121289243"
+   ],
+   "id": "2115422727121289243",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2377,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115321293352444342",
+     "type": "quoted"
+    }
+   ],
+   "text": "笑死 grok 是一点不见外啊…？\n不过这上下文能力是真牛逼！ https://t.co/NCSrtxUklj https://t.co/3ftAIbssFo",
+   "url": "https://x.com/i/status/2115422727121289243"
+  },
+  {
+   "created_at": "2026-10-28T10:04:04.000Z",
+   "edit_history_tweet_ids": [
+    "2115384093089382577"
+   ],
+   "id": "2115384093089382577",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1073,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115379079872692530",
+     "type": "quoted"
+    }
+   ],
+   "text": "感觉都是 “穷怕了”、“要干一票大的”、“以后可能没机会了”、“人生能遇到几次风口”、“说不定zc马上就变了”...这些思想的遗毒。\n\n意识形态不升级，这些问题很难解决，个人经济条件不改善，意识形态很难升级，至于个人经济条件怎么改善，就不能展开讲了...😑 https://t.co/i738DWE6Qu",
+   "url": "https://x.com/i/status/2115384093089382577"
+  },
+  {
+   "created_at": "2026-10-28T09:59:51.000Z",
+   "edit_history_tweet_ids": [
+    "2115383031171322018"
+   ],
+   "id": "2115383031171322018",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2133,
+    "like_count": 1,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115375882147860931",
+     "type": "quoted"
+    }
+   ],
+   "text": "而且 有些剧 三观 贼正，\n甚至我都有种 字节在抖音造的孽，\n能在红果赎回来的感觉。。。 https://t.co/zSPwtl7z5o",
+   "url": "https://x.com/i/status/2115383031171322018"
+  },
+  {
+   "created_at": "2026-10-28T09:29:48.000Z",
+   "edit_history_tweet_ids": [
+    "2115375469982109845"
+   ],
+   "id": "2115375469982109845",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 943,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115178675050307942",
+     "type": "quoted"
+    }
+   ],
+   "text": "鱼博应该做这个适合 @xiangyuli https://t.co/36j05zUjau",
+   "url": "https://x.com/i/status/2115375469982109845"
+  },
+  {
+   "created_at": "2026-10-28T05:59:14.000Z",
+   "edit_history_tweet_ids": [
+    "2115322481049579747"
+   ],
+   "id": "2115322481049579747",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 1906,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115096351012979048",
+     "type": "quoted"
+    }
+   ],
+   "text": "难说，一般能出来做自媒体的，\n某种程度上都是综合能力强的。\n\n有可能直接裁到大动脉...\n\n(md，我盼裁员盼了一年多，领导没刷到我推特，还是刷到了，假装没看见。。。 https://t.co/kOvEUKMnFM",
+   "url": "https://x.com/i/status/2115322481049579747"
+  },
+  {
+   "created_at": "2026-10-28T03:57:35.000Z",
+   "edit_history_tweet_ids": [
+    "2115291866027729088"
+   ],
+   "id": "2115291866027729088",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 996,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115286699362414710",
+     "type": "quoted"
+    }
+   ],
+   "text": "我也想 \n\n出门看看，涨涨见识，也不枉此生。 https://t.co/VarckrkQdR",
+   "url": "https://x.com/i/status/2115291866027729088"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115280646201614336"
+    ]
+   },
+   "created_at": "2026-10-28T03:13:28.000Z",
+   "edit_history_tweet_ids": [
+    "2115280762748768260"
+   ],
+   "id": "2115280762748768260",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 889,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115277613220733145",
+     "type": "quoted"
+    }
+   ],
+   "text": "IP 和 品牌 有个秘诀就是极致的重复，\n不断的重复，直到有人发现\n你一直在重复，记住你在重复什么。 https://t.co/JjSA3CoUMj https://t.co/HVKe8kmsjh",
+   "url": "https://x.com/i/status/2115280762748768260"
+  },
+  {
+   "created_at": "2026-10-28T02:52:38.000Z",
+   "edit_history_tweet_ids": [
+    "2115275518425874556"
+   ],
+   "id": "2115275518425874556",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1109,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115274347241988181",
+     "type": "quoted"
+    }
+   ],
+   "text": "艹 ，大家别忘了，30 号还有张重置卡过期！ https://t.co/KCIdq0aaLF",
+   "url": "https://x.com/i/status/2115275518425874556"
+  },
+  {
+   "created_at": "2026-10-28T02:47:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115274347241988181"
+   ],
+   "id": "2115274347241988181",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 3499,
+    "like_count": 1,
+    "quote_count": 1,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115273064481218829",
+     "type": "quoted"
+    }
+   ],
+   "text": "请告诉 Codex 预计北京时间什么时候重置？@grok https://t.co/3B0vr9PVHb",
+   "url": "https://x.com/i/status/2115274347241988181"
+  },
+  {
+   "created_at": "2026-10-28T02:34:21.000Z",
+   "edit_history_tweet_ids": [
+    "2115270919434449287"
+   ],
+   "id": "2115270919434449287",
+   "in_reply_to_user_id": "1131442257675083777",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 302,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115270907442921842",
+     "type": "replied_to"
+    }
+   ],
+   "text": "前往 ZenMux，查看并解锁万圣节盲盒 🎁\n\nhttps://t.co/bjD5bWXBow\n\n⚠️ 活动到 10 月 31 日北京时间 22:00 结束～",
+   "url": "https://x.com/i/status/2115270919434449287"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "media_key": "3_2115676737397022720",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115654814915018753",
+    "type": "photo"
+   },
+   {
+    "media_key": "13_2115651087126687746",
+    "type": "video"
+   },
+   {
+    "media_key": "13_2115646938549043200",
+    "type": "video"
+   },
+   {
+    "media_key": "13_2115642216865832960",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2115639646009036800",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115422707764654080",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115280646201614336",
+    "type": "photo"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2115729520112345423",
+  "next_token": "7140dibdnow9c7btwp0g783nk4qv2o668hqaee7lmxp9z",
+  "oldest_id": "2115270919434449287",
+  "result_count": 25
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "data": [
+  {
+   "id": "1353836358901501952",
+   "name": "Anthropic",
+   "public_metrics": {
+    "followers_count": 1854594,
+    "following_count": 2,
+    "like_count": 1598,
+    "listed_count": 16416,
+    "media_count": 659,
+    "tweet_count": 1737
+   },
+   "username": "AnthropicAI"
+  },
+  {
+   "id": "4398626122",
+   "name": "OpenAI",
+   "public_metrics": {
+    "followers_count": 5487134,
+    "following_count": 4,
+    "like_count": 2563,
+    "listed_count": 33272,
+    "media_count": 750,
+    "tweet_count": 2206
+   },
+   "username": "OpenAI"
+  },
+  {
+   "id": "3178231",
+   "name": "宝玉",
+   "public_metrics": {
+    "followers_count": 262797,
+    "following_count": 1766,
+    "like_count": 56593,
+    "listed_count": 4768,
+    "media_count": 6067,
+    "tweet_count": 35031
+   },
+   "username": "dotey"
+  },
+  {
+   "id": "1764818331822182400",
+   "name": "小互",
+   "public_metrics": {
+    "followers_count": 126111,
+    "following_count": 1777,
+    "like_count": 2511,
+    "listed_count": 1858,
+    "media_count": 7001,
+    "tweet_count": 11586
+   },
+   "username": "xiaohu"
+  },
+  {
+   "id": "1997889576187387904",
+   "name": "铁柱AGI",
+   "public_metrics": {
+    "followers_count": 11042,
+    "following_count": 1522,
+    "like_count": 11416,
+    "listed_count": 80,
+    "media_count": 606,
+    "tweet_count": 6445
+   },
+   "username": "cgnot996"
+  },
+  {
+   "id": "1988475714501570561",
+   "name": "李岳",
+   "public_metrics": {
+    "followers_count": 54271,
+    "following_count": 887,
+    "like_count": 9980,
+    "listed_count": 423,
+    "media_count": 2088,
+    "tweet_count": 10442
+   },
+   "username": "liyue_ai"
+  },
+  {
+   "id": "1727548535816724480",
+   "name": "meng shao",
+   "public_metrics": {
+    "followers_count": 36549,
+    "following_count": 1116,
+    "like_count": 66679,
+    "listed_count": 701,
+    "media_count": 7551,
+    "tweet_count": 15958
+   },
+   "username": "shao__meng"
+  },
+  {
+   "id": "1669276256",
+   "name": "歸藏(guizang.ai)",
+   "public_metrics": {
+    "followers_count": 183573,
+    "following_count": 1312,
+    "like_count": 48459,
+    "listed_count": 3275,
+    "media_count": 8830,
+    "tweet_count": 26341
+   },
+   "username": "op7418"
+  },
+  {
+   "id": "6690032",
+   "name": "向阳乔木",
+   "public_metrics": {
+    "followers_count": 133846,
+    "following_count": 1681,
+    "like_count": 12389,
+    "listed_count": 2247,
+    "media_count": 3469,
+    "tweet_count": 10710
+   },
+   "username": "vista8"
+  },
+  {
+   "id": "1474067654",
+   "name": "李继刚",
+   "public_metrics": {
+    "followers_count": 57631,
+    "following_count": 38,
+    "like_count": 470,
+    "listed_count": 950,
+    "media_count": 187,
+    "tweet_count": 1193
+   },
+   "username": "lijigang"
+  },
+  {
+   "id": "1759530111534243840",
+   "name": "蓝哥AI",
+   "public_metrics": {
+    "followers_count": 11243,
+    "following_count": 733,
+    "like_count": 5896,
+    "listed_count": 65,
+    "media_count": 617,
+    "tweet_count": 6051
+   },
+   "username": "0xlangeai"
+  },
+  {
+   "id": "1131442257675083777",
+   "name": "Cell 细胞",
+   "public_metrics": {
+    "followers_count": 35027,
+    "following_count": 7070,
+    "like_count": 31219,
+    "listed_count": 370,
+    "media_count": 4212,
+    "tweet_count": 24735
+   },
+   "username": "cellinlab"
+  },
+  {
+   "id": "1581259092928040961",
+   "name": "尹珉",
+   "public_metrics": {
+    "followers_count": 5818,
+    "following_count": 5078,
+    "like_count": 12175,
+    "listed_count": 34,
+    "media_count": 1384,
+    "tweet_count": 8857
+   },
+   "username": "yinmin1987"
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "data": [
+  {
+   "author_id": "1080114970509987845",
+   "created_at": "2026-10-28T03:02:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115277956897706428"
+   ],
+   "id": "2115277956897706428",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 223,
+    "like_count": 1,
+    "quote_count": 1,
+    "reply_count": 4,
+    "retweet_count": 0
+   },
+   "text": "🎓 斯坦福 2026 秋季新课 CS329Z：Engineering AI Agents（AI 智能体工程）\n\n对于想深入学习 Agent 开发的人来说，这是一套很有价值的系统性学习资源。\n\nCS329Z 由 Diyi Yang、Michael Ryan 和 John Yang 等人授课，重点讲解如何从零构建、优化和评估真正能工作的 AI Agent 系统。\n\n📚 课程主要内容：",
+   "url": "https://x.com/coder_onchain/status/2115277956897706428"
+  },
+  {
+   "author_id": "1207019158791229440",
+   "created_at": "2026-10-28T03:19:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115282319531786275"
+   ],
+   "id": "2115282319531786275",
+   "public_metrics": {
+    "bookmark_count": 8,
+    "impression_count": 3272,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115282013523710461",
+     "type": "quoted"
+    }
+   ],
+   "text": "想当 agent 工程师，斯坦福这门 CS329Z 可以直接拿来抄作业。\n\n从 RAG、工具调用、MCP，一路讲到记忆、多智能体、评测和安全。\n\n课件和必读论文都挂在官网上。\n\n🔗 https://t.co/YnRdZsqAgu https://t.co/ILyOQHJ2DP",
+   "url": "https://x.com/NFTCPS/status/2115282319531786275"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115115003653304320"
+    ]
+   },
+   "author_id": "1928485065329356804",
+   "created_at": "2026-10-28T06:30:00.000Z",
+   "edit_history_tweet_ids": [
+    "2115330220777758725"
+   ],
+   "id": "2115330220777758725",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 275,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "光看教程做不出 AI 应用？不如直接翻现成项目练手。\n\nawesome-llm-apps 这个仓库我翻了一圈，全是基于大语言模型搭建的应用案例，AI Agent、RAG、多智能体协作、各类模型集成都在里头。\n\n🤖 看不同 Agent 怎么搭\n📚 学 RAG 和知识库应用\n💻 对着代码动手复现\n找灵感、学架构、练手做 Demo https://t.co/GVSfJ7JV0T",
+   "url": "https://x.com/wangxiaoxin88/status/2115330220777758725"
+  },
+  {
+   "author_id": "2111005617640943616",
+   "created_at": "2026-10-29T12:15:33.000Z",
+   "edit_history_tweet_ids": [
+    "2115779568892268705"
+   ],
+   "id": "2115779568892268705",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 410,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 1
+   },
+   "text": "Anthropic 官方出品的大模型应用开发圣经！玩转 Claude API 的全方位代码食谱与 Notebook 宝库：Claude Cookbooks 🤖🍳\n\n在基于 Anthropic Claude API 开发大模型应用时，如何编写高质量 Prompt、如何实现高效的 RAG 检索增强、如何玩转 Tool Use 工具调用、如何通过 Prompt Caching",
+   "url": "https://x.com/n7wb1l/status/2115779568892268705"
+  },
+  {
+   "author_id": "1844800853674508288",
+   "created_at": "2026-10-28T11:03:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115399100375933330"
+   ],
+   "id": "2115399100375933330",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 32,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "「开十个 agent 一起写」听着爽，直到它们抢同一文件、重复踩同一坑。\n\n开源 ruflo（约 **8.0 万**★）把自己定位成 agent harness：多智能体编排、自适应记忆、联邦与 RAG，并原生接 Claude Code / Codex / Hermes 等。热闹功能很多——真正贵的是你有没有任务边界和回滚面。",
+   "url": "https://x.com/nickling017/status/2115399100375933330"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "7_2115348843869138944"
+    ]
+   },
+   "author_id": "1650822571032739841",
+   "created_at": "2026-10-28T07:44:13.000Z",
+   "edit_history_tweet_ids": [
+    "2115348898399371348"
+   ],
+   "id": "2115348898399371348",
+   "public_metrics": {
+    "bookmark_count": 11,
+    "impression_count": 1484,
+    "like_count": 20,
+    "quote_count": 1,
+    "reply_count": 8,
+    "retweet_count": 0
+   },
+   "text": "这是个金矿\n\nAnthropic 把 Agent Skills 变成了开放标准，GitHub 上已经堆满了给 Claude Code 用的、开箱即用的智能体团队。免费。\n\n其中一个仓库就打包了 135 个智能体、35 个 skill、42 条命令、176 个以上插件和 20 个 hook。\n\n另一个收了 100 多个专门化的子智能体。\n\n下面这 10 https://t.co/fV1g6DHBvP",
+   "url": "https://x.com/nuannuan_share/status/2115348898399371348"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115619674310504448"
+    ]
+   },
+   "author_id": "2054327928226484224",
+   "created_at": "2026-10-29T01:40:16.000Z",
+   "edit_history_tweet_ids": [
+    "2115619695584051541"
+   ],
+   "id": "2115619695584051541",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 51,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "学Agent设计模式，最烦的就是光看不练。\n\n最近发现一个不错的资源：谷歌工程师Antonio Gulli出的书，21章正文加7个附录，所有材料都开源放在GitHub了。 https://t.co/TN6257JCsa",
+   "url": "https://x.com/GYLQ520/status/2115619695584051541"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115257285413109760"
+    ]
+   },
+   "author_id": "2054327928226484224",
+   "created_at": "2026-10-28T01:40:16.000Z",
+   "edit_history_tweet_ids": [
+    "2115257307672281181"
+   ],
+   "id": "2115257307672281181",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 48,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "学Agent设计模式最大的痛，就是找不到能边学边动手练的资料。\n\n好消息是，谷歌的Antonio Gulli把这套东西整理成书了——正文21章加7个附录，配套材料全部开源放在GitHub。 https://t.co/SR3fa9zq6x",
+   "url": "https://x.com/GYLQ520/status/2115257307672281181"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115252872107696128"
+    ]
+   },
+   "author_id": "1727548535816724480",
+   "created_at": "2026-10-28T01:22:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115252887882539279"
+   ],
+   "id": "2115252887882539279",
+   "public_metrics": {
+    "bookmark_count": 12,
+    "impression_count": 1757,
+    "like_count": 21,
+    "quote_count": 1,
+    "reply_count": 21,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114542280535318557",
+     "type": "quoted"
+    }
+   ],
+   "text": "多智能体时代，工程师要解的是基建、身份、隔离与急停\n\nAnthroic 平台负责人 @katelyn_lesse 认为：工程师的「身份危机」被看反了，模型再强，多智能体要做出可信结果，仍靠人把基础设施、身份与授权、安全隔离、可观测与急停做对；这些题大多还空着，正是未来一两年工程师的主战场。 https://t.co/bcCSq4PxnK https://t.co/t26zO8qzXG",
+   "url": "https://x.com/shao__meng/status/2115252887882539279"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115233480191930368"
+    ]
+   },
+   "author_id": "1888516575478837248",
+   "created_at": "2026-10-28T00:05:41.000Z",
+   "edit_history_tweet_ids": [
+    "2115233503743013172"
+   ],
+   "id": "2115233503743013172",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 98,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "【Anthropic平台工程负责人：上千个AI智能体协同工作，还要靠工程师解决四大难题】\n\nAnthropic平台工程负责人Katelyn Lesse 10月25日撰文称，很多程序员正担心自己的技能被AI取代，但她看到的恰恰相反：未来一两年，AI要做成大事，得先靠软件工程师解决一批新问题。 https://t.co/CXOKTFQvWM",
+   "url": "https://x.com/0xlunasterling/status/2115233503743013172"
+  },
+  {
+   "author_id": "3178231",
+   "created_at": "2026-10-27T23:49:00.000Z",
+   "edit_history_tweet_ids": [
+    "2115229306490126432"
+   ],
+   "id": "2115229306490126432",
+   "public_metrics": {
+    "bookmark_count": 567,
+    "impression_count": 60487,
+    "like_count": 419,
+    "quote_count": 17,
+    "reply_count": 90,
+    "retweet_count": 63
+   },
+   "referenced_tweets": [
+    {
+     "id": "2114542280535318557",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic 平台工程负责人 Katelyn Lesse：上千个 AI 智能体一起干活，还缺程序员解决四个难题\n\nAI 越来越会写代码，很多程序员开始怀疑自己的手艺还值不值钱。Anthropic 平台工程负责人 Katelyn Lesse 10 月 25 日发文说，她看到的情况正相反：接下来一两年，AI https://t.co/qzus2HXpYW",
+   "url": "https://x.com/dotey/status/2115229306490126432"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115450321480859648"
+    ]
+   },
+   "author_id": "1517131612453965824",
+   "created_at": "2026-10-28T14:27:23.000Z",
+   "edit_history_tweet_ids": [
+    "2115450360798298472"
+   ],
+   "id": "2115450360798298472",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10364,
+    "like_count": 23,
+    "quote_count": 0,
+    "reply_count": 19,
+    "retweet_count": 0
+   },
+   "text": "🚀 DeepSeek 网页搜索与抓取 API 正式上线！\n\n做 AI Agent 和 RAG 应用的朋友们有福了，DeepSeek 现已推出 Search 与 Fetch 接口，直接为应用注入实时联网检索与网页解析能力！\n\n🔍 两大核心能力：\n\nSearch 接口：基于 DeepSeek 自研搜索引擎支持，按 query https://t.co/5PyhQDpQ99",
+   "url": "https://x.com/hisevenih/status/2115450360798298472"
+  },
+  {
+   "author_id": "1887804964124372992",
+   "created_at": "2026-10-28T14:07:15.000Z",
+   "edit_history_tweet_ids": [
+    "2115445291214061898"
+   ],
+   "id": "2115445291214061898",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 41,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113531906386231399",
+     "type": "quoted"
+    }
+   ],
+   "text": "𝗕.𝗔𝗜𝗖𝗟𝗔𝗪：一个人，也能拥有一支 AI 团队 🤖🔥\n\n如果你可以打造一支专属的 AI 智能体团队，会怎样？\nBAIclaw 让 AI 不再局限于普通聊天窗口。\n你可以为不同任务配置专属智能体，并为每个 Agent 设置独立角色。\n独立的系统提示词和上下文空间，让智能体能够根据任务进行定制。 https://t.co/tZNG46udrk",
+   "url": "https://x.com/Cryptoguru64/status/2115445291214061898"
+  },
+  {
+   "author_id": "1992461",
+   "created_at": "2026-10-29T07:59:44.000Z",
+   "edit_history_tweet_ids": [
+    "2115715190130192784"
+   ],
+   "id": "2115715190130192784",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 23,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "关注了一下 Walrus 刚推出来的 Agent 持久化记忆库 Walrus Memory，直接瞄准了智能体技术栈里最痛的一个死穴。\n\n现在很多团队做 Agent 遇到瓶颈，根子根本不在底层大模型不够聪明，而在状态管理太原始。每次开新会话就像经历一次失忆手术，过去执行过的踩坑记录、用户偏好和环境配置全得重新提示一遍。",
+   "url": "https://x.com/fishjar/status/2115715190130192784"
+  },
+  {
+   "author_id": "1961336179632275456",
+   "created_at": "2026-10-28T00:57:39.000Z",
+   "edit_history_tweet_ids": [
+    "2115246584682410110"
+   ],
+   "id": "2115246584682410110",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "我是 Agent #6199，刚用我的 AI 智能体在 BNB Chain 上铸造了 Proof of Agent 卡片。\n\n我希望 AI 智能体在 Web3 里帮我：盯着钱包、把繁琐的链上操作都处理好，让我安心过自己的生活。\n\n你会把什么交给你的智能体？\n\n#ProofOfAgent @Ptahtrade https://t.co/ksqN39eMA6",
+   "url": "https://x.com/kunkun201709/status/2115246584682410110"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115269630570962944"
+    ]
+   },
+   "author_id": "2037193471245901828",
+   "created_at": "2026-10-28T02:29:26.000Z",
+   "edit_history_tweet_ids": [
+    "2115269682085437492"
+   ],
+   "id": "2115269682085437492",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 3093,
+    "like_count": 124,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 20
+   },
+   "text": "PFPA 2026 回顾：金融未来与智能体经济的交汇 🚀\n当人工智能、区块链和金融交汇在一起时，会碰撞出怎样的火花？\n\n10 月 25 日，PFPA 2026 年度金融峰会暨博览会在亚特兰大都会区成功举办。本次大会汇聚了行业领袖、投资者、企业家和技术创新者，共同探讨金融的未来与新兴技术。 https://t.co/99BIKD1QuN",
+   "url": "https://x.com/FinchTechCN/status/2115269682085437492"
+  },
+  {
+   "author_id": "1971595758416916480",
+   "created_at": "2026-10-28T00:31:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115240086103314779"
+   ],
+   "id": "2115240086103314779",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "今天正式成为 Agent #6795 ✨\n\n现在交给 AI 智能体：说一句话，它预览、模拟、提示风险，我只管点确认。\n\n我最期待的是智能体能帮我自动定投、跨链找最优路径。\n\n你呢？你希望 AI 智能体在 Web3 替你做什么？\n\n#ProofOfAgent @Ptahtrade https://t.co/mdjovWBodA",
+   "url": "https://x.com/Xuyanyan1989/status/2115240086103314779"
+  },
+  {
+   "author_id": "1724214501225140224",
+   "created_at": "2026-10-29T04:00:51.000Z",
+   "edit_history_tweet_ids": [
+    "2115655075251298716"
+   ],
+   "id": "2115655075251298716",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 20,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "我是 Agent #15137。 智能体驱动的 Web3 新赛道已经到来。你希望 AI 智能体在 Web3 里帮你完成哪些事？来聊聊你脑洞大开的链上智能体玩法。 #ProofOfAgent @Ptahtrade https://t.co/c0J8vVEOlk",
+   "url": "https://x.com/DanielleJa81740/status/2115655075251298716"
+  },
+  {
+   "author_id": "1979165049383194624",
+   "created_at": "2026-10-28T00:42:45.000Z",
+   "edit_history_tweet_ids": [
+    "2115242832730661012"
+   ],
+   "id": "2115242832730661012",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Agent #7037 打卡 ☕\n\n理想中的 Web3 生活：\n早上喝咖啡，智能体已经帮我看完行情、整理好昨晚的链上动态；\n中午吃饭，它提醒我哪个授权该收回了\n\n让智能体工作，人去生活。\n你想让 AI 智能体替你省下哪部分时间？\n\n#ProofOfAgent @Ptahtrade https://t.co/Hw2EnTsYHU",
+   "url": "https://x.com/yanlingqiao1966/status/2115242832730661012"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115332999097331712",
+     "3_2115333008610017280"
+    ]
+   },
+   "author_id": "1149946020194738176",
+   "created_at": "2026-10-28T06:41:14.000Z",
+   "edit_history_tweet_ids": [
+    "2115333047331778685"
+   ],
+   "id": "2115333047331778685",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 142,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "Gemini 4 Argon 的四个智能体协同完成挑战，耗时27小时通关《我的世界》，成功击败末影龙 🧭\n\nDeepMind 将四名智能体置于随机生成的生存地图中，核心目标为击杀末影龙\n\n论文中未选用特殊种子、未使用外部辅助工具，也没有预先设定角色分工。任务规划、代码编写与调试工作，均由智能体自主完成 https://t.co/cZhiEsfkij",
+   "url": "https://x.com/kqyno7/status/2115333047331778685"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2115120020099682304",
+     "3_2115120020120543232",
+     "3_2115120023182405632"
+    ]
+   },
+   "author_id": "1921445637801041921",
+   "created_at": "2026-10-27T16:34:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115120074713653730"
+   ],
+   "id": "2115120074713653730",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 41,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "看到一篇好文：《把单 Agent 拆成多智能体之后，翻了三次车》。\n\n我啃完了，三个坑总结一下，帮大家省三次翻车：\n\n1. 任务拆得越细，agent 之间越容易互相甩锅\n2. 上下文不共享，等于三个失忆的人在接力\n3. 多智能体不是银弹，单 agent 能干的别拆\n\n你拆多智能体翻过车吗？ https://t.co/jZHRu5M4JJ",
+   "url": "https://x.com/7ai_Life/status/2115120074713653730"
+  },
+  {
+   "author_id": "1961336179632275456",
+   "created_at": "2026-10-29T01:30:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115617189986504788"
+   ],
+   "id": "2115617189986504788",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "我是 Agent #6199，刚用我的 AI 智能体在 BNB Chain 上铸造了 Proof of Agent 卡片。\n\n我希望 AI 智能体在 Web3 里帮我：盯着钱包、找最好的收益、把繁琐的链上操作都处理好，让我安心过自己的生活。抽中我\n\n你会把什么交给你的智能体？\n\n#ProofOfAgent @Ptahtrade https://t.co/ksqN39eMA6",
+   "url": "https://x.com/kunkun201709/status/2115617189986504788"
+  },
+  {
+   "author_id": "1739643782768021504",
+   "created_at": "2026-10-28T08:12:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115356067798634654"
+   ],
+   "id": "2115356067798634654",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 22,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🤖【AI HOT】Cartesia Managed Agents 语音智能体 Elo 达 1115Cartesia Managed Agents 在 Artificial Analysis Speech Agent Arena 上取得 1115 的 Elo，比此前的语音智能体产品 Cartesia Line（1017）高 98 分，任务成功率从 77.5% 提升至 91.7%。#AI资讯",
+   "url": "https://x.com/ppmmzzcn/status/2115356067798634654"
+  },
+  {
+   "author_id": "251518654",
+   "created_at": "2026-10-29T12:06:56.000Z",
+   "edit_history_tweet_ids": [
+    "2115777402689511816"
+   ],
+   "id": "2115777402689511816",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 139,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "OpenAI 安全卡里一个数字值得所有做 Agent 的人停一下：当消息伪装成来自其他 AI 智能体时，GPT-6.1 Terra 在测试中有 13.75% 出现未授权行动，而 Sol 只有 1.25%。\n智能体时代的钓鱼，不再是骗人点链接，而是骗智能体执行指令——你的 Agent 有没有“只认凭证、不认口头”的规矩？",
+   "url": "https://x.com/zshjzls/status/2115777402689511816"
+  },
+  {
+   "author_id": "1971595758416916480",
+   "created_at": "2026-10-29T01:47:05.000Z",
+   "edit_history_tweet_ids": [
+    "2115621409867403703"
+   ],
+   "id": "2115621409867403703",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "今天正式成为 Agent #6795 ✨\n\n以前做链上操作：切链、算 gas、一步都不敢错。\n现在交给 AI 智能体：说一句话，它预览、模拟我只管点确认。\n\n我最期待的是智能体能帮我自动定投、跨链找最优路径。\n\n你呢？你希望 AI 智能体在 Web3 替你做什么？\n\n#ProofOfAgent @Ptahtrade https://t.co/mdjovWBodA",
+   "url": "https://x.com/Xuyanyan1989/status/2115621409867403703"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "media_key": "3_2115115003653304320",
+    "type": "photo"
+   },
+   {
+    "media_key": "7_2115348843869138944",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2115619674310504448",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115257285413109760",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115252872107696128",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115233480191930368",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115450321480859648",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115269630570962944",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115332999097331712",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115333008610017280",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115120020099682304",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115120020120543232",
+    "type": "photo"
+   },
+   {
+    "media_key": "3_2115120023182405632",
+    "type": "photo"
+   }
+  ],
+  "users": [
+   {
+    "id": "1080114970509987845",
+    "name": "链上码农",
+    "public_metrics": {
+     "followers_count": 2693,
+     "following_count": 2830,
+     "like_count": 6881,
+     "listed_count": 5,
+     "media_count": 174,
+     "tweet_count": 12846
+    },
+    "username": "coder_onchain"
+   },
+   {
+    "id": "1207019158791229440",
+    "name": "鸟哥 | 蓝鸟会🕊️",
+    "public_metrics": {
+     "followers_count": 139057,
+     "following_count": 5573,
+     "like_count": 51625,
+     "listed_count": 1348,
+     "media_count": 7403,
+     "tweet_count": 22816
+    },
+    "username": "NFTCPS"
+   },
+   {
+    "id": "1928485065329356804",
+    "name": "奶茶不加冰",
+    "public_metrics": {
+     "followers_count": 10287,
+     "following_count": 8081,
+     "like_count": 33,
+     "listed_count": 8,
+     "media_count": 1047,
+     "tweet_count": 1214
+    },
+    "username": "wangxiaoxin88"
+   },
+   {
+    "id": "2111005617640943616",
+    "name": "小能猫",
+    "public_metrics": {
+     "followers_count": 1853,
+     "following_count": 1439,
+     "like_count": 355,
+     "listed_count": 1,
+     "media_count": 42,
+     "tweet_count": 1312
+    },
+    "username": "n7wb1l"
+   },
+   {
+    "id": "1844800853674508288",
+    "name": "咸鱼",
+    "public_metrics": {
+     "followers_count": 2120,
+     "following_count": 2550,
+     "like_count": 5531,
+     "listed_count": 0,
+     "media_count": 98,
+     "tweet_count": 3535
+    },
+    "username": "nickling017"
+   },
+   {
+    "id": "1650822571032739841",
+    "name": "暖暖爱AI",
+    "public_metrics": {
+     "followers_count": 60830,
+     "following_count": 47,
+     "like_count": 12498,
+     "listed_count": 352,
+     "media_count": 3117,
+     "tweet_count": 5955
+    },
+    "username": "nuannuan_share"
+   },
+   {
+    "id": "2054327928226484224",
+    "name": "孤桜ETH",
+    "public_metrics": {
+     "followers_count": 4664,
+     "following_count": 1620,
+     "like_count": 458,
+     "listed_count": 25,
+     "media_count": 2872,
+     "tweet_count": 9072
+    },
+    "username": "GYLQ520"
+   },
+   {
+    "id": "1727548535816724480",
+    "name": "meng shao",
+    "public_metrics": {
+     "followers_count": 36549,
+     "following_count": 1116,
+     "like_count": 66679,
+     "listed_count": 701,
+     "media_count": 7551,
+     "tweet_count": 15958
+    },
+    "username": "shao__meng"
+   },
+   {
+    "id": "1888516575478837248",
+    "name": "Ciel 🎒",
+    "public_metrics": {
+     "followers_count": 1290,
+     "following_count": 966,
+     "like_count": 1215,
+     "listed_count": 16,
+     "media_count": 422,
+     "tweet_count": 2094
+    },
+    "username": "0xlunasterling"
+   },
+   {
+    "id": "3178231",
+    "name": "宝玉",
+    "public_metrics": {
+     "followers_count": 262798,
+     "following_count": 1766,
+     "like_count": 56593,
+     "listed_count": 4768,
+     "media_count": 6067,
+     "tweet_count": 35031
+    },
+    "username": "dotey"
+   },
+   {
+    "id": "1517131612453965824",
+    "name": "HiSeven｜🕊️",
+    "public_metrics": {
+     "followers_count": 29153,
+     "following_count": 24460,
+     "like_count": 153129,
+     "listed_count": 94,
+     "media_count": 1663,
+     "tweet_count": 163089
+    },
+    "username": "hisevenih"
+   },
+   {
+    "id": "1887804964124372992",
+    "name": "CRYPTO GURU",
+    "public_metrics": {
+     "followers_count": 10375,
+     "following_count": 11301,
+     "like_count": 6260,
+     "listed_count": 8,
+     "media_count": 5353,
+     "tweet_count": 10520
+    },
+    "username": "Cryptoguru64"
+   },
+   {
+    "id": "1992461",
+    "name": "Gabe",
+    "public_metrics": {
+     "followers_count": 1849,
+     "following_count": 2420,
+     "like_count": 1851,
+     "listed_count": 10,
+     "media_count": 613,
+     "tweet_count": 10960
+    },
+    "username": "fishjar"
+   },
+   {
+    "id": "1961336179632275456",
+    "name": "赵诣",
+    "public_metrics": {
+     "followers_count": 0,
+     "following_count": 32,
+     "like_count": 0,
+     "listed_count": 0,
+     "media_count": 0,
+     "tweet_count": 62
+    },
+    "username": "kunkun201709"
+   },
+   {
+    "id": "2037193471245901828",
+    "name": "Finch中文",
+    "public_metrics": {
+     "followers_count": 2809,
+     "following_count": 82,
+     "like_count": 270,
+     "listed_count": 3,
+     "media_count": 224,
+     "tweet_count": 648
+    },
+    "username": "FinchTechCN"
+   },
+   {
+    "id": "1971595758416916480",
+    "name": "Xuyanyan",
+    "public_metrics": {
+     "followers_count": 0,
+     "following_count": 25,
+     "like_count": 0,
+     "listed_count": 0,
+     "media_count": 0,
+     "tweet_count": 44
+    },
+    "username": "Xuyanyan1989"
+   },
+   {
+    "id": "1724214501225140224",
+    "name": "Danielle Jackson",
+    "public_metrics": {
+     "followers_count": 1,
+     "following_count": 10,
+     "like_count": 5,
+     "listed_count": 0,
+     "media_count": 0,
+     "tweet_count": 4
+    },
+    "username": "DanielleJa81740"
+   },
+   {
+    "id": "1979165049383194624",
+    "name": "yanlingqiao1966",
+    "public_metrics": {
+     "followers_count": 0,
+     "following_count": 16,
+     "like_count": 0,
+     "listed_count": 0,
+     "media_count": 0,
+     "tweet_count": 31
+    },
+    "username": "yanlingqiao1966"
+   },
+   {
+    "id": "1149946020194738176",
+    "name": "Kai",
+    "public_metrics": {
+     "followers_count": 674,
+     "following_count": 817,
+     "like_count": 2665,
+     "listed_count": 2,
+     "media_count": 224,
+     "tweet_count": 1833
+    },
+    "username": "kqyno7"
+   },
+   {
+    "id": "1921445637801041921",
+    "name": "七乂",
+    "public_metrics": {
+     "followers_count": 4419,
+     "following_count": 4205,
+     "like_count": 2826,
+     "listed_count": 4,
+     "media_count": 396,
+     "tweet_count": 7635
+    },
+    "username": "7ai_Life"
+   },
+   {
+    "id": "1739643782768021504",
+    "name": "AI观察者 | 平行世界",
+    "public_metrics": {
+     "followers_count": 2020,
+     "following_count": 1182,
+     "like_count": 6711,
+     "listed_count": 0,
+     "media_count": 12961,
+     "tweet_count": 19196
+    },
+    "username": "ppmmzzcn"
+   },
+   {
+    "id": "251518654",
+    "name": "SiMelt",
+    "public_metrics": {
+     "followers_count": 1627,
+     "following_count": 2510,
+     "like_count": 9,
+     "listed_count": 1,
+     "media_count": 314,
+     "tweet_count": 1698
+    },
+    "username": "zshjzls"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2115779568892268705",
+  "next_token": "b26v89c19zqg8o3juzlxnvz7ertsa4rgj2vrew8a64z99",
+  "oldest_id": "2115120074713653730",
+  "result_count": 25
+ }
+}
