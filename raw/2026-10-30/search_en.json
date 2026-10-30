@@ -1,0 +1,896 @@
+{
+  "data": [
+    {
+      "author_id": "2070402843727790080",
+      "created_at": "2026-10-29T03:50:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115652348651388961"
+      ],
+      "id": "2115652348651388961",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 192,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "Looking to #connect with context engineering folks:\n\n📚 prompt files (too many)\n🧩 agent memory (forgetful)\n🧹 context cleanup (never done)\n🔍 retrieval setups (duct tape)\n🧪 eval runs (mostly vibes)\n🧱 system prompts (novels)\n\nyou too? let's connect 🤝 (i reply fast)",
+      "url": "https://x.com/boringdev77/status/2115652348651388961"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115701359345639424"
+        ]
+      },
+      "author_id": "1626612517165494276",
+      "created_at": "2026-10-29T07:28:59.000Z",
+      "edit_history_tweet_ids": [
+        "2115707455200243931"
+      ],
+      "id": "2115707455200243931",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 607,
+        "like_count": 49,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 15
+      },
+      "text": "China may have just changed the AI memory game.\n\nTencentDB Agent Memory is open source, runs locally, and uses plain SQLite.\n\nNo Pinecone. No cloud APIs.\n\nThe numbers are wild:\n\n→ 61% fewer tokens\n→ PersonaMem accuracy: 48% → 76%\n→ Zero external API dependencies https://t.co/j6YfQVxuhz",
+      "url": "https://x.com/Vidhi2828/status/2115707455200243931"
+    },
+    {
+      "author_id": "2115004801729925120",
+      "created_at": "2026-10-30T06:30:13.000Z",
+      "edit_history_tweet_ids": [
+        "2116055052184125833"
+      ],
+      "id": "2116055052184125833",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "I'm forming a small California company around an AI memory invention I've been working on, with the goal of applying for an NSF SBIR grant. I'm not trying to build an audience. I just want to meet a few people who've been through the SBIR process or who work on agent memory. If",
+      "url": "https://x.com/SergiosCFT/status/2116055052184125833"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115891714149736448"
+        ]
+      },
+      "author_id": "915765587682369537",
+      "created_at": "2026-10-29T19:41:28.000Z",
+      "edit_history_tweet_ids": [
+        "2115891787566858522"
+      ],
+      "id": "2115891787566858522",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 128,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "text": "I turned 58 of my own notes files into a searchable AI memory with ChromaDB. Then I asked it a question grep couldn't answer.\n\n\"How many verified impressions do I need to get paid by X?\"\n\ngrep: 0 results.\nChromaDB: right file, 268 milliseconds.\n\nHere's exactly what I ran, with https://t.co/lTGoC5bwLI",
+      "url": "https://x.com/ReignSwords/status/2115891787566858522"
+    },
+    {
+      "author_id": "1706478139",
+      "created_at": "2026-10-29T20:33:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115904832330698922"
+      ],
+      "id": "2115904832330698922",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 491,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 17
+      },
+      "text": "If you're learning AI, study the following:\n\n📌How LLMs actually work\n📌Prompting fundamentals\n📌Context engineering\n📌RAG and embeddings\n📌Tool calling and MCP\n📌AI agents\n📌Evals\n📌Fine-tuning and model choice\n\n👉🏼In that order, basic to advanced",
+      "url": "https://x.com/tema13456/status/2115904832330698922"
+    },
+    {
+      "author_id": "1788271564649029632",
+      "created_at": "2026-10-29T04:56:12.000Z",
+      "edit_history_tweet_ids": [
+        "2115669003397955946"
+      ],
+      "id": "2115669003397955946",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 70,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "if you're building with AI, these are the five @DeepLearningAI courses i'd recommend, in this order:\n\n1. Agentic AI\n2. Loop Engineering\n3. Evaluating AI Agents\n4. Context Engineering\n5. RAG\n\nstart with agent workflows, then learn to refine and evaluate them, improve their",
+      "url": "https://x.com/solimancf/status/2115669003397955946"
+    },
+    {
+      "author_id": "299558731",
+      "created_at": "2026-10-30T10:30:50.000Z",
+      "edit_history_tweet_ids": [
+        "2116115607254929423"
+      ],
+      "id": "2116115607254929423",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI agents pushed vector and graph databases from niche to mainstream through RAG, agent memory and GraphRAG.\n\nhttps://t.co/uqzMAZoXEl",
+      "url": "https://x.com/comparethecloud/status/2116115607254929423"
+    },
+    {
+      "author_id": "1360589207236919303",
+      "created_at": "2026-10-28T22:10:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115566951577899224"
+      ],
+      "id": "2115566951577899224",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 523,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "text": "Someone asked me what the best moment of @Oracle AI World was.\n\nIt wasn’t the announcements, the puppies or the Cybertruck.\n\nIt was six words from a customer after my workshop.\n\n“You’ve just changed everything for me.”\n\nThey had just sat through my session on agent memory in",
+      "url": "https://x.com/richmondalake/status/2115566951577899224"
+    },
+    {
+      "author_id": "2055285311861628928",
+      "created_at": "2026-10-30T10:22:00.000Z",
+      "edit_history_tweet_ids": [
+        "2116113381388341496"
+      ],
+      "id": "2116113381388341496",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🧠 Is agent memory really a better deal than plain RAG?\n\nTitle: Memory Tax: Dissecting the Net Value of Agent Memory\nURL: https://t.co/uqmrRIqiOY\n\n❓ What is the \"net value\" of memory?\n💡 Compared with naive RAG, queries memory newly solves are its \"benefit,\" and queries RAG",
+      "url": "https://x.com/cv_usk/status/2116113381388341496"
+    },
+    {
+      "author_id": "1412846765758304257",
+      "created_at": "2026-10-29T18:00:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115866253617189244"
+      ],
+      "id": "2115866253617189244",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "a paper ran 11 agent memory systems against plain rag over the raw chat history and 90/99 results came in below rag. we built memory os's so the agent could forget what was already in the log",
+      "url": "https://x.com/absencelul/status/2115866253617189244"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115849859336925184"
+        ]
+      },
+      "author_id": "34275172",
+      "created_at": "2026-10-29T16:54:53.000Z",
+      "edit_history_tweet_ids": [
+        "2115849867364896883"
+      ],
+      "id": "2115849867364896883",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Memory Tax, a new paper on arXiv, finds that many dedicated agent memory systems do worse than naive RAG (retrieving chunks straight from the raw history) in many cases, which means building the memory had negative net value there.\n\nThe authors split what memory does per question https://t.co/591uQ0lJkP",
+      "url": "https://x.com/thomas_rehmer/status/2115849867364896883"
+    },
+    {
+      "author_id": "2109669786791903233",
+      "created_at": "2026-10-28T17:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "2115496510569758875"
+      ],
+      "id": "2115496510569758875",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Fancy agent memory layers often lose to plain RAG over raw chat history — and cost more.\n\nSummaries quietly rewrite dates. Keep events raw; project only for this turn.\n\nDid yours win on YOUR logs, or the blog demo?",
+      "url": "https://x.com/EthanColeq9/status/2115496510569758875"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115543015691608064"
+        ]
+      },
+      "author_id": "1837960126239854592",
+      "created_at": "2026-10-28T20:35:34.000Z",
+      "edit_history_tweet_ids": [
+        "2115543017537073523"
+      ],
+      "id": "2115543017537073523",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 71,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "New paper from UIUC, Tsinghua and others with a blunt finding: a lot of agent memory systems score below plain RAG over the raw chat history, and they cost more to run.\n\nThey call it the memory tax. https://t.co/fFqNHpuKmo",
+      "url": "https://x.com/buildAgoat/status/2115543017537073523"
+    },
+    {
+      "author_id": "2030144417219366916",
+      "created_at": "2026-10-29T19:53:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115894691535200532"
+      ],
+      "id": "2115894691535200532",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "a new paper pits fancy agent memory systems against plain RAG over the raw history on 3 benchmarks. plain RAG often wins, and costs less. a keyword-rarity matcher alone cleared 50% on some of them. build the boring version first\nhttps://t.co/9Sb3UGOR9g",
+      "url": "https://x.com/Contrasignal_ai/status/2115894691535200532"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2115508937537605632"
+        ]
+      },
+      "author_id": "1570476516085231621",
+      "created_at": "2026-10-28T18:21:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115509225245790539"
+      ],
+      "id": "2115509225245790539",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "At AI World, Tirthankar Lahiri and Sara Narayan will explore how Oracle AI Database brings together AI Vector Search, semantic knowledge, RAG, agent flows, unified agent memory, and built-in agent development capabilities in an AI-native agentic platform. https://t.co/N9NfCWXeER https://t.co/rmsUexybl5",
+      "url": "https://x.com/Abhishe37082752/status/2115509225245790539"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2116017807552868352"
+        ]
+      },
+      "author_id": "1927376211946184704",
+      "created_at": "2026-10-30T04:02:17.000Z",
+      "edit_history_tweet_ids": [
+        "2116017824246149545"
+      ],
+      "id": "2116017824246149545",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Agent memory fails when retrieval is treated like a magic database lookup. Build RAG as a measured retrieval pipeline with provenance and an explicit fallback when evidence is weak. Explore the complete method in The S\n\nhttps://t.co/wbEvX1LiFp #AIAgents #SelfHostedAI https://t.co/IUlI6wrTMh",
+      "url": "https://x.com/SummarySeriesUK/status/2116017824246149545"
+    },
+    {
+      "author_id": "2113758331441713152",
+      "created_at": "2026-10-28T22:06:22.000Z",
+      "edit_history_tweet_ids": [
+        "2115565867811680419"
+      ],
+      "id": "2115565867811680419",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "New paper: many dedicated agent memory systems underperform plain RAG over the raw chat history. They call the loss the \"memory tax.\"\n\nWhat I'd do: before adding a memory layer, test it against simple search over the log. Keep whichever wins.\n\nhttps://t.co/5qxm8CscO0 #AIagents",
+      "url": "https://x.com/BryanBuildsAI/status/2115565867811680419"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115665149621329920"
+        ]
+      },
+      "author_id": "1273309498921242624",
+      "created_at": "2026-10-29T04:40:58.000Z",
+      "edit_history_tweet_ids": [
+        "2115665170777403898"
+      ],
+      "id": "2115665170777403898",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "UIUC and co tested 11 agent memory systems × 3 benchmarks × 3 backbones. 90 of 99 results came in below plain one-round RAG over the raw history. They call that the memory tax. https://t.co/GRVZ22OYoG",
+      "url": "https://x.com/UnfoldingManas/status/2115665170777403898"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115599531022946305"
+        ]
+      },
+      "author_id": "1906617820122595328",
+      "created_at": "2026-10-29T00:20:09.000Z",
+      "edit_history_tweet_ids": [
+        "2115599534290260301"
+      ],
+      "id": "2115599534290260301",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 2005,
+        "like_count": 21,
+        "quote_count": 2,
+        "reply_count": 9,
+        "retweet_count": 3
+      },
+      "text": "Agent memory is paying a tax\n\nAcross 11 memory systems, 3 benchmarks and 3 backbones, 90 of 99 memory results land below naive RAG, often at far higher token cost. UIUC and Tsinghua researchers call this gap memory tax. https://t.co/Wqqz5af5Vc",
+      "url": "https://x.com/HuggingPapers/status/2115599534290260301"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2115626344138547200"
+        ]
+      },
+      "author_id": "1655617090886172672",
+      "created_at": "2026-10-29T02:07:59.000Z",
+      "edit_history_tweet_ids": [
+        "2115626671386558689"
+      ],
+      "id": "2115626671386558689",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "At AI World, Tirthankar Lahiri and Sara Narayan will explore how Oracle AI Database brings together AI Vector Search, semantic knowledge, RAG, agent flows, unified agent memory, and built-in agent development capabilities in an AI-native agentic platform. https://t.co/x9ne0Ao3Gl https://t.co/PWVIfmJRjE",
+      "url": "https://x.com/Its_AKar/status/2115626671386558689"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_2115626003892477952"
+        ]
+      },
+      "author_id": "1608351024670035968",
+      "created_at": "2026-10-29T02:06:38.000Z",
+      "edit_history_tweet_ids": [
+        "2115626331316576277"
+      ],
+      "id": "2115626331316576277",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "At AI World, Tirthankar Lahiri and Sara Narayan will explore how Oracle AI Database brings together AI Vector Search, semantic knowledge, RAG, agent flows, unified agent memory, and built-in agent development capabilities in an AI-native agentic platform. https://t.co/YwuklMwkvc https://t.co/TMzRTRBeu7",
+      "url": "https://x.com/scottytherocky/status/2115626331316576277"
+    },
+    {
+      "author_id": "2076254281007525888",
+      "created_at": "2026-10-29T05:09:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115672229685989789"
+      ],
+      "id": "2115672229685989789",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112518585465860230",
+          "type": "quoted"
+        }
+      ],
+      "text": "Tested EverOS Cloud from @evermind for agent memory and this is exactly what I needed - no custom RAG needed.\n\nHooked my support triage agent to ticket #409 (error 403 on sync) and dumped SOPs + old tickets in. It searches memory before it starts, then saves the run after. https://t.co/iO7qn5F4Rp",
+      "url": "https://x.com/ameerah2y1/status/2115672229685989789"
+    },
+    {
+      "author_id": "15311486",
+      "created_at": "2026-10-28T15:25:30.000Z",
+      "edit_history_tweet_ids": [
+        "2115464984926785943"
+      ],
+      "id": "2115464984926785943",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI Terms to Know: Context Engineering\n\nTechnical:\nContext engineering is the practice of controlling what information, instructions, tools, history, and state an AI model receives while performing a task.\n\nIn normal English:\nPrompt engineering was mostly about asking the question",
+      "url": "https://x.com/SteveMordue/status/2115464984926785943"
+    },
+    {
+      "author_id": "704604120913555457",
+      "created_at": "2026-10-30T04:51:05.000Z",
+      "edit_history_tweet_ids": [
+        "2116030102563873160"
+      ],
+      "id": "2116030102563873160",
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 2037,
+        "like_count": 41,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 3
+      },
+      "text": "None of the 11 agent memory systems in a new paper beat plain RAG over the raw chat history on LongMemEval-s.\n\nThe paper is Memory Tax (arXiv 2610.34073). The baseline is basically the boring thing: chunk the raw history, hybrid search, a reranker, and let the model ask one",
+      "url": "https://x.com/manthanguptaa/status/2116030102563873160"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115715877383630848"
+        ]
+      },
+      "author_id": "1227579828397891595",
+      "created_at": "2026-10-29T08:03:23.000Z",
+      "edit_history_tweet_ids": [
+        "2115716111413166113"
+      ],
+      "id": "2115716111413166113",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Top 10 Agent Memory &amp; Context Tools:\n\n1. Graphify - https://t.co/4BQ8Th8zG4\n2. Claude Mem - https://t.co/VDIb1XxAgR\n3. RAGFlow - https://t.co/L8uUZaMnbU\n4. Headroom - https://t.co/sjrnKFyDgo\n5. Mem0 - https://t.co/55Kwozv0a1\n6. OpenViking - https://t.co/mOYCZJ3c9N\n7. WeKnora - https://t.co/7jE2mDt9GE",
+      "url": "https://x.com/AsWill11/status/2115716111413166113"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115701359345639424",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115891714149736448",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115849859336925184",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115543015691608064",
+        "type": "photo"
+      },
+      {
+        "media_key": "7_2115508937537605632",
+        "type": "video"
+      },
+      {
+        "media_key": "7_2116017807552868352",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115665149621329920",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115599531022946305",
+        "type": "photo"
+      },
+      {
+        "media_key": "7_2115626344138547200",
+        "type": "video"
+      },
+      {
+        "media_key": "7_2115626003892477952",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115715877383630848",
+        "type": "photo"
+      }
+    ],
+    "users": [
+      {
+        "id": "2070402843727790080",
+        "name": "The Boring Developer",
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 1403,
+          "like_count": 3909,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 6599
+        },
+        "username": "boringdev77"
+      },
+      {
+        "id": "1626612517165494276",
+        "name": "Vidhi Toshniwal",
+        "public_metrics": {
+          "followers_count": 5243,
+          "following_count": 150,
+          "like_count": 8490,
+          "listed_count": 10,
+          "media_count": 167,
+          "tweet_count": 4260
+        },
+        "username": "Vidhi2828"
+      },
+      {
+        "id": "2115004801729925120",
+        "name": "Sergio",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "SergiosCFT"
+      },
+      {
+        "id": "915765587682369537",
+        "name": "ReignSwords",
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 3623,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 6610
+        },
+        "username": "ReignSwords"
+      },
+      {
+        "id": "1706478139",
+        "name": "Temi | CRM • Remote Jobs",
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 2974,
+          "like_count": 18710,
+          "listed_count": 4,
+          "media_count": 1183,
+          "tweet_count": 27003
+        },
+        "username": "tema13456"
+      },
+      {
+        "id": "1788271564649029632",
+        "name": "Soliman",
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 907,
+          "like_count": 1161,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 766
+        },
+        "username": "solimancf"
+      },
+      {
+        "id": "299558731",
+        "name": "Compare the Cloud",
+        "public_metrics": {
+          "followers_count": 32178,
+          "following_count": 28365,
+          "like_count": 31703,
+          "listed_count": 1429,
+          "media_count": 3986,
+          "tweet_count": 71685
+        },
+        "username": "comparethecloud"
+      },
+      {
+        "id": "1360589207236919303",
+        "name": "Richmond Alake",
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 175,
+          "like_count": 1344,
+          "listed_count": 24,
+          "media_count": 220,
+          "tweet_count": 749
+        },
+        "username": "richmondalake"
+      },
+      {
+        "id": "2055285311861628928",
+        "name": "cv usk",
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 284,
+          "like_count": 1051,
+          "listed_count": 11,
+          "media_count": 920,
+          "tweet_count": 4204
+        },
+        "username": "cv_usk"
+      },
+      {
+        "id": "1412846765758304257",
+        "name": "Zachary Meyer",
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 240,
+          "like_count": 25107,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 5746
+        },
+        "username": "absencelul"
+      },
+      {
+        "id": "34275172",
+        "name": "thomas_R",
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 400,
+          "like_count": 5981,
+          "listed_count": 42,
+          "media_count": 433,
+          "tweet_count": 2191
+        },
+        "username": "thomas_rehmer"
+      },
+      {
+        "id": "2109669786791903233",
+        "name": "Ethan Cole",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 87
+        },
+        "username": "EthanColeq9"
+      },
+      {
+        "id": "1837960126239854592",
+        "name": "Build A Goat",
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1201,
+          "like_count": 7627,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 3087
+        },
+        "username": "buildAgoat"
+      },
+      {
+        "id": "2030144417219366916",
+        "name": "PurpleHaze Timetraveler",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 66,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 246
+        },
+        "username": "Contrasignal_ai"
+      },
+      {
+        "id": "1570476516085231621",
+        "name": "Abhishek Chaudhary",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 558
+        },
+        "username": "Abhishe37082752"
+      },
+      {
+        "id": "1927376211946184704",
+        "name": "The Summary Series",
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 8,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 2445,
+          "tweet_count": 2585
+        },
+        "username": "SummarySeriesUK"
+      },
+      {
+        "id": "2113758331441713152",
+        "name": "Bryan Builds AI",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 41,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "BryanBuildsAI"
+      },
+      {
+        "id": "1273309498921242624",
+        "name": "Manas Rastogi",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 132,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "UnfoldingManas"
+      },
+      {
+        "id": "1906617820122595328",
+        "name": "DailyPapers",
+        "public_metrics": {
+          "followers_count": 22264,
+          "following_count": 4,
+          "like_count": 62,
+          "listed_count": 353,
+          "media_count": 3617,
+          "tweet_count": 7836
+        },
+        "username": "HuggingPapers"
+      },
+      {
+        "id": "1655617090886172672",
+        "name": "AK",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 273
+        },
+        "username": "Its_AKar"
+      },
+      {
+        "id": "1608351024670035968",
+        "name": "Scott",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 268
+        },
+        "username": "scottytherocky"
+      },
+      {
+        "id": "2076254281007525888",
+        "name": "meerah",
+        "public_metrics": {
+          "followers_count": 6327,
+          "following_count": 7086,
+          "like_count": 2321,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 2692
+        },
+        "username": "ameerah2y1"
+      },
+      {
+        "id": "15311486",
+        "name": "Steve Mordue",
+        "public_metrics": {
+          "followers_count": 3644,
+          "following_count": 161,
+          "like_count": 938,
+          "listed_count": 164,
+          "media_count": 7576,
+          "tweet_count": 14982
+        },
+        "username": "SteveMordue"
+      },
+      {
+        "id": "704604120913555457",
+        "name": "Manthan Gupta",
+        "public_metrics": {
+          "followers_count": 23349,
+          "following_count": 486,
+          "like_count": 29159,
+          "listed_count": 159,
+          "media_count": 719,
+          "tweet_count": 14554
+        },
+        "username": "manthanguptaa"
+      },
+      {
+        "id": "1227579828397891595",
+        "name": "Sail",
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 672,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 3973
+        },
+        "username": "AsWill11"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116115607254929423",
+    "next_token": "b26v89c19zqg8o3juzlxo2el6lmcrln6u1alab8gqhcal",
+    "oldest_id": "2115464984926785943",
+    "result_count": 25
+  }
+}

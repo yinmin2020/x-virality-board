@@ -1,0 +1,648 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116168492135456768"
+        ]
+      },
+      "created_at": "2026-10-30T14:02:43.000Z",
+      "edit_history_tweet_ids": [
+        "2116168926296256891"
+      ],
+      "id": "2116168926296256891",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 224,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116156997712195646",
+          "type": "quoted"
+        }
+      ],
+      "text": "AI 看似让人对于掌控感的感觉强上非常多 \n\n实则越是容易通过 AI 来做,  就越容易分心 , 这也是 DAN KOE 情况比以前糟糕 10 倍 \n\n所以到底是人领导 AI ,  还是 AI 反响控制 人 ? https://t.co/NpwTfhRf6v https://t.co/A8mWkR78a7",
+      "url": "https://x.com/i/status/2116168926296256891"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2116153511977365504"
+        ]
+      },
+      "created_at": "2026-10-30T13:19:32.000Z",
+      "edit_history_tweet_ids": [
+        "2116158060158914975"
+      ],
+      "id": "2116158060158914975",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 443,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "做 Grok Bot 模板站的 XFreeze 演示了一招：换到 Grok Bot，不用从零再讲自己是谁。\n\nSettings 里开 Import Memory，把给的 prompt 贴进你原来的助手，把它回的那段再贴回 Grok Bot，点 Add to Memory。\n\n记忆、偏好、指令、文风、重要上下文一起过来，不用再从头交代一遍。 https://t.co/XyJgeKeYG8",
+      "url": "https://x.com/i/status/2116158060158914975"
+    },
+    {
+      "created_at": "2026-10-30T12:50:09.000Z",
+      "edit_history_tweet_ids": [
+        "2116150217280205308",
+        "2116150666662125925"
+      ],
+      "id": "2116150666662125925",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 244,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116114119153627219",
+          "type": "quoted"
+        }
+      ],
+      "text": "说过暴论 ! ! !    朝鲜黑客是出海的顶级存在啊啊啊\n\n这一两年盗了 币安、 Bitget 、 Bybit ,  这些加起来都快 100亿美元了\n\n金额早就超过朝鲜的全年 GDP 了吧 ,  这出海创汇是真太牛逼了啊 https://t.co/csVMCE85NP",
+      "url": "https://x.com/i/status/2116150666662125925"
+    },
+    {
+      "created_at": "2026-10-30T11:41:01.000Z",
+      "edit_history_tweet_ids": [
+        "2116133266097090931"
+      ],
+      "id": "2116133266097090931",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 258,
+        "like_count": 0,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116118053872079045",
+          "type": "quoted"
+        }
+      ],
+      "text": "FDE 实战案例来了,  美妆客户洗完小红书、抖音数据后，想让 AI 天天自己查：某款精华过去 30 天口碑怎么样、负面集中在哪，最好还能带回原帖。\n\n一句话落到查询，至少得先钉死五件事：查谁、看哪段时间、从哪几个平台取、用什么指标、要不要带证据。少一项，数字再好看也答错题。 https://t.co/FeZR2TRVvE",
+      "url": "https://x.com/i/status/2116133266097090931"
+    },
+    {
+      "created_at": "2026-10-30T10:51:13.000Z",
+      "edit_history_tweet_ids": [
+        "2116120733055369564"
+      ],
+      "id": "2116120733055369564",
+      "in_reply_to_user_id": "1759530111534243840",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 237,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116100139878318293",
+          "type": "quoted"
+        },
+        {
+          "id": "2115974734957703677",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/wtD1zKnFbK",
+      "url": "https://x.com/i/status/2116120733055369564"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116099039569854464"
+        ]
+      },
+      "created_at": "2026-10-30T09:29:24.000Z",
+      "edit_history_tweet_ids": [
+        "2116100143204520218"
+      ],
+      "id": "2116100143204520218",
+      "in_reply_to_user_id": "1759530111534243840",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 220,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116100139878318293",
+          "type": "replied_to"
+        }
+      ],
+      "text": "还可以可以接着继续追问：\n\n「哪些事项需要我本周检查？请说明判断依据，并保留原邮件入口。」\n\n需要留档，再让它把清单生成表格，导出到本地。\n\nMail Agent 手机端、桌面端都能用。这类查通知、梳理待办的任务，可以先从手机上开始。 https://t.co/JCAum3aFum",
+      "url": "https://x.com/i/status/2116100143204520218"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2116098131502989312"
+        ]
+      },
+      "created_at": "2026-10-30T09:29:23.000Z",
+      "edit_history_tweet_ids": [
+        "2116100139878318293"
+      ],
+      "id": "2116100139878318293",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 2653,
+        "like_count": 52,
+        "quote_count": 12,
+        "reply_count": 37,
+        "retweet_count": 4
+      },
+      "text": "全体起立 ❗️   发现一个 AI 非常有实用价值的场景\n\n用 AI 去管理邮箱里的邮件, 尤其对于我们这些订阅多个 AI 订阅工具的人来说,  只是是自己 AI 的钱花在那里了, 没准还能能省钱啊 \n\n刚翻了一遍自己的邮箱，发现里面已经攒了一串事情：\n\nChatGpt  收费提醒 、  DeepSeek 的 API 收费提醒、Cloudflare https://t.co/IN45qzCNL2",
+      "url": "https://x.com/i/status/2116100139878318293"
+    },
+    {
+      "created_at": "2026-10-30T08:17:02.000Z",
+      "edit_history_tweet_ids": [
+        "2116081933025472855"
+      ],
+      "id": "2116081933025472855",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 977,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115790774642303041",
+          "type": "quoted"
+        }
+      ],
+      "text": "这篇文章把 Wise 个人美户港户说透了：大陆身份也能开。\n\n核心三步：\n1. 有已验证的 Business，再开同体系个人户\n2. 填 TIN（中国税居用身份证号），首充同名转且附言别空\n3. 到账后美户港户才会下发 https://t.co/3D5sOgVUYT",
+      "url": "https://x.com/i/status/2116081933025472855"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116067210422812673"
+        ]
+      },
+      "created_at": "2026-10-30T07:19:19.000Z",
+      "edit_history_tweet_ids": [
+        "2116067410201702894"
+      ],
+      "id": "2116067410201702894",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 374,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115626860226982157",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,  这个 《一张纸对折多少能到月球?》 视频发到抖音,  还拿到了流量激励,  这个是不是很容易拿 ? ? ? https://t.co/LnJs9roiqy https://t.co/hkbeD4jQMq",
+      "url": "https://x.com/i/status/2116067410201702894"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116061219178336256"
+        ]
+      },
+      "created_at": "2026-10-30T06:55:25.000Z",
+      "edit_history_tweet_ids": [
+        "2116061395347493324"
+      ],
+      "id": "2116061395347493324",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1003,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "Grok Bot 本周版本更新一览, 从 0.75.5 -&gt; 0.78.1 \n\n几个能马上用上的点：\n\n1. Vault：存登录、卡、联系人，结账可直接调\n2. 1Password：你在 App 里审批，Bot 浏览器填，看不到密码\n3. 权限卡：Settings 统一管规则，Bot 还能在聊天里提议改规则\n4. Question Cards：一张卡分步问多个问题\n5. https://t.co/JwqZlxG3VE",
+      "url": "https://x.com/i/status/2116061395347493324"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116049051133349888"
+        ]
+      },
+      "created_at": "2026-10-30T06:06:31.000Z",
+      "edit_history_tweet_ids": [
+        "2116049089075056802"
+      ],
+      "id": "2116049089075056802",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1261,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116042767784989103",
+          "type": "quoted"
+        }
+      ],
+      "text": "Grok Bot 现在能邀请好友,   好友2周的免费试用链接了 \n\nX 友们, 赶紧去看看有没有 https://t.co/ohVDpM5SZW https://t.co/xunqTtrL5q",
+      "url": "https://x.com/i/status/2116049089075056802"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115873705230249984"
+        ]
+      },
+      "created_at": "2026-10-30T05:16:26.000Z",
+      "edit_history_tweet_ids": [
+        "2116036483757007151"
+      ],
+      "id": "2116036483757007151",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 523,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "Neuralink（脑机接口公司，正在做「用想法说话」的语音恢复临床试验）工程师跑到一位受试者家里，干了 72 小时黑客松：白板出点子、当场做原型、当场测。\n\n目标就一件事：让用想法说话尽量少按按钮。\n\n线程和片子里亮出的几块：\n\n1.",
+      "url": "https://x.com/i/status/2116036483757007151"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116030836516737024"
+        ]
+      },
+      "created_at": "2026-10-30T04:54:24.000Z",
+      "edit_history_tweet_ids": [
+        "2116030938304115170"
+      ],
+      "id": "2116030938304115170",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1916,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115944037488443690",
+          "type": "quoted"
+        }
+      ],
+      "text": "Cloris 做的 三家 personal agent 对比图,  非常详细了 https://t.co/r6R9PwLJjD https://t.co/TLfUlSMmMj",
+      "url": "https://x.com/i/status/2116030938304115170"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116010949861851136"
+        ]
+      },
+      "created_at": "2026-10-30T03:37:44.000Z",
+      "edit_history_tweet_ids": [
+        "2116011646024130677"
+      ],
+      "id": "2116011646024130677",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 4865,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 1
+      },
+      "text": "卧槽 ! ! !  腾讯这回对 workbuddy 扶持力度顶天了,  让其他各种应用都能和 WorkBuddy 协同 ,  还推出了个  Buddy One \n\n什么是 Buddy One？加入 Buddy One 后，Workbuddy 积分升级为Buddy One 积分，各应用间实现积分和数据共享。\n\n看大厂的一款产品受不受重视的分辨方法,  其实很简单 https://t.co/nBp3vzQFNo",
+      "url": "https://x.com/i/status/2116011646024130677"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115971958219374592"
+        ]
+      },
+      "created_at": "2026-10-30T01:11:04.000Z",
+      "edit_history_tweet_ids": [
+        "2115974734957703677"
+      ],
+      "id": "2115974734957703677",
+      "public_metrics": {
+        "bookmark_count": 122,
+        "impression_count": 16471,
+        "like_count": 110,
+        "quote_count": 3,
+        "reply_count": 20,
+        "retweet_count": 18
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109544824135467312",
+          "type": "quoted"
+        }
+      ],
+      "text": "全体起立 ❗️❗️❗️   Rea 现在 40.8 万 Star ,   荣登今年新增 Github 最高星项目 ,  超越了  OpenClaw  39.3 万 Star \n \n一个 4 月才上线的项目，10 月直接冲到 40 万+ Stars，成为今年最火的开源项目之一。\n\n单月新增约 40 万 Stars，增长榜断层第一,  全站总 Stars 已进前 5–6\n\n2026 https://t.co/nXU0yLfedd https://t.co/d8taTJHOeT",
+      "url": "https://x.com/i/status/2115974734957703677"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115964978197102592"
+        ]
+      },
+      "created_at": "2026-10-30T00:34:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115965579274457601"
+      ],
+      "id": "2115965579274457601",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 496,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115626860226982157",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈,   我也参加抖音 Vibe知识大赏的话题了,  看看到时候有多少播放量 \n\n昨天做的那个《一张纸折叠多少, 可以到月球?》 那个视频感觉很适合参加 Vibe 知识大赏 \n\n原本知识做给小孩科普的,   刚好这个太合适 Vibe 知识大赏这个主题了 \n\n用 AI , 把一个知识点变成一段视频 https://t.co/HFxHYepmuQ https://t.co/hkbeD4jQMq",
+      "url": "https://x.com/i/status/2115965579274457601"
+    },
+    {
+      "created_at": "2026-10-29T23:35:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115950694599713110"
+      ],
+      "id": "2115950694599713110",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1770,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115850175868727621",
+          "type": "quoted"
+        }
+      ],
+      "text": "卧槽 ! ! !  感觉 Tibo 这轮营销不成功哈 \n\n先说要降,  然后又不降 \n\n哪些已经取消订阅 Pro 20  X 的 用户,  短时间不会回来呀 \n\n我都准备下个月降低订阅等级的\n\n这确实是利好  Pro 5 X 用户,  直接翻倍到 10 倍 https://t.co/UM0RFyqhq5",
+      "url": "https://x.com/i/status/2115950694599713110"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115833522078498816"
+        ]
+      },
+      "created_at": "2026-10-29T22:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115937975708324287"
+      ],
+      "id": "2115937975708324287",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9298,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "text": "Muse 10.0 来了 ,  收到更新提示了 \n\n重要的是依然不知道 Muse 这次 10.0 更新是更新的个什么 \n\n十分不喜欢 Muse , 这种每次版本升级都不告知升级什么的产品 https://t.co/FjMKkpXDkT",
+      "url": "https://x.com/i/status/2115937975708324287"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2110409849746141184"
+        ]
+      },
+      "created_at": "2026-10-29T15:59:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115835802462646337"
+      ],
+      "id": "2115835802462646337",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 620,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "SpaceXAI 做 Cursor 和 Grok Bot 的 matt palmer 发了条约 11 分钟片子：用代码把 Slack 界面做成视频动效。\n\n做法不是拆 Slack 源码。给 Agent 一段参考视频，再在它自己的电脑里打开真 Slack，让它对着画面抠动效、缓动和交互。Agent 跑在 Cursor Cloud 的 Linux",
+      "url": "https://x.com/i/status/2115835802462646337"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115827499850727425"
+        ]
+      },
+      "created_at": "2026-10-29T15:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115828220591497345",
+        "2115828504772370673"
+      ],
+      "id": "2115828504772370673",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 4144,
+        "like_count": 15,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 1
+      },
+      "text": "卧槽中的卧槽  ❗️❗️❗️  深夜重大发现 ,  Grok网页端聊天中现在可以直接  @ grok bot 中的任何一个bot 了 \n\n这尼玛硬是把 Grok 和 Bot 体系完全打通了 ,   这样太爽了吧 \n\n以后 grok 搜索的信息可以直接跟 Bot 互通,  省掉了复制、粘贴的这多一步的事情 https://t.co/22siYEyvJe",
+      "url": "https://x.com/i/status/2115828504772370673"
+    },
+    {
+      "created_at": "2026-10-29T13:16:54.000Z",
+      "edit_history_tweet_ids": [
+        "2115795008712475092"
+      ],
+      "id": "2115795008712475092",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 949,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115779686697697557",
+          "type": "quoted"
+        }
+      ],
+      "text": "Grok Bot 日活连涨 16 天，是上线以来最长连涨。\n\n几个数字：\n- 9 月初不到 10 万日活\n- 到 10 月 26 日超过 60 万\n- 不到两个月翻了 6 倍多 https://t.co/jC7NC4ZAGp",
+      "url": "https://x.com/i/status/2115795008712475092"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115763511200776192"
+        ]
+      },
+      "created_at": "2026-10-29T11:14:11.000Z",
+      "edit_history_tweet_ids": [
+        "2115764128375881791"
+      ],
+      "id": "2115764128375881791",
+      "public_metrics": {
+        "bookmark_count": 128,
+        "impression_count": 34740,
+        "like_count": 140,
+        "quote_count": 2,
+        "reply_count": 18,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115759993245110453",
+          "type": "quoted"
+        }
+      ],
+      "text": "workbuddy 都支持浏览器操作了,    以后感觉用 codex 的场景更少了 \n\n要是 codex 还不给力点,   准备退订 Pro 套餐了 https://t.co/ppt7IkhJvv https://t.co/MQucY7k4IM",
+      "url": "https://x.com/i/status/2115764128375881791"
+    },
+    {
+      "created_at": "2026-10-29T10:35:49.000Z",
+      "edit_history_tweet_ids": [
+        "2115754472161030543"
+      ],
+      "id": "2115754472161030543",
+      "in_reply_to_user_id": "1759530111534243840",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 227,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115754265180574033",
+          "type": "replied_to"
+        }
+      ],
+      "text": "源码地址: https://t.co/11NeplILEN",
+      "url": "https://x.com/i/status/2115754472161030543"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2116168492135456768",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2116153511977365504",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2116099039569854464",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2116098131502989312",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2116067210422812673",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2116061219178336256",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2116049051133349888",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115873705230249984",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2116030836516737024",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2116010949861851136",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115971958219374592",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115964978197102592",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115833522078498816",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2110409849746141184",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115827499850727425",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115763511200776192",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116168926296256891",
+    "next_token": "7140dibdnow9c7btwp0g7855f98359dwfedhy7dfaavjn",
+    "oldest_id": "2115754472161030543",
+    "result_count": 23
+  }
+}

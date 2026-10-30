@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116119685330812928"
+        ]
+      },
+      "created_at": "2026-10-30T10:47:07.000Z",
+      "edit_history_tweet_ids": [
+        "2116119701487337890"
+      ],
+      "id": "2116119701487337890",
+      "public_metrics": {
+        "bookmark_count": 87,
+        "impression_count": 12297,
+        "like_count": 67,
+        "quote_count": 2,
+        "reply_count": 52,
+        "retweet_count": 5
+      },
+      "text": "夸克网盘有 Skill了，这个牛逼啊！\n\n这下所有的 AI 直接能读你夸克网盘里所有的内容了：\n\n你的图片、你的视频，还有你以前的一些信息。\n\n而且会员的话还支持智能搜索和相册整理。\n\n你对话生成的文件还可以让它直接上传网盘，它也能帮你自动去备份一些重要的资料什么的，就是 Agent 都可以做了。 https://t.co/7xb4JdDxH6",
+      "url": "https://x.com/i/status/2116119701487337890"
+    },
+    {
+      "created_at": "2026-10-30T03:33:49.000Z",
+      "edit_history_tweet_ids": [
+        "2116010660735881602"
+      ],
+      "id": "2116010660735881602",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 11000,
+        "like_count": 33,
+        "quote_count": 6,
+        "reply_count": 61,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115859388191912193",
+          "type": "quoted"
+        }
+      ],
+      "text": "Claude 已经能在 CarPlay 上使用了\n\n而且 CarPlay 上可以直接用语音跟 Claude 交流，这个很方便呀。\n\n什么时候 Codex 支持一下？ https://t.co/qBVSuo9w3o",
+      "url": "https://x.com/i/status/2116010660735881602"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116005468711841792"
+        ]
+      },
+      "created_at": "2026-10-30T03:13:14.000Z",
+      "edit_history_tweet_ids": [
+        "2116005477805154537"
+      ],
+      "id": "2116005477805154537",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6454,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113639194484670628",
+          "type": "quoted"
+        }
+      ],
+      "text": "Grok  bot 也适配了 iPhone duo 了 https://t.co/CDLeQwspLb https://t.co/vVCVY4eODI",
+      "url": "https://x.com/i/status/2116005477805154537"
+    },
+    {
+      "created_at": "2026-10-30T01:26:47.000Z",
+      "edit_history_tweet_ids": [
+        "2115978692266725575"
+      ],
+      "id": "2115978692266725575",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2750,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115947325617299903",
+          "type": "quoted"
+        },
+        {
+          "id": "2115977382092046406",
+          "type": "replied_to"
+        }
+      ],
+      "text": "币安说，实际受影响金额是 25 亿美元。刚才 CZ 说，会赔偿这部分金额吧，可能 https://t.co/zl95MTVkkf",
+      "url": "https://x.com/i/status/2115978692266725575"
+    },
+    {
+      "created_at": "2026-10-30T01:21:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115977382092046406"
+      ],
+      "id": "2115977382092046406",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 8916,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115922259739349132",
+          "type": "quoted"
+        }
+      ],
+      "text": "现在这个安全形势真是严峻啊，币安都被黑了，总共损失超过了 56 亿美元 https://t.co/EdvMBclN2m",
+      "url": "https://x.com/i/status/2115977382092046406"
+    },
+    {
+      "created_at": "2026-10-30T01:18:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115976609148834301"
+      ],
+      "id": "2115976609148834301",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 16009,
+        "like_count": 34,
+        "quote_count": 5,
+        "reply_count": 48,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115850175868727621",
+          "type": "quoted"
+        }
+      ],
+      "text": "我去！\n\nOpenAI 把 Pro 会员的所有使用限额翻倍了！\n\n也就是说他们把之前去掉的那个额度加回来了，这下可以开极高推理爽用了 https://t.co/JRj4QpLiON",
+      "url": "https://x.com/i/status/2115976609148834301"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115646153282994176"
+        ]
+      },
+      "created_at": "2026-10-29T03:26:07.000Z",
+      "edit_history_tweet_ids": [
+        "2115646335458349480"
+      ],
+      "id": "2115646335458349480",
+      "public_metrics": {
+        "bookmark_count": 54,
+        "impression_count": 42676,
+        "like_count": 64,
+        "quote_count": 9,
+        "reply_count": 92,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115583698074755078",
+          "type": "quoted"
+        }
+      ],
+      "text": "又有鸡蛋领了！\n\nOpenAI 也学 Claude，开始给每个档级的会员送 API 额度了。\n\n也是跟你的订阅费一样，比如说 $200 的 Pro 就送你 $200 的 API 额度。\n\n但我发现我这个设置页面怎么没有领取的按钮啊，卧槽？看了一下评论区，有这种问题的人还不在少数\n\n领取的位置是在你网页的 ChatGPT 设置-账单页面 https://t.co/0r0PuUuH9R https://t.co/1gWiiE9umG",
+      "url": "https://x.com/i/status/2115646335458349480"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115640232850956288"
+        ]
+      },
+      "created_at": "2026-10-29T03:01:56.000Z",
+      "edit_history_tweet_ids": [
+        "2115640249028317401"
+      ],
+      "id": "2115640249028317401",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2217,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115637291213537571",
+          "type": "replied_to"
+        }
+      ],
+      "text": "还是在 Windows 下 Wallpaper 的体验比较好 https://t.co/BM7Ub37p61",
+      "url": "https://x.com/i/status/2115640249028317401"
+    },
+    {
+      "created_at": "2026-10-29T02:50:43.000Z",
+      "edit_history_tweet_ids": [
+        "2115637424542101608"
+      ],
+      "id": "2115637424542101608",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2481,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115637160208691485",
+          "type": "quoted"
+        },
+        {
+          "id": "2115380683749429279",
+          "type": "replied_to"
+        }
+      ],
+      "text": "发布了朋友们：https://t.co/TK6meaEp9s",
+      "url": "https://x.com/i/status/2115637424542101608"
+    },
+    {
+      "created_at": "2026-10-29T02:50:11.000Z",
+      "edit_history_tweet_ids": [
+        "2115637291213537571"
+      ],
+      "id": "2115637291213537571",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 3625,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115637160208691485",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Mac 端是客户端的形式，Windows 上架在了 Steam 的 Wallpaper 创意工坊里：https://t.co/44svSywto0",
+      "url": "https://x.com/i/status/2115637291213537571"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115636944042676224"
+        ]
+      },
+      "created_at": "2026-10-29T02:49:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115637160208691485"
+      ],
+      "id": "2115637160208691485",
+      "public_metrics": {
+        "bookmark_count": 86,
+        "impression_count": 16341,
+        "like_count": 79,
+        "quote_count": 2,
+        "reply_count": 29,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115635880363016637",
+          "type": "quoted"
+        }
+      ],
+      "text": "Claude 和视频模型结合可能性太大了！\n\n一下午就做出来很火的“性转马尔福”的桌面软件。\n\n里面有好感度系统，会随着好感度的增长解锁新的剧情动画和着装。\n\n平时它就住在你的桌面里，预置了很多动作和交互，而且每一个都是 4K 素材。\n\n文章有详细的制作教程。代码已经开源，可以替换你的素材。 https://t.co/Cj4rWfE6cc https://t.co/cL0R3dJebs",
+      "url": "https://x.com/i/status/2115637160208691485"
+    },
+    {
+      "article": {
+        "title": "开源性转马尔福 AI 女友，用即梦短剧工作室做的"
+      },
+      "created_at": "2026-10-29T02:44:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115635880363016637"
+      ],
+      "id": "2115635880363016637",
+      "public_metrics": {
+        "bookmark_count": 135,
+        "impression_count": 33116,
+        "like_count": 81,
+        "quote_count": 5,
+        "reply_count": 22,
+        "retweet_count": 5
+      },
+      "text": "https://t.co/Z4RGajdf2b",
+      "url": "https://x.com/i/status/2115635880363016637"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115632464924459008"
+        ]
+      },
+      "created_at": "2026-10-29T02:31:05.000Z",
+      "edit_history_tweet_ids": [
+        "2115632483501052029"
+      ],
+      "id": "2115632483501052029",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 16556,
+        "like_count": 41,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "text": "影之刃零上了，估计不少朋友已经在游戏里了吧。 https://t.co/ERlfqPR4bh",
+      "url": "https://x.com/i/status/2115632483501052029"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2115146971606614016"
+        ],
+        "media_source_tweet_id": [
+          "2115147446385049758"
+        ]
+      },
+      "created_at": "2026-10-29T01:50:50.000Z",
+      "edit_history_tweet_ids": [
+        "2115622357146730681"
+      ],
+      "id": "2115622357146730681",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 9637,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "Pond 又一个 Linux 发行版，但是这个非常漂亮，改天装一下试试，颜值太高了 https://t.co/jn7ixW6DzF",
+      "url": "https://x.com/i/status/2115622357146730681"
+    },
+    {
+      "created_at": "2026-10-29T01:49:30.000Z",
+      "edit_history_tweet_ids": [
+        "2115622019429781887"
+      ],
+      "id": "2115622019429781887",
+      "public_metrics": {
+        "bookmark_count": 164,
+        "impression_count": 23681,
+        "like_count": 172,
+        "quote_count": 4,
+        "reply_count": 66,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115506373001634206",
+          "type": "quoted"
+        }
+      ],
+      "text": "Suno 终于有 MCP 了！\n\n这样你再让 Claude 创建视频，需要音乐的时候，就可以直接调用 Suno 去创建，不需要你自己创建再发给它了 https://t.co/T0R7oULNTP",
+      "url": "https://x.com/i/status/2115622019429781887"
+    },
+    {
+      "created_at": "2026-10-28T18:55:53.000Z",
+      "edit_history_tweet_ids": [
+        "2115517927730606478"
+      ],
+      "id": "2115517927730606478",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 23270,
+        "like_count": 37,
+        "quote_count": 4,
+        "reply_count": 47,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115489219804352921",
+          "type": "quoted"
+        }
+      ],
+      "text": "我去，谷歌是咋了？这分数对吗？\n\n他们又发布了一个 Gemini 4 模型，叫Gemini 4 Carbon。\n\n在所有的测评上几乎都超过了 Fable 5.1 和 Opus 5.5\n\nTerminal bench 4.0 比其他几个模型高了非常多。 https://t.co/7oFPGGDDrs",
+      "url": "https://x.com/i/status/2115517927730606478"
+    },
+    {
+      "created_at": "2026-10-28T11:18:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115402701936988211"
+      ],
+      "id": "2115402701936988211",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 3276,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115402119952085409",
+          "type": "quoted"
+        },
+        {
+          "id": "2115380683749429279",
+          "type": "replied_to"
+        }
+      ],
+      "text": "素材解锁：https://t.co/Qmtxf3TySd",
+      "url": "https://x.com/i/status/2115402701936988211"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115401995041550336"
+        ]
+      },
+      "created_at": "2026-10-28T11:15:42.000Z",
+      "edit_history_tweet_ids": [
+        "2115402119952085409"
+      ],
+      "id": "2115402119952085409",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 10507,
+        "like_count": 22,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115380683749429279",
+          "type": "quoted"
+        }
+      ],
+      "text": "随着好感度的提升，Malfoy 也会给你一些奖励 https://t.co/vcfyg86oCy https://t.co/5ipWMMr9Uy",
+      "url": "https://x.com/i/status/2115402119952085409"
+    },
+    {
+      "created_at": "2026-10-28T10:05:34.000Z",
+      "edit_history_tweet_ids": [
+        "2115384469033230801"
+      ],
+      "id": "2115384469033230801",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6580,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115380683749429279",
+          "type": "quoted"
+        }
+      ],
+      "text": "还有剧情动画会随着你的使用时长和好感度解锁，到时候他对你的态度、场景和服装之类的也会发生变化 https://t.co/5ipWMMr9Uy",
+      "url": "https://x.com/i/status/2115384469033230801"
+    },
+    {
+      "created_at": "2026-10-28T09:56:21.000Z",
+      "edit_history_tweet_ids": [
+        "2115382151248253063"
+      ],
+      "id": "2115382151248253063",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3735,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115380683749429279",
+          "type": "replied_to"
+        }
+      ],
+      "text": "顺便说一句，里面的素材你可以自己换，我会开源",
+      "url": "https://x.com/i/status/2115382151248253063"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115380431852064768"
+        ]
+      },
+      "created_at": "2026-10-28T09:50:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115380446314037499",
+        "2115380683749429279"
+      ],
+      "id": "2115380683749429279",
+      "public_metrics": {
+        "bookmark_count": 25,
+        "impression_count": 34167,
+        "like_count": 48,
+        "quote_count": 5,
+        "reply_count": 31,
+        "retweet_count": 2
+      },
+      "text": "我去，好像不小心整了个大活！\n\n谁不想在桌面上天天看到穿不同衣服的性转马尔福呢？ https://t.co/MkEu9c3dOF",
+      "url": "https://x.com/i/status/2115380683749429279"
+    },
+    {
+      "created_at": "2026-10-28T08:17:15.000Z",
+      "edit_history_tweet_ids": [
+        "2115357210457100743"
+      ],
+      "id": "2115357210457100743",
+      "public_metrics": {
+        "bookmark_count": 101,
+        "impression_count": 163069,
+        "like_count": 322,
+        "quote_count": 10,
+        "reply_count": 106,
+        "retweet_count": 5
+      },
+      "text": "最近这个 AI 破解和移植风潮已经离谱得很了\n\n刚才刷到小米 15 已经能用上 iOS 16 系统了，这他妈以前哪敢想\n\n我刚好还有个小米 15，一会儿试试去",
+      "url": "https://x.com/i/status/2115357210457100743"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115307276638863360"
+        ]
+      },
+      "created_at": "2026-10-28T04:58:52.000Z",
+      "edit_history_tweet_ids": [
+        "2115307286784876767"
+      ],
+      "id": "2115307286784876767",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 7996,
+        "like_count": 23,
+        "quote_count": 1,
+        "reply_count": 26,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115000078104691168",
+          "type": "quoted"
+        }
+      ],
+      "text": "蓝色大肥鱼金属键帽都出来了\n\n感觉 DeepSeek 这个形象和 DSH 相辅相成，两个都越来越火。\n\n你只要刷到一个蓝色大肥鱼，你的信息流里就全是蓝色大肥鱼了 https://t.co/7Ahrxn2MPX https://t.co/SYpgWwAPzx",
+      "url": "https://x.com/i/status/2115307286784876767"
+    },
+    {
+      "created_at": "2026-10-28T04:01:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115292860581077411"
+      ],
+      "id": "2115292860581077411",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 8457,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115291006426067339",
+          "type": "replied_to"
+        }
+      ],
+      "text": "为什么发现这个插件呢？起因是刷抖音看到了插件作者的视频，长得很漂亮，然后一开口是个男的声音。",
+      "url": "https://x.com/i/status/2115292860581077411"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2116119685330812928",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2116005468711841792",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115646153282994176",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115640232850956288",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115636944042676224",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115632464924459008",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2115146971606614016",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115401995041550336",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115380431852064768",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115307276638863360",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116119701487337890",
+    "next_token": "7140dibdnow9c7btwp0g783nn6f0qlcwu50rqe383aiwh",
+    "oldest_id": "2115292860581077411",
+    "result_count": 24
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "created_at": "2026-10-28T17:36:07.000Z",
+      "edit_history_tweet_ids": [
+        "2115497857054605821"
+      ],
+      "id": "2115497857054605821",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 82229,
+        "like_count": 261,
+        "quote_count": 5,
+        "reply_count": 57,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115414901804114290",
+          "type": "quoted"
+        }
+      ],
+      "text": "想起一句话：“当初求种像条狗，如今撸完嫌人丑” 😂 https://t.co/DFTtO3T97b",
+      "url": "https://x.com/i/status/2115497857054605821"
+    },
+    {
+      "created_at": "2026-10-28T16:39:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115483616830517654"
+      ],
+      "id": "2115483616830517654",
+      "public_metrics": {
+        "bookmark_count": 74,
+        "impression_count": 15973,
+        "like_count": 58,
+        "quote_count": 2,
+        "reply_count": 24,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115467192276025500",
+          "type": "quoted"
+        }
+      ],
+      "text": "Claude 上线法律工具库：查引文、审合同、追新法规，打开就能用\n\nAnthropic 10 月 28 日给 Claude for Legal（今年 5 月推出的法律版 Claude）加了一个工具库。库里是一批现成的 Artifacts，也就是在 Claude 里直接能用、能分享给同事的小工具，比如跟踪表和看板。 https://t.co/EFwqyhinjT",
+      "url": "https://x.com/i/status/2115483616830517654"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115314493836206080"
+        ]
+      },
+      "created_at": "2026-10-28T05:28:39.000Z",
+      "edit_history_tweet_ids": [
+        "2115314783503196605"
+      ],
+      "id": "2115314783503196605",
+      "public_metrics": {
+        "bookmark_count": 377,
+        "impression_count": 39067,
+        "like_count": 267,
+        "quote_count": 15,
+        "reply_count": 84,
+        "retweet_count": 32
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114766888651858085",
+          "type": "quoted"
+        }
+      ],
+      "text": "避免 worktree 残留的最佳策略是在 AGENTS.md 里面添加规则，要求 worktree 不遗留，让 Agent 自己去清理。\n\nhttps://t.co/kblJYcr7BZ\n\n&gt; worktree 不遗留：在 worktree（含 subagent 的 .claude/worktrees/agent-*）里做的任务，完成时必须删除该 worktree 及其分支。它专用的 cargo target https://t.co/GXGJIY1eXY https://t.co/rbEDaHmtjW",
+      "url": "https://x.com/i/status/2115314783503196605"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115314493836206080",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115497857054605821",
+    "oldest_id": "2115314783503196605",
+    "previous_token": "77qpymm88g5h9vqkmfprnnmlz2detk4v87vwh1agr5qup",
+    "result_count": 3
+  }
+}

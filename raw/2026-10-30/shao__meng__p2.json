@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115332243841511424"
+        ]
+      },
+      "created_at": "2026-10-28T06:38:09.000Z",
+      "edit_history_tweet_ids": [
+        "2115332272152826248"
+      ],
+      "id": "2115332272152826248",
+      "public_metrics": {
+        "bookmark_count": 48,
+        "impression_count": 2899,
+        "like_count": 38,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114759962044060131",
+          "type": "quoted"
+        }
+      ],
+      "text": "逆向任意顶级 iOS App 设计 ？\n\nReverse Engineer Anything 有 iOS 版本了？哦，原来是三个 Agent Skills：先对照头部 App 学设计、再按 Expo 官方最佳实践搭工程、最后用动效/UI 品味规则做动画，来实现对顶级 iOS App 的复刻。\n\n1. Appllama Skills  设计研究 + 原生感建造标准\nAppllama https://t.co/Kg5bPscaGN https://t.co/SPzCGzdxLE",
+      "url": "https://x.com/i/status/2115332272152826248"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115314062108266496"
+        ]
+      },
+      "created_at": "2026-10-28T05:25:51.000Z",
+      "edit_history_tweet_ids": [
+        "2115314078176690272"
+      ],
+      "id": "2115314078176690272",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1470,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115200995546566910",
+          "type": "quoted"
+        }
+      ],
+      "text": "Anthropic 团队 Felix Rieseberg 表示：他的团队在招聘流程中已经正式拿掉了编程面试！并认为初级工程师对成功的「渴望」能胜过资历！\n\nhttps://t.co/LIpLigZPdk\n\n为什么取消编程面试呢？\n小 React/算法题测不出谁真正有冲击力，Claude https://t.co/ItYG1nlKcc https://t.co/30tGNEbktD",
+      "url": "https://x.com/i/status/2115314078176690272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115332243841511424",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115314062108266496",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115332272152826248",
+    "oldest_id": "2115314078176690272",
+    "previous_token": "77qpymm88g5h9vqkmfprnnmaxi6uwgiiw0smik6bcy1iw",
+    "result_count": 2
+  }
+}

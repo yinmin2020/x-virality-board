@@ -1,0 +1,752 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2116062339720196096"
+        ]
+      },
+      "created_at": "2026-10-30T07:01:36.000Z",
+      "edit_history_tweet_ids": [
+        "2116062951279091969"
+      ],
+      "id": "2116062951279091969",
+      "public_metrics": {
+        "bookmark_count": 46,
+        "impression_count": 3737,
+        "like_count": 54,
+        "quote_count": 3,
+        "reply_count": 23,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112397032912719957",
+          "type": "quoted"
+        }
+      ],
+      "text": "给孩子的键盘打字游戏更新了一版，加入了打句子的模块\n\n需求来源是：孩子每次打字，首字母大写、单词间空格、结束后句号，这些他手写时都能注意，但打字时就很容易记不住。因为这个没少被妈妈说。\n\n能用 AI 用软件训练解决的问题，咱就别让妈妈一直说了，浪费时间还大家都不高兴 😄 https://t.co/N0zeGFaFoW https://t.co/wNVWlLRLOK",
+      "url": "https://x.com/i/status/2116062951279091969"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115999245719515136"
+        ]
+      },
+      "created_at": "2026-10-30T02:48:32.000Z",
+      "edit_history_tweet_ids": [
+        "2115999263121699221"
+      ],
+      "id": "2115999263121699221",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 2418,
+        "like_count": 8,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115821783085711549",
+          "type": "quoted"
+        }
+      ],
+      "text": "来自中国的首个第三方评测实验室 @FangcunLeap 提交了一份 87 页的针对 DeepSeek V4.1 Flash-1017 安全评测报告，评测它在失控与有害操纵上的表现\n\n报告结论总结下来：相对 DeepSeek V4 一代，V4.1 Flash-1017 https://t.co/iWGtyVMhPI https://t.co/LsuJq4RBFt",
+      "url": "https://x.com/i/status/2115999263121699221"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115991595036397568"
+        ]
+      },
+      "created_at": "2026-10-30T02:18:08.000Z",
+      "edit_history_tweet_ids": [
+        "2115991611306086574"
+      ],
+      "id": "2115991611306086574",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1022,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115805862837264832",
+          "type": "quoted"
+        }
+      ],
+      "text": "用 Cursor 云端电脑「看着真正的 Slack」把界面做成代码视频\n\n来自 @mattyp 的实战演示，整体覆盖：Why → Cursor agents &amp; computer use → Video as code → Slack → 聊天·Agent·电脑 → 内环/外环 → The ladder → Skills → Feedback loops → Recap。\n\n演示看起来是「Agent 复刻 Slack https://t.co/KOmi79LMhQ https://t.co/46sZ8WwwxY",
+      "url": "https://x.com/i/status/2115991611306086574"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115986100137365504"
+        ]
+      },
+      "created_at": "2026-10-30T01:56:17.000Z",
+      "edit_history_tweet_ids": [
+        "2115986116482613486"
+      ],
+      "id": "2115986116482613486",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 2727,
+        "like_count": 30,
+        "quote_count": 2,
+        "reply_count": 44,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115688494865465370",
+          "type": "quoted"
+        }
+      ],
+      "text": "Addy 谈 Claude Opus 5.5 时代怎么用 Claude Code\n\nClaude 5 系列模型开始，对「堆提示词、手把手拆任务」的依赖已经下降；更有效的做法是一条说清目标与验收方式的提示，让模型自己跑完并停下来。旧时代为弱模型写的长系统提示、强制拆子 agent、人肉盯多会话，往往在增加成本，却不一定更聪明。 https://t.co/yb35aoN1Iu https://t.co/n2qHSLJqur",
+      "url": "https://x.com/i/status/2115986116482613486"
+    },
+    {
+      "created_at": "2026-10-30T01:28:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115979125630624028"
+      ],
+      "id": "2115979125630624028",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 752,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115785693599523089",
+          "type": "replied_to"
+        }
+      ],
+      "text": "需要 PDF 的朋友，留言后可以私信给我发一条信息，因为留言评论会被刷掉或隐藏看不到。",
+      "url": "https://x.com/i/status/2115979125630624028"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115975646874914816"
+        ]
+      },
+      "created_at": "2026-10-30T01:14:45.000Z",
+      "edit_history_tweet_ids": [
+        "2115975663148765204"
+      ],
+      "id": "2115975663148765204",
+      "public_metrics": {
+        "bookmark_count": 149,
+        "impression_count": 7024,
+        "like_count": 91,
+        "quote_count": 2,
+        "reply_count": 29,
+        "retweet_count": 13
+      },
+      "text": "阿里云开源《AI Agent Handbook》：用 Harness 把企业 Agent 从试点推到可治理生产\n\n企业级 Agent 全生命周期实践手册：架构、构建、运行、治理、调优，外加调研与案例，开源地址：\nhttps://t.co/DcfrmPCtWe\n\n手册为何重写？ https://t.co/5ywcVSIMME",
+      "url": "https://x.com/i/status/2115975663148765204"
+    },
+    {
+      "created_at": "2026-10-29T15:40:57.000Z",
+      "edit_history_tweet_ids": [
+        "2115831262435000725"
+      ],
+      "id": "2115831262435000725",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 423,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115829611812798649",
+          "type": "replied_to"
+        }
+      ],
+      "text": "上面说的 REA 或从零构建自己的 Video Agent，不全面，补充一个更现实的实现路径：\n把你的 Codex\\Claude Code\\Grok Bot 等作为主 Agent，给他们视频生成 API Key，再搭配一些视频剪辑知识和 ffmpeg 等 skills，试试效果。",
+      "url": "https://x.com/i/status/2115831262435000725"
+    },
+    {
+      "created_at": "2026-10-29T15:34:24.000Z",
+      "edit_history_tweet_ids": [
+        "2115829611812798649"
+      ],
+      "id": "2115829611812798649",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2394,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115378725563035803",
+          "type": "quoted"
+        }
+      ],
+      "text": "之前合作过一个 Video Agent 产品，对国内的 LibTV、TapNow、Flova、Pexo、Medeo 等团队多少有一些了解，创业目标、融资路演里肯定都有对生态、Agent 架构、行业 know-how、对 C 端用户需求理解深度等壁垒的反复强调，但是。。。\n\n做来做去，可能都做成了 token 中转站 😂\n\n想一想，如果这些网站支持 https://t.co/xUcyVNgsS1",
+      "url": "https://x.com/i/status/2115829611812798649"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115783183635767297"
+        ]
+      },
+      "created_at": "2026-10-29T12:39:53.000Z",
+      "edit_history_tweet_ids": [
+        "2115785693599523089"
+      ],
+      "id": "2115785693599523089",
+      "public_metrics": {
+        "bookmark_count": 367,
+        "impression_count": 23215,
+        "like_count": 227,
+        "quote_count": 2,
+        "reply_count": 182,
+        "retweet_count": 32
+      },
+      "text": "腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」\n\n整份材料用同一条产品叙事串起来：先用 WorkBuddy 把个人助手推成进业务系统的「数字员工」，再用 ClawPro、Agent Runtime、TokenHub https://t.co/QCFlI9I5EL",
+      "url": "https://x.com/i/status/2115785693599523089"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115647533397811200"
+        ]
+      },
+      "created_at": "2026-10-29T03:31:25.000Z",
+      "edit_history_tweet_ids": [
+        "2115647666160029715"
+      ],
+      "id": "2115647666160029715",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 2283,
+        "like_count": 15,
+        "quote_count": 2,
+        "reply_count": 20,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112551261749047333",
+          "type": "quoted"
+        }
+      ],
+      "text": "Amp 团队是什么工作的？\n\n21 人、一周一次会、无季度目标、几乎无头衔、无 PR、无强制代码评审、直推 main、一天约百次发布、分钟级修 bug，靠信任和 Agent 而不靠流程。\n\n来自 @sqs 和 @thorstenball 播客「The Company of the Future」，他们把 @AmpCode https://t.co/YFL3gg9avx https://t.co/lEO8RQtzzj",
+      "url": "https://x.com/i/status/2115647666160029715"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115644639663570944",
+          "3_2115644681841467392"
+        ]
+      },
+      "created_at": "2026-10-29T03:19:45.000Z",
+      "edit_history_tweet_ids": [
+        "2115644731493650643"
+      ],
+      "id": "2115644731493650643",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1801,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115476197572506077",
+          "type": "quoted"
+        }
+      ],
+      "text": "Shopify 最新发布 Fall ’26 Editions「Exponential」\n\nFall ’26 Editions 的主线很集中：一边让商品、结账、店铺管理走进 ChatGPT、Claude、Gemini、Copilot、Muse、Grok Bot、Instinct 等 Agent；一边把商家后台的 Sidekick、Canvas、营销自动驾驶和支付风控再加一档。Tobi 特意点名的 Expo Mode，是 https://t.co/57ov4TQB4P https://t.co/QIT5fG7dfk",
+      "url": "https://x.com/i/status/2115644731493650643"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115641708029595648",
+          "3_2115641725800902656"
+        ]
+      },
+      "created_at": "2026-10-29T03:08:08.000Z",
+      "edit_history_tweet_ids": [
+        "2115641806818099445"
+      ],
+      "id": "2115641806818099445",
+      "public_metrics": {
+        "bookmark_count": 23,
+        "impression_count": 2188,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2095330467000328632",
+          "type": "quoted"
+        }
+      ],
+      "text": "CS 329Z: Engineering AI Agents\n\n斯坦福大学秋季这门最新 AI Agents 工程课发布了第 11 讲「What Data Do Agents Need?」\n\n近两年模型在 Agent 任务上变强，主要靠大规模造出「agentic」数据。核心不是再爬更多网页问答，是：轨迹（演示） 用来做 SFT 模仿，环境（可验证任务） 用来做 RL https://t.co/BgkcGb8F74 https://t.co/vDSB2bYYS9",
+      "url": "https://x.com/i/status/2115641806818099445"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115636306562973696",
+          "3_2115636348157927425"
+        ]
+      },
+      "created_at": "2026-10-29T02:46:44.000Z",
+      "edit_history_tweet_ids": [
+        "2115636421637890425"
+      ],
+      "id": "2115636421637890425",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1440,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115489356437651654",
+          "type": "quoted"
+        }
+      ],
+      "text": "谷歌又「预」发布了一个 Gemini 4 最强模型？\n\nGemini 4 Carbon 在 Artificial Analysis Intelligence Index v5.0 第一（得分 59，Claude Opus 5.5 得分 58），在漏洞发现、利用验证、补丁修复等防御向基准上宣称领先；但现在还不能用，先给部分网络安全防御方与可信伙伴（Fairwind https://t.co/N6oiSf2AxS https://t.co/SsatViP8yj",
+      "url": "https://x.com/i/status/2115636421637890425"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115633383367958528"
+        ]
+      },
+      "created_at": "2026-10-29T02:34:55.000Z",
+      "edit_history_tweet_ids": [
+        "2115633448702615604"
+      ],
+      "id": "2115633448702615604",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 1926,
+        "like_count": 20,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115136620446019795",
+          "type": "quoted"
+        }
+      ],
+      "text": "Google Research 最新发布「SLEEP」：给大模型加一段「离线巩固记忆」的周期，减轻灾难性遗忘\n\nSLEEP 想解决的是：模型上线后知识基本冻结，硬调参容易灾难性遗忘，只靠上下文学习又出了窗口就忘。做法是让 LLM https://t.co/HrUg4poLdO https://t.co/udMU9kONMN",
+      "url": "https://x.com/i/status/2115633448702615604"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115627190947889152"
+        ]
+      },
+      "created_at": "2026-10-29T02:10:17.000Z",
+      "edit_history_tweet_ids": [
+        "2115627250515320947"
+      ],
+      "id": "2115627250515320947",
+      "public_metrics": {
+        "bookmark_count": 55,
+        "impression_count": 3656,
+        "like_count": 51,
+        "quote_count": 1,
+        "reply_count": 35,
+        "retweet_count": 6
+      },
+      "text": "DeepLearning AI 新推出一门课程「Context Engineering」\n\n课程把「上下文工程」当成让 Agent 在复杂多步任务里保持可靠、省 token 的主线：不是靠更大窗口或重写一句 prompt，是管好给模型看什么、怎么排、何时检索与记忆。课程用 Python 从零搭 harness，并用 trace 和 eval 量化每次改动！ https://t.co/Ctvfs6bjIM",
+      "url": "https://x.com/i/status/2115627250515320947"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115471677899542528",
+          "3_2115471690176368640",
+          "3_2115471702184599553"
+        ]
+      },
+      "created_at": "2026-10-28T15:52:14.000Z",
+      "edit_history_tweet_ids": [
+        "2115471710967439551"
+      ],
+      "id": "2115471710967439551",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 2363,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "text": "OpenAI 软件工程师面试实录\n\n转自 Reddit r/InterviewCoderHQ，\n一份 2026 年 OpenAI SWE 面试的个人复盘：流程比一般大厂更强调「能落地的系统题 + 带回家作业 + 对着代码逐行追问」，现场还有渐进式多段编码；另有可选的 Agentic Coding（用 AI 编程助手啃太大、手写扛不住的题）。\n\n# 流程概览\n\n1. https://t.co/Djz3nn8Gkr",
+      "url": "https://x.com/i/status/2115471710967439551"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115439109728788480"
+        ]
+      },
+      "created_at": "2026-10-28T13:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "2115439137407009193"
+      ],
+      "id": "2115439137407009193",
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 2196,
+        "like_count": 18,
+        "quote_count": 2,
+        "reply_count": 10,
+        "retweet_count": 1
+      },
+      "text": "Entire：专为「人和 Agent 一起写代码」做的新一代 Git 托管\n\n前 Github CEO 创办的 @GoEntire 不做另一个「像 GitHub 的网站」，是把代码托管、评审、CI 和 Agent 会话记忆，都按「人机协作写代码」重做：用 Trail 代替以 diff 为主的 PR 时间线，用分布式 Git 服务扛 Agent 高频推送，再用 https://t.co/y36HDVs1UV",
+      "url": "https://x.com/i/status/2115439137407009193"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115436476465086464"
+        ]
+      },
+      "created_at": "2026-10-28T13:32:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115436497029730538"
+      ],
+      "id": "2115436497029730538",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1437,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "Apple Creator Studio 大更新：剪辑、图像、音乐、办公一起加上 AI，办公还能被外部 Agent 操作\n\nApple 这次更新大致三个路线：\n1. 把 MotionVFX、Content Hub 里的视频素材、Logic 里更完整的声音浏览等专业内容，收进订阅权益里\n2. 在 Pixelmator、Logic，以及 Keynote、Pages、Numbers https://t.co/AhvFQFrp6V",
+      "url": "https://x.com/i/status/2115436497029730538"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115431284902354944"
+        ]
+      },
+      "created_at": "2026-10-28T13:11:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115431302845628429"
+      ],
+      "id": "2115431302845628429",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 1456,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2101274875218608376",
+          "type": "quoted"
+        }
+      ],
+      "text": "CMU 11-768: AI Agents 课程最新发布了一堂客座讲座\n\n@ZhiruoW 主讲「AI Agents for Human Work」，侧重 future-of-work https://t.co/88FfomaWqn https://t.co/ayzWKFPyah",
+      "url": "https://x.com/i/status/2115431302845628429"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115428643933650944"
+        ]
+      },
+      "created_at": "2026-10-28T13:01:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115428696672866729"
+      ],
+      "id": "2115428696672866729",
+      "public_metrics": {
+        "bookmark_count": 60,
+        "impression_count": 5023,
+        "like_count": 60,
+        "quote_count": 4,
+        "reply_count": 17,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115413492941652299",
+          "type": "quoted"
+        }
+      ],
+      "text": "MiniMax Code @MiniMax_Code 团队把他们每天真正在用的 Agent 工作流和 Skills 开源出来了！\n\nMCode Stack 中包含了团队何时拆子 Agent、长命令等多久等、长会话怎么保证不降级、每轮上下文塞什么 token 等等；把这些都写成可安装的 SKILL.md / 清单，并可作为插件进 MiniMax Code 和任意支持 Skills https://t.co/sDeW8mDzx3 https://t.co/6eaDeK6eWg",
+      "url": "https://x.com/i/status/2115428696672866729"
+    },
+    {
+      "created_at": "2026-10-28T12:27:30.000Z",
+      "edit_history_tweet_ids": [
+        "2115420189244502409"
+      ],
+      "id": "2115420189244502409",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1328,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115046782703153255",
+          "type": "quoted"
+        }
+      ],
+      "text": "好奇这是啥时候兴起的卖号风\n\n以及，为什么互动如此低，曝光却如此高？ https://t.co/Io1giS823X",
+      "url": "https://x.com/i/status/2115420189244502409"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115398309762469888"
+        ]
+      },
+      "created_at": "2026-10-28T11:00:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115398317408768016"
+      ],
+      "id": "2115398317408768016",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2625,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 1
+      },
+      "text": "把猎聘的机器人招聘顾问当 AI 助手用的一天 😅\n\n也没碰到限额，就是回复有点慢，有点笨 https://t.co/1yY5il01Zh",
+      "url": "https://x.com/i/status/2115398317408768016"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115392720445505536"
+        ]
+      },
+      "created_at": "2026-10-28T10:38:23.000Z",
+      "edit_history_tweet_ids": [
+        "2115392731333951528"
+      ],
+      "id": "2115392731333951528",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1188,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115205951649423585",
+          "type": "quoted"
+        }
+      ],
+      "text": "poteto 把自己用来管 X 账号的 Grok Bot tibot 分享成模板了：盯提及与关键词、按日程给短摘要、滤噪音、翻非英文，可选自动拉黑骚扰号。绝不代发帖；本人仍手写所有帖文与长文。\n\n模板安装：\nhttps://t.co/r9qUDxpF7b\n\ntibot 能做什么\n1. 找所有关于你或指定关键词的帖（不必被 @）\n2. https://t.co/oPRyDcrSoT https://t.co/AUbV1Itctx",
+      "url": "https://x.com/i/status/2115392731333951528"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115345037299269632"
+        ]
+      },
+      "created_at": "2026-10-28T07:29:00.000Z",
+      "edit_history_tweet_ids": [
+        "2115345069570212202"
+      ],
+      "id": "2115345069570212202",
+      "public_metrics": {
+        "bookmark_count": 27,
+        "impression_count": 2031,
+        "like_count": 23,
+        "quote_count": 2,
+        "reply_count": 10,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115124503093121121",
+          "type": "quoted"
+        }
+      ],
+      "text": "把设计品味写进 Agent：LangChain 开源 Content Studio 的四个月实践\n\nLangChain 内部 GTM 工程与设计团队用四个月把 Content Studio（Slack 里的 Design Agent）从「丑、像千篇一律 AI 稿」做到可量产：把设计师的判断写进 skills / wiki / 代码门禁，给模型一台能跨轮次改项目的沙箱电脑，再用异步子 https://t.co/XKscVaVisz https://t.co/3JeLFgHa7p",
+      "url": "https://x.com/i/status/2115345069570212202"
+    },
+    {
+      "created_at": "2026-10-28T06:43:24.000Z",
+      "edit_history_tweet_ids": [
+        "2115333594243912075"
+      ],
+      "id": "2115333594243912075",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2725,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114934690440458257",
+          "type": "quoted"
+        }
+      ],
+      "text": "哎啊，这个实在太讽刺了！\n\n美国大厂们到底养了多少靠「Day in life of a ***(公司) ***（职位）」为生的网红博主们！\n\n在 Youtube 随便一搜，Microsoft、Google、Apple https://t.co/e7RC4fIZEn",
+      "url": "https://x.com/i/status/2115333594243912075"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "13_2116062339720196096",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2115999245719515136",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115991595036397568",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115986100137365504",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115975646874914816",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115783183635767297",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115647533397811200",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115644639663570944",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115644681841467392",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115641708029595648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115641725800902656",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115636306562973696",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115636348157927425",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115633383367958528",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115627190947889152",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115471677899542528",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115471690176368640",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115471702184599553",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115439109728788480",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115436476465086464",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115431284902354944",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115428643933650944",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115398309762469888",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115392720445505536",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115345037299269632",
+        "type": "photo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116062951279091969",
+    "next_token": "7140dibdnow9c7btwp0g783y6i9mtu5k25p7munelcsad",
+    "oldest_id": "2115333594243912075",
+    "result_count": 25
+  }
+}

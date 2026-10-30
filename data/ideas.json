@@ -2,59 +2,61 @@
   "_comment": "Written by the agent each day (3 EN post ideas for the operator). Keep facts and numbers traceable to posts on the board. Short hyphen only, no new numbers.",
   "ideas": [
     {
-      "title": "Context compaction is memory design, not a setting",
-      "topic": "Agent memory / RAG",
-      "keywords": [
-        "Memory / RAG",
-        "Claude / Opus",
-        "code / 代码"
-      ],
-      "format": "screencast",
-      "visual_type": "screencast",
-      "hook_en": "Everyone is sharing the right number for auto-compact. I keep thinking about the other question: what survives the summary? In my own agents the bugs never came from too little context. They came from the agent forgetting one decision it made two hours ago. Compaction is a memory policy. Treat it like one: pin the decisions, let the chatter go.",
-      "video_tip": "15s screencast: a long agent session scrolls fast, then collapses into a short summary; highlight two pinned lines labeled 'decisions' while everything else fades out.",
-      "angle": "yin min's Memory/RAG + Milvus background: reframes a Claude Code tip as a memory-architecture point.",
-      "why": "dotey's Claude Code /autocompact tip hit 44.5K views on 10-28; Memory/coding-agent keywords keep showing up on the board.",
-      "evidence_urls": [
-        "https://x.com/dotey/status/2115505947187585302"
-      ]
-    },
-    {
-      "title": "Multi-agent needs ops people, not just prompt people",
+      "title": "Self-assessment is the missing ops check for agents",
       "topic": "Coding agents (Codex, Claude)",
       "keywords": [
-        "AI Agent",
+        "Claude / Opus",
         "Anthropic",
-        "code / 代码"
+        "AI Agent"
       ],
       "format": "talking-head",
       "visual_type": "talking-head",
-      "hook_en": "I run an ops team, and reading the takes on 'thousands of agents working together' made me oddly calm. The hard parts listed there are identity, isolation, observability and a kill switch. That is my day job, just with a new kind of worker. If you came from DevOps and worry AI made you obsolete, I think the opposite is happening.",
-      "video_tip": "20s talking-head: start on a terminal of K8s pods, overlay four words one by one (identity, isolation, observability, kill switch), end on 'same job, new workers'.",
-      "angle": "yin min as DevOps lead building an Ops Agent: first-person reassurance for infra engineers.",
-      "why": "dotey's write-up of Anthropic platform lead Katelyn Lesse on multi-agent engineering problems reached 60.5K views; shao__meng covered the same infra/identity/kill-switch angle.",
+      "hook_en": "Claude now scores its own reply for misuse right after it answers. OpenAI is publishing how they monitor frontier models in production. As someone who still thinks in alerts and runbooks, this feels late and necessary. I do not want a smarter agent first. I want an agent that can say 'this session went weird' before my cluster pays for it.",
+      "video_tip": "20s talking-head: flash Anthropic 'self-assessment' and OpenAI 'monitoring' headlines side by side, then cut to a fake ops dashboard with one red 'session self-flag' chip lighting up.",
+      "angle": "yin min DevOps / Ops Agent lens on Anthropic self-assessment + OpenAI monitoring news — safety as observability, not PR.",
+      "why": "AnthropicAI self-assessment post hit 1.16M views on 10-29; OpenAI monitoring post 692K; dotey's CN summary of Claude self-check ~34.5K.",
       "evidence_urls": [
-        "https://x.com/dotey/status/2115229306490126432",
-        "https://x.com/shao__meng/status/2115252887882539279"
+        "https://x.com/AnthropicAI/status/2115871889549865429",
+        "https://x.com/OpenAI/status/2115896329645723836",
+        "https://x.com/dotey/status/2115923359149998490"
       ]
     },
     {
-      "title": "Leftover worktrees are agent garbage collection",
+      "title": "Never start your agent in Downloads",
       "topic": "Coding agents (Codex, Claude)",
       "keywords": [
-        "AI Agent",
         "Codex",
-        "code / 代码"
+        "Claude / Opus",
+        "AI Agent"
       ],
       "format": "screencast",
       "visual_type": "screencast",
-      "hook_en": "My laptop froze last week with a few Codex and Claude sessions open, and the culprit was not the models. It was everything the agents left behind. Old worktrees, branches, build folders. Agents are great at starting work and terrible at cleaning up. One rule in AGENTS.md fixed more for me than any model upgrade: when you finish, delete what you created.",
-      "video_tip": "15s screencast: `git worktree list` showing a long pile of agent worktrees, then add one cleanup rule to AGENTS.md, rerun the list and show it nearly empty.",
-      "angle": "Builds on yin min's own post about 16GB RAM choking under several Codex/Claude sessions; practical DevOps hygiene for agents.",
-      "why": "dotey's AGENTS.md worktree-cleanup rule hit 35.9K views on 10-28; coding-agent keywords dominated the board.",
+      "hook_en": "I told my Codex and Claude Code friends this morning: do not launch the agent from ~/Downloads. Forever Security found a malicious AGENTS.md sitting there on a real customer machine. Agents trust AGENTS.md by design. Browsers can write into Downloads without a click. That combo is a remote instruction channel into your coding agent. Change the working directory before you type anything.",
+      "video_tip": "15s screencast: open ~/Downloads, highlight a planted AGENTS.md, start Claude Code there vs from a clean repo root, show the trusted-file path as the risk.",
+      "angle": "Expand yin min's own CN security warning into EN; first-principles trust-boundary lesson for coding agents.",
+      "why": "yinmin1987's own 10-30 tip on malicious AGENTS.md in Downloads (674 views so far); coding-agent / Claude / Codex keywords dominated the board.",
       "evidence_urls": [
-        "https://x.com/dotey/status/2115314783503196605",
-        "https://x.com/yinmin1987/status/2115285977484902564"
+        "https://x.com/yinmin1987/status/2115979802096336927"
+      ]
+    },
+    {
+      "title": "Your agents are idle because the job is undefined",
+      "topic": "Agent memory / RAG",
+      "keywords": [
+        "AI Agent",
+        "Grok Bot",
+        "Skills"
+      ],
+      "format": "talking-head",
+      "visual_type": "talking-head",
+      "hook_en": "A post that kept circulating yesterday said the loudest complaint is simple: people set up Grok Bot, Muse, Hermes… then watch them gather dust. I feel that. When I build an Ops Agent the hard part is never wiring the model. It is writing the one sentence: what is this agent allowed to touch, and what does 'done' look like. No use case, no memory design. No memory design, no agent.",
+      "video_tip": "20s talking-head: desk with several agent logos on sticky notes, then flip each note to blank except one labeled 'on-call: restart failed pod + page me' — that one stays.",
+      "angle": "yin min building Ops Agent / Memory-RAG: reframes the 'idle agents' meme as a job-definition + memory problem, not a tooling problem.",
+      "why": "Outsider ZH posts on Agent Use Cases hit ~47.6K and ~22.5K on 10-29; Grok Bot / AI Agent keywords strong; shao__meng's 78-page Tencent AI Agent enterprise handbook ~23.2K.",
+      "evidence_urls": [
+        "https://x.com/sdf302030/status/2115597825929322791",
+        "https://x.com/baozong_facai/status/2115725084145172578",
+        "https://x.com/shao__meng/status/2115785693599523089"
       ]
     }
   ]
