@@ -1,41 +1,62 @@
 {
  "title": "Daily X narrative digest - YYYY-MM-DD",
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "timezone": "America/Anguilla",
- "updated": "2026-10-30T10:41:07-04:00",
+ "updated": "2026-10-31T10:35:17-04:00",
  "virals_title": "Outsiders · Agent / RAG / Memory · last ~48h",
  "brand_title": "X Virality Board",
  "brand_handle": "@yinmin1987",
  "hits": [
   {
-   "name": "Anthropic",
-   "handle": "@AnthropicAI",
-   "views": 1166425,
-   "url": "https://x.com/AnthropicAI/status/2115871889549865429",
-   "hook": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a…",
-   "text": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a preliminary safety assessment of the conversation. \n\nSince we began using self-assessment in June, it has surfaced misuse that our other",
-   "media": "text",
-   "posted_at": "2026-10-29T14:22:24-04:00",
+   "name": "OpenAI",
+   "handle": "@OpenAI",
+   "views": 1872388,
+   "url": "https://x.com/OpenAI/status/2116253388883345623",
+   "hook": "There are many futures. Which do you want to build?",
+   "text": "There are many futures. Which do you want to build?",
+   "media": "video",
+   "posted_at": "2026-10-30T15:38:20-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 45,
-    "verdict": "author",
-    "line": "Large audience (1857K followers) did most of the work",
+    "trend_match": 0,
+    "verdict": "visual",
+    "line": "Video carried it; topic match is weak",
+    "keywords": []
+   },
+   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
+  },
+  {
+   "name": "Anthropic",
+   "handle": "@AnthropicAI",
+   "views": 350577,
+   "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+   "hook": "New Anthropic research: Automating subtle emergent misalignment research.",
+   "text": "New Anthropic research: Automating subtle emergent misalignment research.\n\nRed-teaming is a vital part of model safety testing, but it’s also limited by researchers’ time. To see if we could automate it, we set thousands of Claude agents the task of evading a training data",
+   "media": "image",
+   "posted_at": "2026-10-30T21:59:06-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 87,
+    "verdict": "trend",
+    "line": "Rides a recurring topic: Anthropic, Claude / Opus, AI Agent",
     "keywords": [
-     "Claude / Opus"
+     "Anthropic",
+     "Claude / Opus",
+     "AI Agent",
+     "model / 模型"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
    "name": "OpenAI",
    "handle": "@OpenAI",
-   "views": 692044,
-   "url": "https://x.com/OpenAI/status/2115896329645723836",
-   "hook": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s at…",
-   "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity",
-   "media": "text",
-   "posted_at": "2026-10-29T15:59:31-04:00",
+   "views": 349075,
+   "url": "https://x.com/OpenAI/status/2116186509384815084",
+   "hook": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using o…",
+   "text": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using our most capable models.\n\nWe’re building these protections in close collaboration with some of our largest customers to help businesses apply",
+   "media": "video",
+   "posted_at": "2026-10-30T11:12:35-04:00",
    "highlight": true,
    "why_hit": {
     "trend_match": 62,
@@ -46,45 +67,120 @@
      "model / 模型"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
   },
   {
-   "name": "Anthropic",
-   "handle": "@AnthropicAI",
-   "views": 280804,
-   "url": "https://x.com/AnthropicAI/status/2115825653539025142",
-   "hook": "We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institution…",
-   "text": "We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institutions, and research groups.",
-   "media": "text",
-   "posted_at": "2026-10-29T11:18:40-04:00",
+   "name": "小互",
+   "handle": "@xiaohu",
+   "views": 115972,
+   "url": "https://x.com/xiaohu/status/2116139769352925535",
+   "hook": "这就是现状",
+   "text": "这就是现状\n\n而且只会越来越这样…\n\n人类一败涂地🙂",
+   "media": "video",
+   "posted_at": "2026-10-30T08:06:51-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "visual",
+    "line": "Video carried it; topic match is weak",
+    "keywords": []
+   },
+   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
+  },
+  {
+   "name": "小互",
+   "handle": "@xiaohu",
+   "views": 96884,
+   "url": "https://x.com/xiaohu/status/2116192421071757735",
+   "hook": "崩盘了",
+   "text": "崩盘了\nAI泡沫破裂了😂",
+   "media": "image",
+   "posted_at": "2026-10-30T11:36:04-04:00",
    "highlight": true,
    "why_hit": {
     "trend_match": 0,
     "verdict": "author",
-    "line": "Large audience (1857K followers) did most of the work",
+    "line": "Large audience (126K followers) did most of the work",
     "keywords": []
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
    "name": "宝玉",
    "handle": "@dotey",
-   "views": 157873,
-   "url": "https://x.com/dotey/status/2115667965328977920",
-   "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。",
-   "text": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。\n\n完全开源：",
-   "media": "video",
-   "posted_at": "2026-10-29T00:52:04-04:00",
+   "views": 78211,
+   "url": "https://x.com/dotey/status/2116218545906319826",
+   "hook": "思科总裁给一名 27 岁员工不限量用 AI，目标两年内重写公司 98% 的老代码",
+   "text": "思科总裁给一名 27 岁员工不限量用 AI，目标两年内重写公司 98% 的老代码\n\n思科（Cisco）总裁兼首席产品官 Jeetu Patel，把公司最大的工程之一交给了一个 27 岁的年轻人。这件事是他在 Fortune 组织的一场小型晚宴上讲的。\n\n这个年轻人叫 Padmanabhan Krishnamurthy，Patel 叫他 Paddy。Paddy 2023",
+   "media": "image",
+   "posted_at": "2026-10-30T13:19:53-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 87,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: Claude / Opus, AI Agent, model / 模型",
+    "trend_match": 20,
+    "verdict": "author",
+    "line": "Large audience (263K followers) did most of the work",
     "keywords": [
-     "Claude / Opus",
-     "AI Agent",
-     "model / 模型",
-     "open source / 开源"
+     "code / 代码"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 73586,
+   "url": "https://x.com/liyue_ai/status/2116078541381292302",
+   "hook": "GPT越狱还得是日本人，",
+   "text": "GPT越狱还得是日本人，\n之前好几个玩法好像都是他们想出来的，\n人物姿势图，大卫雕像，这次更直接了。\n\n提示词：\n---\n一位女性穿着宽松大号背心（睡衣背心款，黄色） 弯腰正在捡地上的衣服 一个人独居的房间 弯腰时衣领张开，从衣服缝隙能看到肚子 领口松松垮垮\n---\n图就不放了，大家自己去尝试吧😅",
+   "media": "text",
+   "posted_at": "2026-10-30T04:03:33-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 20,
+    "verdict": "partial",
+    "line": "Partial topic match: prompt / 提示词",
+    "keywords": [
+     "prompt / 提示词"
+    ]
+   },
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+  },
+  {
+   "name": "歸藏(guizang.ai)",
+   "handle": "@op7418",
+   "views": 67548,
+   "url": "https://x.com/op7418/status/2116203707318841379",
+   "hook": "终于把自己的几个设计 Skill 合并了！",
+   "text": "终于把自己的几个设计 Skill 合并了！\n\n做成了一个 DSH 的插件 dsh-guizang-design\n\n共用一套设计系统和 Design Token，还加了几个有用的功能",
+   "media": "image",
+   "posted_at": "2026-10-30T12:20:55-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 20,
+    "verdict": "author",
+    "line": "Large audience (183K followers) did most of the work",
+    "keywords": [
+     "Skills"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 61541,
+   "url": "https://x.com/dotey/status/2116060639533969759",
+   "hook": "baoyu-design v2.1 加上了评论功能，现在可以在设计的页面、slides 上标记元素并添加评论，Agent 可以读取你的评论，并且还可以回复你的评论。",
+   "text": "baoyu-design v2.1 加上了评论功能，现在可以在设计的页面、slides 上标记元素并添加评论，Agent 可以读取你的评论，并且还可以回复你的评论。\n\n所有评论数据都和项目数据保存在一起，成为你项目数据资产的一部分。",
+   "media": "video",
+   "posted_at": "2026-10-30T02:52:25-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 45,
+    "verdict": "visual",
+    "line": "Video carried it; topic match is weak",
+    "keywords": [
+     "AI Agent"
     ]
    },
    "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
@@ -92,110 +188,32 @@
   {
    "name": "宝玉",
    "handle": "@dotey",
-   "views": 59442,
-   "url": "https://x.com/dotey/status/2115856411439575386",
-   "hook": "OpenAI 即日起把 ChatGPT Pro 各档和 Business Premium 的用量上限翻倍，原定明天的 Pro 200 降额取消，价格没提变化",
-   "text": "OpenAI 即日起把 ChatGPT Pro 各档和 Business Premium 的用量上限翻倍，原定明天的 Pro 200 降额取消，价格没提变化\n\nTibo 说，Pro 100、Pro 200、Pro 500 三档和 Business Premium 的所有用量上限翻倍，当天生效。Plus 不在名单里。\n\n【我现在能用多少】\n\n按 OpenAI 此前公布的倍数推算（以 Plus 为",
-   "media": "text",
-   "posted_at": "2026-10-29T13:20:53-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 30,
-    "verdict": "author",
-    "line": "Large audience (263K followers) did most of the work",
-    "keywords": [
-     "OpenAI / GPT"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "宝玉",
-   "handle": "@dotey",
-   "views": 53334,
-   "url": "https://x.com/dotey/status/2115842646031642966",
-   "hook": "我 7 岁的孩子都学会自己在 ChatGPT 做游戏了",
-   "text": "我 7 岁的孩子都学会自己在 ChatGPT 做游戏了\n\n看了下他和 ChatGPT 的聊天记录，开始只是好玩画图，然后想生成视频，后来想能不能做成游戏，游戏做好了就一边玩一边让 ChatGPT 按照自己要求改，乐此不疲。\n\n不太会打字，都靠语音输入。",
-   "media": "image",
-   "posted_at": "2026-10-29T12:26:11-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 20,
-    "verdict": "author",
-    "line": "Large audience (263K followers) did most of the work",
-    "keywords": [
-     "video / 视频"
-    ]
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "Cell 细胞",
-   "handle": "@cellinlab",
-   "views": 44374,
-   "url": "https://x.com/cellinlab/status/2115729520112345423",
-   "hook": "卧槽，现在已经这样了吗。。。",
-   "text": "卧槽，现在已经这样了吗。。。",
-   "media": "text",
-   "posted_at": "2026-10-29T04:56:40-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "小互",
-   "handle": "@xiaohu",
-   "views": 39487,
-   "url": "https://x.com/xiaohu/status/2115700285503136155",
-   "hook": "只要你不在你电脑上使用国产模型",
-   "text": "只要你不在你电脑上使用国产模型\n和国产harness\n\n基本上你就不会被封，实际上和节点什么的有关系，但是不大\n\n你如果混着用，一定会被封",
-   "media": "text",
-   "posted_at": "2026-10-29T03:00:30-04:00",
+   "views": 44510,
+   "url": "https://x.com/dotey/status/2116336030584574076",
+   "hook": "做了一个 DeepSeek Harness 插件，现在 Claude Design 可以运行在 DeepSeek Harness，并且可以方便的标注、评论修改。",
+   "text": "做了一个 DeepSeek Harness 插件，现在 Claude Design 可以运行在 DeepSeek Harness，并且可以方便的标注、评论修改。 \n\nDeepSee Harness 确实越来越优秀了👍 @tianyi \n\n插件地址：",
+   "media": "video",
+   "posted_at": "2026-10-30T21:06:43-04:00",
    "highlight": true,
    "why_hit": {
     "trend_match": 45,
-    "verdict": "author",
-    "line": "Large audience (126K followers) did most of the work",
+    "verdict": "visual",
+    "line": "Video carried it; topic match is weak",
     "keywords": [
-     "model / 模型"
+     "Claude / Opus"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "蓝哥AI",
-   "handle": "@0xlangeai",
-   "views": 34740,
-   "url": "https://x.com/0xlangeai/status/2115764128375881791",
-   "hook": "workbuddy 都支持浏览器操作了,    以后感觉用 codex 的场景更少了",
-   "text": "workbuddy 都支持浏览器操作了,    以后感觉用 codex 的场景更少了 \n\n要是 codex 还不给力点,   准备退订 Pro 套餐了",
-   "media": "image",
-   "posted_at": "2026-10-29T07:14:11-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 30,
-    "verdict": "partial",
-    "line": "Partial topic match: Codex",
-    "keywords": [
-     "Codex"
-    ]
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
   },
   {
    "name": "宝玉",
    "handle": "@dotey",
-   "views": 34527,
-   "url": "https://x.com/dotey/status/2115923359149998490",
-   "hook": "Claude 现在会在每次回答后自查对话安不安全：算力 Anthropic 出、不向用户收费，不额外收集数据，自称单条标记不会直接导致封号",
-   "text": "Claude 现在会在每次回答后自查对话安不安全：算力 Anthropic 出、不向用户收费，不额外收集数据，自称单条标记不会直接导致封号\n\n似乎更多是为了防止蒸馏？\n\nAnthropic 公布了一项叫“自我评估”（self-assessment）的防滥用技术：Claude",
-   "media": "text",
-   "posted_at": "2026-10-29T17:46:55-04:00",
+   "views": 38301,
+   "url": "https://x.com/dotey/status/2116233564823974005",
+   "hook": "Claude 200 美元档改名 Ultra，已验证账号取消 5 小时限额，价格和周额度不变",
+   "text": "Claude 200 美元档改名 Ultra，已验证账号取消 5 小时限额，价格和周额度不变\n\nAnthropic 10 月 30 日宣布给 Claude 的两档 Max 套餐改名：每月 100 美元的 Max 5x 改叫 Max，每月 200 美元的 Max 20x 改叫 Ultra。价格不变，现有订阅自动换成新名字，用户什么都不用做。\n\n同时，Ultra",
+   "media": "image",
+   "posted_at": "2026-10-30T14:19:34-04:00",
    "highlight": true,
    "why_hit": {
     "trend_match": 56,
@@ -206,432 +224,144 @@
      "Claude / Opus"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
-   "name": "铁柱AGI",
-   "handle": "@cgnot996",
-   "views": 26391,
-   "url": "https://x.com/cgnot996/status/2115722202712789476",
-   "hook": "😎 整了个大活儿 ！Grok @bot 终于能被别的 Agent 指挥了。",
-   "text": "😎 整了个大活儿 ！Grok @bot 终于能被别的 Agent 指挥了。\n\n我在 Codex 里说了一句话，它就列出了我账号下的所有 Bot，我可以和每个 Bot 单独沟通派活，回收结果！\n\n现在能做到：\n\n1️⃣ 多个 Grok Bot 账号连成网，Bot 跨账号互相派活，队伍随便扩\n\n2️⃣ 给 Grok Bot 换个大脑：Claude、GPT",
-   "media": "video",
-   "posted_at": "2026-10-29T04:27:36-04:00",
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 28925,
+   "url": "https://x.com/dotey/status/2116026448234332315",
+   "hook": "如果我理解的没错的话，当前 Claude Code 在压缩后继续任务，会按需从历史会话中查找有用的信息加载到上下文。",
+   "text": "如果我理解的没错的话，当前 Claude Code 在压缩后继续任务，会按需从历史会话中查找有用的信息加载到上下文。\n\n这和作者所说的新开一个会话再去从原来的会话加载有用信息不是一回事吗？唯一的差别就是多了一点摘要信息，但这多不了多少 Token。",
+   "media": "text",
+   "posted_at": "2026-10-30T00:36:33-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 86,
+    "trend_match": 56,
     "verdict": "trend",
-    "line": "Rides a recurring topic: Claude / Opus, Codex, Grok Bot",
+    "line": "Rides a recurring topic: Claude / Opus, code / 代码",
     "keywords": [
      "Claude / Opus",
-     "Codex",
-     "Grok Bot",
-     "Grok",
-     "AI Agent"
+     "code / 代码"
     ]
    },
-   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
-  },
-  {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 26213,
-   "url": "https://x.com/vista8/status/2115690083546546607",
-   "hook": "腾讯新出的AI 趣味知识学习社区：懂了鸭",
-   "text": "腾讯新出的AI 趣味知识学习社区：懂了鸭\n\n\n\n目前在内测，关注官方公众号后回复“内测”能拿到邀请码体验。\n\n看起来是用 HTML +生图等能力创作故事、知识解释，比如给孩子生成绘本。\n\n刚朋友问，搜索注册体验了下。",
-   "media": "image",
-   "posted_at": "2026-10-29T02:19:58-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "author",
-    "line": "Large audience (134K followers) did most of the work",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "meng shao",
-   "handle": "@shao__meng",
-   "views": 23215,
-   "url": "https://x.com/shao__meng/status/2115785693599523089",
-   "hook": "腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」",
-   "text": "腾讯、腾讯云和 WorkBuddy 联合发布了一份 78 页的「2026 AI Agent 企业解决方案及落地实践手册」\n\n整份材料用同一条产品叙事串起来：先用 WorkBuddy 把个人助手推成进业务系统的「数字员工」，再用 ClawPro、Agent Runtime、TokenHub",
-   "media": "image",
-   "posted_at": "2026-10-29T08:39:53-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 45,
-    "verdict": "partial",
-    "line": "Partial topic match: AI Agent",
-    "keywords": [
-     "AI Agent"
-    ]
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "蓝哥AI",
-   "handle": "@0xlangeai",
-   "views": 16471,
-   "url": "https://x.com/0xlangeai/status/2115974734957703677",
-   "hook": "全体起立 ❗️❗️❗️   Rea 现在 40.8 万 Star ,   荣登今年新增 Github 最高星项目 ,  超越了  OpenClaw  39.3 万 Star",
-   "text": "全体起立 ❗️❗️❗️   Rea 现在 40.8 万 Star ,   荣登今年新增 Github 最高星项目 ,  超越了  OpenClaw  39.3 万 Star \n \n一个 4 月才上线的项目，10 月直接冲到 40 万+ Stars，成为今年最火的开源项目之一。\n\n单月新增约 40 万 Stars，增长榜断层第一,  全站总 Stars 已进前 5–6\n\n2026",
-   "media": "video",
-   "posted_at": "2026-10-29T21:11:04-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 20,
-    "verdict": "visual",
-    "line": "Video carried it; topic match is weak",
-    "keywords": [
-     "open source / 开源"
-    ]
-   },
-   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
   },
   {
    "name": "歸藏(guizang.ai)",
    "handle": "@op7418",
-   "views": 16009,
-   "url": "https://x.com/op7418/status/2115976609148834301",
-   "hook": "我去！",
-   "text": "我去！\n\nOpenAI 把 Pro 会员的所有使用限额翻倍了！\n\n也就是说他们把之前去掉的那个额度加回来了，这下可以开极高推理爽用了",
-   "media": "text",
-   "posted_at": "2026-10-29T21:18:31-04:00",
+   "views": 22589,
+   "url": "https://x.com/op7418/status/2116119701487337890",
+   "hook": "夸克网盘有 Skill了，这个牛逼啊！",
+   "text": "夸克网盘有 Skill了，这个牛逼啊！\n\n这下所有的 AI 直接能读你夸克网盘里所有的内容了：\n\n你的图片、你的视频，还有你以前的一些信息。\n\n而且会员的话还支持智能搜索和相册整理。\n\n你对话生成的文件还可以让它直接上传网盘，它也能帮你自动去备份一些重要的资料什么的，就是 Agent 都可以做了。",
+   "media": "image",
+   "posted_at": "2026-10-30T06:47:07-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 30,
-    "verdict": "author",
-    "line": "Large audience (183K followers) did most of the work",
+    "trend_match": 69,
+    "verdict": "trend",
+    "line": "Rides a recurring topic: AI Agent, Skills, video / 视频",
     "keywords": [
-     "OpenAI / GPT"
+     "AI Agent",
+     "Skills",
+     "video / 视频"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 15625,
-   "url": "https://x.com/vista8/status/2115955851945193922",
-   "hook": "编程只是眼下的热点之一，不应该完全被它牵着走，编程之外还有更多更大的机会。",
-   "text": "编程只是眼下的热点之一，不应该完全被它牵着走，编程之外还有更多更大的机会。",
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 22536,
+   "url": "https://x.com/dotey/status/2116219659544399897",
+   "hook": "Google 太空 AI 芯片第一次答题：卫星发射一个月后，在轨道上写了一首俳句",
+   "text": "Google 太空 AI 芯片第一次答题：卫星发射一个月后，在轨道上写了一首俳句\n\nGoogle 放在卫星上的 AI 芯片，第一次在太空里完成了一次完整的提问和回答。Google CEO Sundar Pichai 10 月 30 日发推说，团队从地面把指令发到轨道，启动 TPU，跑完提示词，收回了第一份完整回复：一首俳句。\n\n这颗卫星属于",
    "media": "text",
-   "posted_at": "2026-10-29T19:56:02-04:00",
+   "posted_at": "2026-10-30T13:24:18-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 0,
+    "trend_match": 20,
     "verdict": "author",
-    "line": "Large audience (134K followers) did most of the work",
-    "keywords": []
+    "line": "Large audience (263K followers) did most of the work",
+    "keywords": [
+     "prompt / 提示词"
+    ]
    },
    "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
   },
   {
    "name": "宝玉",
    "handle": "@dotey",
-   "views": 15358,
-   "url": "https://x.com/dotey/status/2115968852349567254",
-   "hook": "Claude API 单次请求上限从 32 MB 提到 128 MB，长时间截图任务和大 PDF 不容易再卡住，只限 Anthropic 官方 API",
-   "text": "Claude API 单次请求上限从 32 MB 提到 128 MB，长时间截图任务和大 PDF 不容易再卡住，只限 Anthropic 官方 API\n\nAnthropic 把 Claude API 单次请求能发送的数据量上限，从 32 MB 提高到 128 MB，大约是原来的 4 倍。调整的是 Messages（调用模型的主接口）和 Token Counting（发送前估算 token",
-   "media": "text",
-   "posted_at": "2026-10-29T20:47:41-04:00",
+   "views": 20990,
+   "url": "https://x.com/dotey/status/2116366460939386990",
+   "hook": "疑似造假：有人称偷到 Claude Fable 5 权重在兜售，网友比对发现文件来自 DeepSeek 免费开源的模型",
+   "text": "疑似造假：有人称偷到 Claude Fable 5 权重在兜售，网友比对发现文件来自 DeepSeek 免费开源的模型\n\n网上有人在兜售所谓 Anthropic 旗舰模型 Claude Fable 5 的“权重”。这个说法没有证实，已有网友指出是假的：卖家晒出的文件，和 DeepSeek 免费公开下载的模型文件一个字节都不差。截至北京时间 31",
+   "media": "image",
+   "posted_at": "2026-10-30T23:07:39-04:00",
    "highlight": true,
    "why_hit": {
-    "trend_match": 76,
+    "trend_match": 81,
     "verdict": "trend",
     "line": "Rides a recurring topic: Anthropic, Claude / Opus, model / 模型",
     "keywords": [
      "Anthropic",
      "Claude / Opus",
-     "model / 模型"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "小互",
-   "handle": "@xiaohu",
-   "views": 15023,
-   "url": "https://x.com/xiaohu/status/2115958355655315738",
-   "hook": "OpenAI 被迫不得不取消用量削减计划",
-   "text": "OpenAI 被迫不得不取消用量削减计划\n\n宣布将Codex的限额，在现有基础上进行翻倍😌",
-   "media": "text",
-   "posted_at": "2026-10-29T20:05:59-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 51,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: OpenAI / GPT, Codex",
-    "keywords": [
-     "OpenAI / GPT",
-     "Codex"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "铁柱AGI",
-   "handle": "@cgnot996",
-   "views": 12592,
-   "url": "https://x.com/cgnot996/status/2115815391167652001",
-   "hook": "有没有想要这个功能的？微信聊天记录直接转发给指定的 Bot？",
-   "text": "有没有想要这个功能的？微信聊天记录直接转发给指定的 Bot？",
-   "media": "image",
-   "posted_at": "2026-10-29T10:37:53-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "李岳",
-   "handle": "@liyue_ai",
-   "views": 11936,
-   "url": "https://x.com/liyue_ai/status/2115718062045532341",
-   "hook": "",
-   "text": "",
-   "media": "text",
-   "posted_at": "2026-10-29T04:11:08-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "蓝哥AI",
-   "handle": "@0xlangeai",
-   "views": 11191,
-   "url": "https://x.com/0xlangeai/status/2115701308732915846",
-   "hook": "🚨🚨 重大消息 ! !   ChatGPT Pro 用户是真能领到 API 额度的",
-   "text": "🚨🚨 重大消息 ! !   ChatGPT Pro 用户是真能领到 API 额度的 \n\n这不比 Tibo 的 28 天更新计划更实在嘛 \n\n我的 ChatGPT Pro 20 X 领了 109 刀,   X 友都领了多少 ?",
-   "media": "image",
-   "posted_at": "2026-10-29T03:04:34-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 11009,
-   "url": "https://x.com/vista8/status/2115954352179581161",
-   "hook": "去年朋友们都在 Vibe Coding 各种软件、网页。",
-   "text": "去年朋友们都在 Vibe Coding 各种软件、网页。\n最近大家都开始 Vibe Coding 各种游戏。\n\n去年是 11 月，opus 4.5 发布\n今年是 9 月底，opus 5.5 发布\n\n最早 Cursor 开始火，也是 sonnet 3.5 发布后接入，让 AI coding 从 Tab 补全，变成真正编程智能体。\n\n不看 Anthropic 这家公司和",
-   "media": "text",
-   "posted_at": "2026-10-29T19:50:04-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 83,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: Anthropic, Claude / Opus, AI Agent",
-    "keywords": [
-     "Anthropic",
-     "Claude / Opus",
-     "AI Agent",
-     "code / 代码"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "歸藏(guizang.ai)",
-   "handle": "@op7418",
-   "views": 11000,
-   "url": "https://x.com/op7418/status/2116010660735881602",
-   "hook": "Claude 已经能在 CarPlay 上使用了",
-   "text": "Claude 已经能在 CarPlay 上使用了\n\n而且 CarPlay 上可以直接用语音跟 Claude 交流，这个很方便呀。\n\n什么时候 Codex 支持一下？",
-   "media": "text",
-   "posted_at": "2026-10-29T23:33:49-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 62,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: Claude / Opus, Codex",
-    "keywords": [
-     "Claude / Opus",
-     "Codex"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 10205,
-   "url": "https://x.com/vista8/status/2115956682291610055",
-   "hook": "有网友私信说能不能把 42 章经的所有播客都总结一遍？",
-   "text": "有网友私信说能不能把 42 章经的所有播客都总结一遍？\n\n曲凯的 42 章经是国内最优质的 AI 播客之一。\n\n必须安排，昨天花了几个小时从小宇宙转写获取了全部文字稿，用 DeepSeek V4.1-1017 flash 全总结了一遍。\n\n\n\n不过转写因为音频识别问题，可能有幻觉，推荐听原播客",
-   "media": "image",
-   "posted_at": "2026-10-29T19:59:20-04:00",
-   "highlight": true,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "author",
-    "line": "Large audience (134K followers) did most of the work",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "李岳",
-   "handle": "@liyue_ai",
-   "views": 9888,
-   "url": "https://x.com/liyue_ai/status/2115686256025952356",
-   "hook": "奇怪的知识又增加了😂",
-   "text": "奇怪的知识又增加了😂\nAI生图常见的古风上衣款式",
-   "media": "image",
-   "posted_at": "2026-10-29T02:04:45-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "蓝哥AI",
-   "handle": "@0xlangeai",
-   "views": 9298,
-   "url": "https://x.com/0xlangeai/status/2115937975708324287",
-   "hook": "Muse 10.0 来了 ,  收到更新提示了",
-   "text": "Muse 10.0 来了 ,  收到更新提示了 \n\n重要的是依然不知道 Muse 这次 10.0 更新是更新的个什么 \n\n十分不喜欢 Muse , 这种每次版本升级都不告知升级什么的产品",
-   "media": "image",
-   "posted_at": "2026-10-29T18:45:00-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "蓝哥AI",
-   "handle": "@0xlangeai",
-   "views": 9035,
-   "url": "https://x.com/0xlangeai/status/2115668219583492515",
-   "hook": "卧槽 ! ! !  Muse 的  Alexandr",
-   "text": "卧槽 ! ! !  Muse 的  Alexandr\n Wang  也来加入 Tibo 、Lauren 的战局,  这个梗我又看懂了",
-   "media": "text",
-   "posted_at": "2026-10-29T00:53:05-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "other",
-    "line": "No tracked keyword; check the post for a novelty angle",
-    "keywords": []
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "歸藏(guizang.ai)",
-   "handle": "@op7418",
-   "views": 8916,
-   "url": "https://x.com/op7418/status/2115977382092046406",
-   "hook": "现在这个安全形势真是严峻啊，币安都被黑了，总共损失超过了 56 亿美元",
-   "text": "现在这个安全形势真是严峻啊，币安都被黑了，总共损失超过了 56 亿美元",
-   "media": "text",
-   "posted_at": "2026-10-29T21:21:35-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "author",
-    "line": "Large audience (183K followers) did most of the work",
-    "keywords": []
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "小互",
-   "handle": "@xiaohu",
-   "views": 7818,
-   "url": "https://x.com/xiaohu/status/2115664042249564385",
-   "hook": "🎆",
-   "text": "🎆  \n\n全新改版基本完成\n还有几个功能在打磨\n\n新版基本上是面向Agent打造的，对人是免费的，但是对Agent是收费的...\n\n在这，你将能获得最全最新最精华的AI内容",
-   "media": "text",
-   "posted_at": "2026-10-29T00:36:29-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 45,
-    "verdict": "author",
-    "line": "Large audience (126K followers) did most of the work",
-    "keywords": [
-     "AI Agent"
-    ]
-   },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
-  },
-  {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 7257,
-   "url": "https://x.com/vista8/status/2115959252275876147",
-   "hook": "评论区看到好多网友 Vibe Coding 的有趣作品。",
-   "text": "评论区看到好多网友 Vibe Coding 的有趣作品。\n\n交给 Grok Bot 读取评论，自动整理，开发成一个网站。\n\n不知道能不能搞定，出门路亚钓鱼回来看结果。",
-   "media": "image",
-   "posted_at": "2026-10-29T20:09:33-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 55,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: Grok Bot, Grok, code / 代码",
-    "keywords": [
-     "Grok Bot",
-     "Grok",
-     "code / 代码"
-    ]
-   },
-   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
-  },
-  {
-   "name": "meng shao",
-   "handle": "@shao__meng",
-   "views": 7024,
-   "url": "https://x.com/shao__meng/status/2115975663148765204",
-   "hook": "阿里云开源《AI Agent Handbook》：用 Harness 把企业 Agent 从试点推到可治理生产",
-   "text": "阿里云开源《AI Agent Handbook》：用 Harness 把企业 Agent 从试点推到可治理生产\n\n企业级 Agent 全生命周期实践手册：架构、构建、运行、治理、调优，外加调研与案例，开源地址：\n\n\n手册为何重写？",
-   "media": "image",
-   "posted_at": "2026-10-29T21:14:45-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 56,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: AI Agent, open source / 开源",
-    "keywords": [
-     "AI Agent",
+     "model / 模型",
      "open source / 开源"
     ]
    },
    "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
+   "name": "歸藏(guizang.ai)",
+   "handle": "@op7418",
+   "views": 16468,
+   "url": "https://x.com/op7418/status/2116357353566302376",
+   "hook": "这次给 Deepseek Harness 做的这个新插件 dsh-guizang-design，旧的 PPT Skill 也进行了很多优化。",
+   "text": "这次给 Deepseek Harness 做的这个新插件 dsh-guizang-design，旧的 PPT Skill 也进行了很多优化。\n\n如果你已经安装过其中的几个 Skill 的话，建议更新一下\n\n这个插件内置的几个 Skill，比如 PPT Skill、社交媒体卡片 Skill 都获得了更新。\n\n比如 PPT Skill 那个杂志风格的 WebGL",
+   "media": "image",
+   "posted_at": "2026-10-30T22:31:27-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 20,
+    "verdict": "author",
+    "line": "Large audience (183K followers) did most of the work",
+    "keywords": [
+     "Skills"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
    "name": "小互",
    "handle": "@xiaohu",
-   "views": 7016,
-   "url": "https://x.com/xiaohu/status/2115666784909246660",
-   "hook": "小互AI日报 新闻联播",
-   "text": "小互AI日报 新闻联播\n\n开始接广告了\n\n感谢本期节目赞助商LibTV😂",
+   "views": 16365,
+   "url": "https://x.com/xiaohu/status/2116087291139785040",
+   "hook": "Claude 称手机客户端支持多账号登陆和切换",
+   "text": "Claude 称手机客户端支持多账号登陆和切换\n\n所以\n\n开多账号是不是不被干了🙃",
+   "media": "text",
+   "posted_at": "2026-10-30T04:38:19-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 45,
+    "verdict": "author",
+    "line": "Large audience (126K followers) did most of the work",
+    "keywords": [
+     "Claude / Opus"
+    ]
+   },
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 16193,
+   "url": "https://x.com/liyue_ai/status/2116179133009170833",
+   "hook": "Potter remembered what mattered to her.",
+   "text": "Potter remembered what mattered to her. \nMalfoy let him into the part of her world she kept hidden. \nAnd they still think this is just about magic. #Malfoy",
    "media": "video",
-   "posted_at": "2026-10-29T00:47:23-04:00",
-   "highlight": false,
+   "posted_at": "2026-10-30T10:43:16-04:00",
+   "highlight": true,
    "why_hit": {
     "trend_match": 0,
     "verdict": "visual",
@@ -641,59 +371,41 @@
    "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
   },
   {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 6739,
-   "url": "https://x.com/vista8/status/2116001563420586192",
-   "hook": "把大家 Vibe Coding 产品做成了一个网站，录屏分享下Grok bot 的开发过程。",
-   "text": "把大家 Vibe Coding 产品做成了一个网站，录屏分享下Grok bot 的开发过程。",
-   "media": "video",
-   "posted_at": "2026-10-29T22:57:40-04:00",
-   "highlight": false,
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 15493,
+   "url": "https://x.com/dotey/status/2116180142036828484",
+   "hook": "把它当成本地可以作为 skill 运行的 Claude design 就好",
+   "text": "把它当成本地可以作为 skill 运行的 Claude design 就好\n\n主要是为了避免下架所以我改名了下，因为之前很多 claude code 命名的项目都被下架了，包括 Clawdbot 都要改名 openclaw。",
+   "media": "text",
+   "posted_at": "2026-10-30T10:47:17-04:00",
+   "highlight": true,
    "why_hit": {
-    "trend_match": 55,
+    "trend_match": 65,
     "verdict": "trend",
-    "line": "Rides a recurring topic: Grok Bot, Grok, code / 代码",
+    "line": "Rides a recurring topic: Claude / Opus, Skills, code / 代码",
     "keywords": [
-     "Grok Bot",
-     "Grok",
+     "Claude / Opus",
+     "Skills",
      "code / 代码"
     ]
-   },
-   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
-  },
-  {
-   "name": "小互",
-   "handle": "@xiaohu",
-   "views": 6606,
-   "url": "https://x.com/xiaohu/status/2115957602215715163",
-   "hook": "Binance 遭到黑客攻击",
-   "text": "Binance 遭到黑客攻击\n\n包括以太坊、比特币和 TRON 网络上的价值57 亿美元的钱包被盗\n\nAI开始发力了？",
-   "media": "text",
-   "posted_at": "2026-10-29T20:02:59-04:00",
-   "highlight": false,
-   "why_hit": {
-    "trend_match": 0,
-    "verdict": "author",
-    "line": "Large audience (126K followers) did most of the work",
-    "keywords": []
    },
    "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
   },
   {
-   "name": "歸藏(guizang.ai)",
-   "handle": "@op7418",
-   "views": 6454,
-   "url": "https://x.com/op7418/status/2116005477805154537",
-   "hook": "Grok  bot 也适配了 iPhone duo 了",
-   "text": "Grok  bot 也适配了 iPhone duo 了",
+   "name": "铁柱AGI",
+   "handle": "@cgnot996",
+   "views": 13424,
+   "url": "https://x.com/cgnot996/status/2116043968605774138",
+   "hook": "👀 洗洗眼睛！Grok @bot 的 Pages 功能是真的好用啊，天天看 Markdown 真的看腻了。Pages 有数据有图表，有样式，点开卡片就能看，太方便了！",
+   "text": "👀 洗洗眼睛！Grok @bot 的 Pages 功能是真的好用啊，天天看 Markdown 真的看腻了。Pages 有数据有图表，有样式，点开卡片就能看，太方便了！\n\n让学习站 Bot 每天给我刷新访问量、SEO 情况的 Pages ，点开就能看到数据和趋势，真的有种一切尽在掌握的感觉！\n\n这个案例也收录到 Grok Bot",
    "media": "image",
-   "posted_at": "2026-10-29T23:13:14-04:00",
-   "highlight": false,
+   "posted_at": "2026-10-30T01:46:10-04:00",
+   "highlight": true,
    "why_hit": {
     "trend_match": 20,
-    "verdict": "author",
-    "line": "Large audience (183K followers) did most of the work",
+    "verdict": "partial",
+    "line": "Partial topic match: Grok",
     "keywords": [
      "Grok"
     ]
@@ -701,14 +413,265 @@
    "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
-   "name": "Cell 细胞",
-   "handle": "@cellinlab",
-   "views": 5974,
-   "url": "https://x.com/cellinlab/status/2115990700185792630",
-   "hook": "卧槽！又月底了，又是让人最头疼的整理发票的时候：",
-   "text": "卧槽！又月底了，又是让人最头疼的整理发票的时候：\n\n乱七八糟的票散在不同邮箱里，要一个个找，\n有的邮件带附件，有的只有下载链接；\n同一张票可能收到两封通知，还得自己判断是不是重复，\n找到之后，还要再把信息填进表格给财务。\n\n昨天看到我从大学一直在用的网易邮箱大师出了 Mail Agent，拿自己的",
+   "name": "歸藏(guizang.ai)",
+   "handle": "@op7418",
+   "views": 10684,
+   "url": "https://x.com/op7418/status/2116351174253359293",
+   "hook": "Claude 200 美元的订阅计划移除了 5 小时的限制",
+   "text": "Claude 200 美元的订阅计划移除了 5 小时的限制\n\n200 美元的计划现在叫 Ultra 会员\n\n不过跟我们关系不大。移除 5 小时的限制，也需要他们自动进行验证，通过了才会移除。估计是为了防止蒸馏之类的东西",
+   "media": "text",
+   "posted_at": "2026-10-30T22:06:54-04:00",
+   "highlight": true,
+   "why_hit": {
+    "trend_match": 45,
+    "verdict": "author",
+    "line": "Large audience (183K followers) did most of the work",
+    "keywords": [
+     "Claude / Opus"
+    ]
+   },
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+  },
+  {
+   "name": "歸藏(guizang.ai)",
+   "handle": "@op7418",
+   "views": 9385,
+   "url": "https://x.com/op7418/status/2116348058254647552",
+   "hook": "苹果 AI 功能终于要在国内上线了！",
+   "text": "苹果 AI 功能终于要在国内上线了！\n\n不过 Siri 这部分应该是之前的版本，不是最新的，是 24 年那个版本。\n\n里面也写了是千问驱动。\n\n然后会在 iOS 27.3 更新，应该是 12 月。\n\n最主要的不是 Siri，Siri 倒无所谓，是一些比如说关于实时翻译呀之类的其他设备的 AI 功能挺有用的。",
    "media": "image",
-   "posted_at": "2026-10-29T22:14:30-04:00",
+   "posted_at": "2026-10-30T21:54:31-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "author",
+    "line": "Large audience (183K followers) did most of the work",
+    "keywords": []
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 8923,
+   "url": "https://x.com/dotey/status/2116258713187312073",
+   "hook": "一个小技巧，很多公司的网页在线客服，默认都是那种 Q&amp;A 的问答，就是默认一些选项让你选择，实际上得不到有效的回复，因为背后不是真人，这时候你可以试试输入“live agent”，那么会帮你转接真人客服。",
+   "text": "一个小技巧，很多公司的网页在线客服，默认都是那种 Q&amp;A 的问答，就是默认一些选项让你选择，实际上得不到有效的回复，因为背后不是真人，这时候你可以试试输入“live agent”，那么会帮你转接真人客服。",
+   "media": "image",
+   "posted_at": "2026-10-30T15:59:30-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 45,
+    "verdict": "author",
+    "line": "Large audience (263K followers) did most of the work",
+    "keywords": [
+     "AI Agent"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "向阳乔木",
+   "handle": "@vista8",
+   "views": 8630,
+   "url": "https://x.com/vista8/status/2116067950956527999",
+   "hook": "明天有空试试，像黑科技！",
+   "text": "明天有空试试，像黑科技！",
+   "media": "text",
+   "posted_at": "2026-10-30T03:21:28-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "author",
+    "line": "Large audience (134K followers) did most of the work",
+    "keywords": []
+   },
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+  },
+  {
+   "name": "向阳乔木",
+   "handle": "@vista8",
+   "views": 8558,
+   "url": "https://x.com/vista8/status/2116200606394384451",
+   "hook": "微信视频号也可以轻松用 AI 总结分析！",
+   "text": "微信视频号也可以轻松用 AI 总结分析！\n\n复制视频号链接到 Chrome 浏览器，乔木剪藏插件打开。\n\nQwen 0.6b 本地模型转写，就能用 AI 对话了。\n\n插件下载安装地址：",
+   "media": "image",
+   "posted_at": "2026-10-30T12:08:36-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 62,
+    "verdict": "trend",
+    "line": "Rides a recurring topic: model / 模型, video / 视频",
+    "keywords": [
+     "model / 模型",
+     "video / 视频"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "meng shao",
+   "handle": "@shao__meng",
+   "views": 8096,
+   "url": "https://x.com/shao__meng/status/2116062951279091969",
+   "hook": "给孩子的键盘打字游戏更新了一版，加入了打句子的模块",
+   "text": "给孩子的键盘打字游戏更新了一版，加入了打句子的模块\n\n需求来源是：孩子每次打字，首字母大写、单词间空格、结束后句号，这些他手写时都能注意，但打字时就很容易记不住。因为这个没少被妈妈说。\n\n能用 AI 用软件训练解决的问题，咱就别让妈妈一直说了，浪费时间还大家都不高兴 😄",
+   "media": "video",
+   "posted_at": "2026-10-30T03:01:36-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "visual",
+    "line": "Video carried it; topic match is weak",
+    "keywords": []
+   },
+   "video_tip": "Video hit: study the first 2 seconds and the caption style before you remake it."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 7590,
+   "url": "https://x.com/liyue_ai/status/2116034489000526271",
+   "hook": "鱼哥又发现了GPT Image新的玩法：白膜😂",
+   "text": "鱼哥又发现了GPT Image新的玩法：白膜😂\n\n这和之前的大卫艺术雕像有的一拼，都是艺术。\n\n提示词：\n生成一张专业3D女性白模人物展示图，画面只有1个成年女性模型，竖版构图，全身完整入镜。",
+   "media": "image",
+   "posted_at": "2026-10-30T01:08:30-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 56,
+    "verdict": "trend",
+    "line": "Rides a recurring topic: model / 模型, prompt / 提示词",
+    "keywords": [
+     "model / 模型",
+     "prompt / 提示词"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 7547,
+   "url": "https://x.com/liyue_ai/status/2116086009842876864",
+   "hook": "私域还是得做啊😄",
+   "text": "私域还是得做啊😄\n今天突然收到微信提醒：\n个人收款码居然已经17w了。\n虽然都是些小钱，但积累起来还是一笔可观的收入。",
+   "media": "image",
+   "posted_at": "2026-10-30T04:33:14-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "other",
+    "line": "No tracked keyword; check the post for a novelty angle",
+    "keywords": []
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "宝玉",
+   "handle": "@dotey",
+   "views": 7288,
+   "url": "https://x.com/dotey/status/2116334522748809566",
+   "hook": "Max 20x 一直是 pro x10 倍用量，所谓的 20x 是每 5 小时限额是 pro 的 x20 倍。",
+   "text": "Max 20x 一直是 pro x10 倍用量，所谓的 20x 是每 5 小时限额是 pro 的 x20 倍。",
+   "media": "text",
+   "posted_at": "2026-10-30T21:00:44-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "author",
+    "line": "Large audience (263K followers) did most of the work",
+    "keywords": []
+   },
+   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 7249,
+   "url": "https://x.com/liyue_ai/status/2116367431623123217",
+   "hook": "TMD，小红书这帮cs，能不能别搬运啊！！！",
+   "text": "TMD，小红书这帮cs，能不能别搬运啊！！！\n\n我就晚了1个小时同步，就失去了原创声明。",
+   "media": "image",
+   "posted_at": "2026-10-30T23:11:30-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 0,
+    "verdict": "other",
+    "line": "No tracked keyword; check the post for a novelty angle",
+    "keywords": []
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "铁柱AGI",
+   "handle": "@cgnot996",
+   "views": 6244,
+   "url": "https://x.com/cgnot996/status/2116149130091528521",
+   "hook": "🤔 都用错了！我发现之前很多 Grok @bot 的用法是错的，很多能力建议做成全局可被调用的 skills 而不是单独创建一个 Bot",
+   "text": "🤔 都用错了！我发现之前很多 Grok @bot 的用法是错的，很多能力建议做成全局可被调用的 skills 而不是单独创建一个 Bot\n\n因为这样是有点脱裤子放屁的，A2A 有信息传递的损耗以及增加了 Bot 的额度消耗\n\n比如一个 Muse2API 的服务，不需要通过一个 Bot 去调用，而是配置完之后让其他 Bot",
+   "media": "image",
+   "posted_at": "2026-10-30T08:44:03-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 36,
+    "verdict": "partial",
+    "line": "Partial topic match: Grok, Skills",
+    "keywords": [
+     "Grok",
+     "Skills"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "向阳乔木",
+   "handle": "@vista8",
+   "views": 6101,
+   "url": "https://x.com/vista8/status/2116194243077423283",
+   "hook": "AI 变强后，安全问题好像越来越严重了，有点可怕啊。",
+   "text": "AI 变强后，安全问题好像越来越严重了，有点可怕啊。\n\n像马斯克说：每天都是0day！\n\nAI Breakfast 一篇文章写到，一个研究者分析了 725 万个 Gitee 仓库。\n\n平均每 275 个仓库就能找到一个云资源或大模型的 API key。\n\n币安黑客攻击时间在 X 上也沸沸扬扬。\n\nGitHub 提到9 月的 pull request 里，超",
+   "media": "image",
+   "posted_at": "2026-10-30T11:43:19-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 45,
+    "verdict": "author",
+    "line": "Large audience (134K followers) did most of the work",
+    "keywords": [
+     "model / 模型"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "向阳乔木",
+   "handle": "@vista8",
+   "views": 6000,
+   "url": "https://x.com/vista8/status/2116213992410820758",
+   "hook": "DeepSeek Harness 版本更新太快了。",
+   "text": "DeepSeek Harness 版本更新太快了。\n\n让 Codex 写一个定时任务，检查版本更新后自动升级插件，哈哈哈。",
+   "media": "image",
+   "posted_at": "2026-10-30T13:01:47-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 30,
+    "verdict": "author",
+    "line": "Large audience (134K followers) did most of the work",
+    "keywords": [
+     "Codex"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "meng shao",
+   "handle": "@shao__meng",
+   "views": 5715,
+   "url": "https://x.com/shao__meng/status/2116330695270277159",
+   "hook": "周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手册」",
+   "text": "周末开始完整学习「2026 AI Agent 企业解决方案及落地实践手册」\n\n这份腾讯、腾讯云和 WorkBuddy 联合发布的 78 页手册，今天先从第一章「AI 整体解决方案」开始！\n\n第一章把腾讯云 Agent 叙事收成一条链：WorkBuddy 当办公入口与数字员工 → ClawPro 做开通与统一管控 → Agent Runtime",
+   "media": "image",
+   "posted_at": "2026-10-30T20:45:31-04:00",
    "highlight": false,
    "why_hit": {
     "trend_match": 45,
@@ -723,12 +686,52 @@
   {
    "name": "李岳",
    "handle": "@liyue_ai",
-   "views": 5546,
-   "url": "https://x.com/liyue_ai/status/2115720687361077350",
-   "hook": "再一次看到了X的下限：挂收款码😅",
-   "text": "再一次看到了X的下限：挂收款码😅",
-   "media": "text",
-   "posted_at": "2026-10-29T04:21:34-04:00",
+   "views": 5534,
+   "url": "https://x.com/liyue_ai/status/2116161404923220295",
+   "hook": "GPT Image 2.5生成写实生活照。",
+   "text": "GPT Image 2.5生成写实生活照。\n\n提示词（欢迎返图）:\n风格方向： 雨天午后慢生活情绪\n场景方向： 公寓客厅飘窗旁 / 浅木拼图桌 / 窗外细雨 / 柔软地毯\n服装方向： 淡薰衣草紫修身方领短袖针织上衣 + 奶白色柔软高腰家居短裙\n气质标签： 慵懒、安静、温柔、专注、若有所思\n五官方向：",
+   "media": "image",
+   "posted_at": "2026-10-30T09:32:49-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 20,
+    "verdict": "partial",
+    "line": "Partial topic match: prompt / 提示词",
+    "keywords": [
+     "prompt / 提示词"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "向阳乔木",
+   "handle": "@vista8",
+   "views": 5497,
+   "url": "https://x.com/vista8/status/2116199091441168583",
+   "hook": "科学做海外 GEO 必须有数据支撑！",
+   "text": "科学做海外 GEO 必须有数据支撑！\n\n合作伙伴提供了ChatGPT、Gemini 等海外主流 AI 工具 6到 9 月的一千多万抓取数据。\n\n姚老师借 AI做了深度分析，有很多有趣的发现。\n\n明晚 8 点， 姚金刚 @yaojingang 和我会在 WaytoAGI 视频号直播分享。",
+   "media": "image",
+   "posted_at": "2026-10-30T12:02:35-04:00",
+   "highlight": false,
+   "why_hit": {
+    "trend_match": 30,
+    "verdict": "author",
+    "line": "Large audience (134K followers) did most of the work",
+    "keywords": [
+     "video / 视频"
+    ]
+   },
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
+  },
+  {
+   "name": "李岳",
+   "handle": "@liyue_ai",
+   "views": 5137,
+   "url": "https://x.com/liyue_ai/status/2116356845531177168",
+   "hook": "好久没遇到这种明目张胆的抄袭行为了。",
+   "text": "好久没遇到这种明目张胆的抄袭行为了。\n\n你要说不知道这图是从哪里来的，估计连你自己都不信。\n\nX上搞抄袭是很可耻的行为，哪怕你二创了一下也就算了。\n\n中推圈其实不大，这么直接同平台搬运的，还是会有人看到的，别耍小聪明。",
+   "media": "image",
+   "posted_at": "2026-10-30T22:29:26-04:00",
    "highlight": false,
    "why_hit": {
     "trend_match": 0,
@@ -736,124 +739,92 @@
     "line": "No tracked keyword; check the post for a novelty angle",
     "keywords": []
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   },
   {
-   "name": "向阳乔木",
-   "handle": "@vista8",
-   "views": 5007,
-   "url": "https://x.com/vista8/status/2115817111948054557",
-   "hook": "苍何是我好朋友，公众号订阅人数众多。",
-   "text": "苍何是我好朋友，公众号订阅人数众多。\n\n不仅开源了很多产品和工具，而且对文字和内容非常有追求。\n\n加上程序员出身，他来写如何用好 Codex 相关的书 ，非常合适。\n\n推荐下单购买，我的在路上。",
-   "media": "text",
-   "posted_at": "2026-10-29T10:44:44-04:00",
+   "name": "meng shao",
+   "handle": "@shao__meng",
+   "views": 5029,
+   "url": "https://x.com/shao__meng/status/2116335089546035522",
+   "hook": "9集、230分钟 @jbhuang0604 系列视频「AI Training and Inference」把基座模型训练和推理基础讲清楚了，覆盖整个训推架构：单卡显存 → 千卡并行 → 便宜微调 → 推理加速 → 小模型蒸馏 → 推理 RL → 优化器（AdamW→Muon）",
+   "text": "9集、230分钟 @jbhuang0604 系列视频「AI Training and Inference」把基座模型训练和推理基础讲清楚了，覆盖整个训推架构：单卡显存 → 千卡并行 → 便宜微调 → 推理加速 → 小模型蒸馏 → 推理 RL → 优化器（AdamW→Muon） \n\n这个训推系列的串联逻辑\n先解决「模型塞不进一张",
+   "media": "image",
+   "posted_at": "2026-10-30T21:02:59-04:00",
    "highlight": false,
    "why_hit": {
-    "trend_match": 55,
+    "trend_match": 62,
     "verdict": "trend",
-    "line": "Rides a recurring topic: Codex, open source / 开源, subscription / 订阅",
+    "line": "Rides a recurring topic: model / 模型, video / 视频",
     "keywords": [
-     "Codex",
-     "open source / 开源",
-     "subscription / 订阅"
+     "model / 模型",
+     "video / 视频"
     ]
    },
-   "video_tip": "Text-only hit: the first line does the work; open your video with that line as the hook."
+   "video_tip": "Image hit: one strong screenshot or photo carried it; try a clean cover frame for your own clip."
   }
  ],
  "virals": [
   {
-   "name": "斯蒂芬的A9之路",
-   "handle": "@sdf302030",
-   "views": 47653,
-   "url": "https://x.com/sdf302030/status/2115597825929322791",
-   "hook": "我听到最多的抱怨就是：大家根本不知道拿 AI 智能体干什么。",
-   "text": "我听到最多的抱怨就是：大家根本不知道拿 AI 智能体干什么。\n\nGrok Bot、Muse、Hark、Dots、Hermes 配好了，然后就放那儿吃灰。\n\n推荐一个免费项目：Agent Use Cases。\n\n\n\n这是个网站，每天扫全网，专门挖「别人用 AI",
+   "name": "Manthan Gupta",
+   "handle": "@manthanguptaa",
+   "views": 7663,
+   "url": "https://x.com/manthanguptaa/status/2116030102563873160",
+   "hook": "None of the 11 agent memory systems in a new paper beat plain RAG over the raw chat history on LongMemEval-s.",
+   "text": "None of the 11 agent memory systems in a new paper beat plain RAG over the raw chat history on LongMemEval-s.\n\nThe paper is Memory Tax (arXiv 2610.34073). The baseline is basically the boring thing: chunk the raw history, hybrid search, a reranker, and let the model ask one",
    "media": "text",
-   "posted_at": "2026-10-29T00:13:22.000Z",
-   "followers": 13227,
+   "posted_at": "2026-10-30T04:51:05.000Z",
+   "followers": 23364,
    "why_hit": {
-    "trend_match": 65,
+    "trend_match": 70,
     "verdict": "trend",
-    "line": "Rides a recurring topic: Grok Bot, Grok, AI Agent",
+    "line": "Rides a recurring topic: AI Agent, model / 模型",
     "keywords": [
-     "Grok Bot",
-     "Grok",
-     "AI Agent"
-    ]
-   }
-  },
-  {
-   "name": "时光.....",
-   "handle": "@nn_nici",
-   "views": 40638,
-   "url": "https://x.com/nn_nici/status/2115614785236832701",
-   "hook": "兄弟落难了，这是霸凌还是干去缅甸了",
-   "text": "兄弟落难了，这是霸凌还是干去缅甸了\n\nTermiX（@termix_ai）路线图速览 🧵👇\n\nTermiX 正在打造智能体经济的清算与结算层，核心协议 AACP（Agent Autonomous Commerce Protocol）已落地推进 🚀\n\n📌 已上线进展\n• 2026年7月在 BNB Chain 主网上线  市场\n• 扩展至",
-   "media": "video",
-   "posted_at": "2026-10-29T01:20:45.000Z",
-   "followers": 19661,
-   "why_hit": {
-    "trend_match": 45,
-    "verdict": "visual",
-    "line": "Video carried it; topic match is weak",
-    "keywords": [
-     "AI Agent"
-    ]
-   }
-  },
-  {
-   "name": "宝总的财富指南",
-   "handle": "@baozong_facai",
-   "views": 22461,
-   "url": "https://x.com/baozong_facai/status/2115725084145172578",
-   "hook": "我听到最多的抱怨就是，大家根本不知道拿 AI 智能体干什么。",
-   "text": "我听到最多的抱怨就是，大家根本不知道拿 AI 智能体干什么。\n\n他们配置好 Grok Bot、Muse、Hark、Dots、Hermes，然后就放那儿吃灰。\n\n推荐一个免费项目：Agent Use Cases。\n\n这是一个网站，每天扫描整个互联网，找出人们用 AI 智能体做的各种实际案例。\n\n它搜索网上几乎所有网站，看人们用 AI",
-   "media": "image",
-   "posted_at": "2026-10-29T08:39:02.000Z",
-   "followers": 95299,
-   "why_hit": {
-    "trend_match": 65,
-    "verdict": "trend",
-    "line": "Rides a recurring topic: Grok Bot, Grok, AI Agent",
-    "keywords": [
-     "Grok Bot",
-     "Grok",
-     "AI Agent"
+     "AI Agent",
+     "model / 模型"
     ]
    }
   }
  ],
  "outsiders": [],
  "patterns": [
-  "Claude / Opus ×20",
-  "model / 模型 ×12",
-  "AI Agent ×11",
-  "code / 代码 ×11",
-  "OpenAI / GPT ×8",
-  "Codex ×7",
-  "open source / 开源 ×8",
-  "Grok ×7",
-  "subscription / 订阅 ×5",
-  "Anthropic ×5"
+  "Claude / Opus ×15",
+  "AI Agent ×12",
+  "model / 模型 ×11",
+  "Codex ×6",
+  "OpenAI / GPT ×5",
+  "video / 视频 ×6",
+  "open source / 开源 ×5",
+  "Anthropic ×6",
+  "prompt / 提示词 ×6",
+  "Grok ×6"
  ],
  "no_hits": [
   {
    "handle": "@lijigang",
    "name": "李继刚",
    "best_views": 0
+  },
+  {
+   "handle": "@0xlangeai",
+   "name": "蓝哥AI",
+   "best_views": 4587
+  },
+  {
+   "handle": "@cellinlab",
+   "name": "Cell 细胞",
+   "best_views": 2693
   }
  ],
  "virals_narrative": "Short outsider synthesis goes here.",
  "narrative_synthesis": "Short outsider synthesis goes here.",
  "virals_window": "last ~48h",
- "virals_target": 3,
+ "virals_target": 1,
  "hits_count": 0,
  "outsiders_count": 0,
  "previous_day": {
-  "date": "2026-10-28",
-  "hits_count": 53,
-  "total_views": 1792774,
+  "date": "2026-10-29",
+  "hits_count": 42,
+  "total_views": 4012790,
   "x_score": 100
  },
  "leaderboards": {
@@ -863,87 +834,88 @@
    "2026-10-26",
    "2026-10-27",
    "2026-10-28",
-   "2026-10-29"
+   "2026-10-29",
+   "2026-10-30"
   ],
   "week": [
    {
     "handle": "@AnthropicAI",
     "name": "Anthropic",
-    "hits": 5,
-    "days": 3,
-    "views": 12808526,
+    "hits": 6,
+    "days": 4,
+    "views": 13986709,
     "best": 8813050,
     "best_url": "https://x.com/AnthropicAI/status/2114705042817110293"
    },
    {
     "handle": "@OpenAI",
     "name": "OpenAI",
-    "hits": 2,
-    "days": 2,
-    "views": 6975088,
+    "hits": 4,
+    "days": 3,
+    "views": 9344463,
     "best": 6283044,
     "best_url": "https://x.com/OpenAI/status/2114780711664398349"
    },
    {
     "handle": "@dotey",
     "name": "宝玉",
-    "hits": 50,
-    "days": 6,
-    "views": 2409766,
+    "hits": 60,
+    "days": 7,
+    "views": 2796845,
     "best": 225990,
     "best_url": "https://x.com/dotey/status/2114763608856956970"
    },
    {
     "handle": "@vista8",
     "name": "向阳乔木",
-    "hits": 40,
-    "days": 6,
-    "views": 1180184,
+    "hits": 46,
+    "days": 7,
+    "views": 1237061,
     "best": 173153,
     "best_url": "https://x.com/vista8/status/2113918788018262446"
    },
    {
     "handle": "@op7418",
     "name": "歸藏(guizang.ai)",
-    "hits": 30,
-    "days": 6,
-    "views": 1030792,
+    "hits": 35,
+    "days": 7,
+    "views": 1167705,
     "best": 339186,
     "best_url": "https://x.com/op7418/status/2115000078104691168"
    },
    {
     "handle": "@xiaohu",
     "name": "小互",
-    "hits": 28,
-    "days": 6,
-    "views": 834967,
-    "best": 108384,
-    "best_url": "https://x.com/xiaohu/status/2115366691660308553"
-   },
-   {
-    "handle": "@0xlangeai",
-    "name": "蓝哥AI",
-    "hits": 26,
-    "days": 6,
-    "views": 550727,
-    "best": 128269,
-    "best_url": "https://x.com/0xlangeai/status/2114996566755037275"
+    "hits": 31,
+    "days": 7,
+    "views": 1069258,
+    "best": 115972,
+    "best_url": "https://x.com/xiaohu/status/2116139769352925535"
    },
    {
     "handle": "@liyue_ai",
     "name": "李岳",
-    "hits": 27,
-    "days": 6,
-    "views": 520815,
+    "hits": 36,
+    "days": 7,
+    "views": 657601,
     "best": 136937,
     "best_url": "https://x.com/liyue_ai/status/2114570263035789763"
    },
    {
+    "handle": "@0xlangeai",
+    "name": "蓝哥AI",
+    "hits": 27,
+    "days": 6,
+    "views": 569995,
+    "best": 128269,
+    "best_url": "https://x.com/0xlangeai/status/2114996566755037275"
+   },
+   {
     "handle": "@cgnot996",
     "name": "铁柱AGI",
-    "hits": 15,
-    "days": 5,
-    "views": 200453,
+    "hits": 17,
+    "days": 6,
+    "views": 222185,
     "best": 45663,
     "best_url": "https://x.com/cgnot996/status/2115647822087544957"
    },
@@ -952,8 +924,8 @@
     "name": "Cell 细胞",
     "hits": 15,
     "days": 6,
-    "views": 179377,
-    "best": 44374,
+    "views": 180878,
+    "best": 45087,
     "best_url": "https://x.com/cellinlab/status/2115729520112345423"
    },
    {
@@ -968,10 +940,10 @@
    {
     "handle": "@shao__meng",
     "name": "meng shao",
-    "hits": 8,
-    "days": 6,
-    "views": 74518,
-    "best": 23215,
+    "hits": 11,
+    "days": 7,
+    "views": 108220,
+    "best": 30400,
     "best_url": "https://x.com/shao__meng/status/2115785693599523089"
    }
   ],
@@ -979,81 +951,81 @@
    {
     "handle": "@AnthropicAI",
     "name": "Anthropic",
-    "hits": 5,
-    "days": 3,
-    "views": 12808526,
+    "hits": 6,
+    "days": 4,
+    "views": 13986709,
     "best": 8813050,
     "best_url": "https://x.com/AnthropicAI/status/2114705042817110293"
    },
    {
     "handle": "@OpenAI",
     "name": "OpenAI",
-    "hits": 2,
-    "days": 2,
-    "views": 6975088,
+    "hits": 4,
+    "days": 3,
+    "views": 9344463,
     "best": 6283044,
     "best_url": "https://x.com/OpenAI/status/2114780711664398349"
    },
    {
     "handle": "@dotey",
     "name": "宝玉",
-    "hits": 50,
-    "days": 6,
-    "views": 2409766,
+    "hits": 60,
+    "days": 7,
+    "views": 2796845,
     "best": 225990,
     "best_url": "https://x.com/dotey/status/2114763608856956970"
    },
    {
     "handle": "@vista8",
     "name": "向阳乔木",
-    "hits": 40,
-    "days": 6,
-    "views": 1180184,
+    "hits": 46,
+    "days": 7,
+    "views": 1237061,
     "best": 173153,
     "best_url": "https://x.com/vista8/status/2113918788018262446"
    },
    {
     "handle": "@op7418",
     "name": "歸藏(guizang.ai)",
-    "hits": 30,
-    "days": 6,
-    "views": 1030792,
+    "hits": 35,
+    "days": 7,
+    "views": 1167705,
     "best": 339186,
     "best_url": "https://x.com/op7418/status/2115000078104691168"
    },
    {
     "handle": "@xiaohu",
     "name": "小互",
-    "hits": 28,
-    "days": 6,
-    "views": 834967,
-    "best": 108384,
-    "best_url": "https://x.com/xiaohu/status/2115366691660308553"
-   },
-   {
-    "handle": "@0xlangeai",
-    "name": "蓝哥AI",
-    "hits": 26,
-    "days": 6,
-    "views": 550727,
-    "best": 128269,
-    "best_url": "https://x.com/0xlangeai/status/2114996566755037275"
+    "hits": 31,
+    "days": 7,
+    "views": 1069258,
+    "best": 115972,
+    "best_url": "https://x.com/xiaohu/status/2116139769352925535"
    },
    {
     "handle": "@liyue_ai",
     "name": "李岳",
-    "hits": 27,
-    "days": 6,
-    "views": 520815,
+    "hits": 36,
+    "days": 7,
+    "views": 657601,
     "best": 136937,
     "best_url": "https://x.com/liyue_ai/status/2114570263035789763"
    },
    {
+    "handle": "@0xlangeai",
+    "name": "蓝哥AI",
+    "hits": 27,
+    "days": 6,
+    "views": 569995,
+    "best": 128269,
+    "best_url": "https://x.com/0xlangeai/status/2114996566755037275"
+   },
+   {
     "handle": "@cgnot996",
     "name": "铁柱AGI",
-    "hits": 15,
-    "days": 5,
-    "views": 200453,
+    "hits": 17,
+    "days": 6,
+    "views": 222185,
     "best": 45663,
     "best_url": "https://x.com/cgnot996/status/2115647822087544957"
    },
@@ -1062,8 +1034,8 @@
     "name": "Cell 细胞",
     "hits": 15,
     "days": 6,
-    "views": 179377,
-    "best": 44374,
+    "views": 180878,
+    "best": 45087,
     "best_url": "https://x.com/cellinlab/status/2115729520112345423"
    },
    {
@@ -1078,10 +1050,10 @@
    {
     "handle": "@shao__meng",
     "name": "meng shao",
-    "hits": 8,
-    "days": 6,
-    "views": 74518,
-    "best": 23215,
+    "hits": 11,
+    "days": 7,
+    "views": 108220,
+    "best": 30400,
     "best_url": "https://x.com/shao__meng/status/2115785693599523089"
    }
   ],
@@ -1112,7 +1084,7 @@
  "operator": {
   "handle": "@yinmin1987",
   "name": "尹珉",
-  "followers": 5818,
+  "followers": 5828,
   "profile_url": "https://x.com/yinmin1987"
  },
  "ui": {
@@ -1120,146 +1092,146 @@
  },
  "day_roster": [
   {
-   "handle": "@AnthropicAI",
-   "name": "Anthropic",
-   "best_views": 1166425,
-   "views": 1166425,
-   "total_views": 1447229,
+   "handle": "@OpenAI",
+   "name": "OpenAI",
+   "best_views": 1872388,
+   "views": 1872388,
+   "total_views": 2221463,
    "posts": 2,
    "hit": true,
    "is_you": false,
-   "url": "https://x.com/AnthropicAI/status/2115871889549865429"
+   "url": "https://x.com/OpenAI/status/2116253388883345623"
   },
   {
-   "handle": "@OpenAI",
-   "name": "OpenAI",
-   "best_views": 692044,
-   "views": 692044,
-   "total_views": 692044,
+   "handle": "@AnthropicAI",
+   "name": "Anthropic",
+   "best_views": 350577,
+   "views": 350577,
+   "total_views": 350577,
    "posts": 1,
    "hit": true,
    "is_you": false,
-   "url": "https://x.com/OpenAI/status/2115896329645723836"
-  },
-  {
-   "handle": "@dotey",
-   "name": "宝玉",
-   "best_views": 157873,
-   "views": 157873,
-   "total_views": 320534,
-   "posts": 5,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/dotey/status/2115667965328977920"
-  },
-  {
-   "handle": "@cellinlab",
-   "name": "Cell 细胞",
-   "best_views": 44374,
-   "views": 44374,
-   "total_views": 60544,
-   "posts": 11,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/cellinlab/status/2115729520112345423"
+   "url": "https://x.com/AnthropicAI/status/2116349211549843666"
   },
   {
    "handle": "@xiaohu",
    "name": "小互",
-   "best_views": 39487,
-   "views": 39487,
-   "total_views": 75950,
+   "best_views": 115972,
+   "views": 115972,
+   "total_views": 238419,
    "posts": 5,
    "hit": true,
    "is_you": false,
-   "url": "https://x.com/xiaohu/status/2115700285503136155"
+   "url": "https://x.com/xiaohu/status/2116139769352925535"
   },
   {
-   "handle": "@0xlangeai",
-   "name": "蓝哥AI",
-   "best_views": 34740,
-   "views": 34740,
-   "total_views": 99413,
-   "posts": 16,
+   "handle": "@dotey",
+   "name": "宝玉",
+   "best_views": 78211,
+   "views": 78211,
+   "total_views": 326718,
+   "posts": 10,
    "hit": true,
    "is_you": false,
-   "url": "https://x.com/0xlangeai/status/2115764128375881791"
-  },
-  {
-   "handle": "@cgnot996",
-   "name": "铁柱AGI",
-   "best_views": 26391,
-   "views": 26391,
-   "total_views": 60897,
-   "posts": 14,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/cgnot996/status/2115722202712789476"
-  },
-  {
-   "handle": "@vista8",
-   "name": "向阳乔木",
-   "best_views": 26213,
-   "views": 26213,
-   "total_views": 86612,
-   "posts": 8,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/vista8/status/2115690083546546607"
-  },
-  {
-   "handle": "@shao__meng",
-   "name": "meng shao",
-   "best_views": 23215,
-   "views": 23215,
-   "total_views": 38800,
-   "posts": 6,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/shao__meng/status/2115785693599523089"
-  },
-  {
-   "handle": "@op7418",
-   "name": "歸藏(guizang.ai)",
-   "best_views": 16009,
-   "views": 16009,
-   "total_views": 42379,
-   "posts": 4,
-   "hit": true,
-   "is_you": false,
-   "url": "https://x.com/op7418/status/2115976609148834301"
+   "url": "https://x.com/dotey/status/2116218545906319826"
   },
   {
    "handle": "@liyue_ai",
    "name": "李岳",
-   "best_views": 11936,
-   "views": 11936,
-   "total_views": 46680,
-   "posts": 10,
+   "best_views": 73586,
+   "views": 73586,
+   "total_views": 145939,
+   "posts": 15,
    "hit": true,
    "is_you": false,
-   "url": "https://x.com/liyue_ai/status/2115718062045532341"
+   "url": "https://x.com/liyue_ai/status/2116078541381292302"
+  },
+  {
+   "handle": "@op7418",
+   "name": "歸藏(guizang.ai)",
+   "best_views": 67548,
+   "views": 67548,
+   "total_views": 126674,
+   "posts": 5,
+   "hit": true,
+   "is_you": false,
+   "url": "https://x.com/op7418/status/2116203707318841379"
+  },
+  {
+   "handle": "@cgnot996",
+   "name": "铁柱AGI",
+   "best_views": 13424,
+   "views": 13424,
+   "total_views": 35402,
+   "posts": 11,
+   "hit": true,
+   "is_you": false,
+   "url": "https://x.com/cgnot996/status/2116043968605774138"
+  },
+  {
+   "handle": "@vista8",
+   "name": "向阳乔木",
+   "best_views": 8630,
+   "views": 8630,
+   "total_views": 39749,
+   "posts": 6,
+   "hit": true,
+   "is_you": false,
+   "url": "https://x.com/vista8/status/2116067950956527999"
+  },
+  {
+   "handle": "@shao__meng",
+   "name": "meng shao",
+   "best_views": 8096,
+   "views": 8096,
+   "total_views": 27189,
+   "posts": 9,
+   "hit": true,
+   "is_you": false,
+   "url": "https://x.com/shao__meng/status/2116062951279091969"
+  },
+  {
+   "handle": "@0xlangeai",
+   "name": "蓝哥AI",
+   "best_views": 4587,
+   "views": 4587,
+   "total_views": 22575,
+   "posts": 17,
+   "hit": false,
+   "is_you": false,
+   "url": "https://x.com/0xlangeai/status/2116100139878318293"
+  },
+  {
+   "handle": "@cellinlab",
+   "name": "Cell 细胞",
+   "best_views": 2693,
+   "views": 2693,
+   "total_views": 12794,
+   "posts": 10,
+   "hit": false,
+   "is_you": false,
+   "url": "https://x.com/cellinlab/status/2116107260166656167"
   },
   {
    "handle": "@yinmin1987",
    "name": "尹珉",
-   "best_views": 674,
-   "views": 674,
-   "total_views": 2314,
-   "posts": 6,
+   "best_views": 569,
+   "views": 569,
+   "total_views": 1793,
+   "posts": 4,
    "hit": false,
    "is_you": true,
-   "url": "https://x.com/yinmin1987/status/2115979802096336927"
+   "url": "https://x.com/yinmin1987/status/2116353610829226109"
   }
  ],
  "you_rank": {
   "handle": "@yinmin1987",
   "name": "尹珉",
-  "posts": 6,
-  "best_views": 674,
-  "total_views": 2314,
-  "best_url": "https://x.com/yinmin1987/status/2115979802096336927",
-  "best_hook": "提醒一下用 Codex、Claude Code 的朋友",
+  "posts": 4,
+  "best_views": 569,
+  "total_views": 1793,
+  "best_url": "https://x.com/yinmin1987/status/2116353610829226109",
+  "best_hook": "欢迎面基",
   "rank": 12,
   "of": 12,
   "hit_min": false,
@@ -1273,134 +1245,134 @@
   "title": "yinmin1987 · X Virality Board"
  },
  "trend_keywords": {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "keywords": [
    {
     "keyword": "Claude / Opus",
-    "posts": 20,
+    "posts": 15,
     "authors": 6,
-    "views": 1856498,
-    "score": 68.67,
+    "views": 2803457,
+    "score": 61.17,
     "rank": 1
    },
    {
-    "keyword": "model / 模型",
+    "keyword": "AI Agent",
     "posts": 12,
-    "authors": 6,
-    "views": 1119519,
-    "score": 51.33,
+    "authors": 8,
+    "views": 750736,
+    "score": 57.57,
     "rank": 2
    },
    {
-    "keyword": "AI Agent",
+    "keyword": "model / 模型",
     "posts": 11,
-    "authors": 6,
-    "views": 306353,
-    "score": 44.57,
+    "authors": 7,
+    "views": 1845938,
+    "score": 54.99,
     "rank": 3
    },
    {
-    "keyword": "code / 代码",
-    "posts": 11,
+    "keyword": "Codex",
+    "posts": 6,
     "authors": 5,
-    "views": 203837,
-    "score": 39.37,
+    "views": 106453,
+    "score": 27.53,
     "rank": 4
    },
    {
     "keyword": "OpenAI / GPT",
-    "posts": 8,
-    "authors": 5,
-    "views": 1004674,
-    "score": 37.96,
+    "posts": 5,
+    "authors": 4,
+    "views": 1289512,
+    "score": 27.33,
     "rank": 5
    },
    {
-    "keyword": "Codex",
-    "posts": 7,
-    "authors": 6,
-    "views": 205573,
-    "score": 34.43,
+    "keyword": "video / 视频",
+    "posts": 6,
+    "authors": 4,
+    "views": 106818,
+    "score": 24.64,
     "rank": 6
    },
    {
     "keyword": "open source / 开源",
-    "posts": 8,
-    "authors": 5,
-    "views": 252836,
-    "score": 34.17,
+    "posts": 5,
+    "authors": 4,
+    "views": 268900,
+    "score": 24.28,
     "rank": 7
    },
    {
-    "keyword": "Grok",
-    "posts": 7,
-    "authors": 4,
-    "views": 172505,
-    "score": 27.71,
+    "keyword": "Anthropic",
+    "posts": 6,
+    "authors": 3,
+    "views": 481329,
+    "score": 24.11,
     "rank": 8
    },
    {
-    "keyword": "subscription / 订阅",
-    "posts": 5,
-    "authors": 4,
-    "views": 230998,
-    "score": 23.99,
+    "keyword": "prompt / 提示词",
+    "posts": 6,
+    "authors": 3,
+    "views": 120820,
+    "score": 21.56,
     "rank": 9
    },
    {
-    "keyword": "Anthropic",
-    "posts": 5,
+    "keyword": "Grok",
+    "posts": 6,
     "authors": 3,
-    "views": 112098,
-    "score": 19.56,
+    "views": 72669,
+    "score": 20.62,
     "rank": 10
    },
    {
-    "keyword": "Grok Bot",
-    "posts": 4,
+    "keyword": "Skills",
+    "posts": 5,
     "authors": 3,
-    "views": 148771,
-    "score": 17.92,
+    "views": 128342,
+    "score": 19.78,
     "rank": 11
    },
    {
-    "keyword": "video / 视频",
-    "posts": 4,
-    "authors": 3,
-    "views": 109448,
-    "score": 17.46,
+    "keyword": "code / 代码",
+    "posts": 6,
+    "authors": 2,
+    "views": 153681,
+    "score": 17.97,
     "rank": 12
    }
   ]
  },
  "trend_radar": {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "window_days": [
-   "2026-10-27",
    "2026-10-28",
-   "2026-10-29"
+   "2026-10-29",
+   "2026-10-30"
   ],
-  "corpus_posts": 91,
-  "headline": "38 watchlist hits ≥5,000 views on 2026-10-29, 24 of them ≥10,000; 2,887,866 views in total. Top: @AnthropicAI with 1,166,425.",
+  "corpus_posts": 80,
+  "headline": "38 watchlist hits ≥5,000 views on 2026-10-30, 21 of them ≥10,000; 3,450,783 views in total. Top: @OpenAI with 1,872,388.",
   "takeaway": "",
   "stats": {
    "all": {
     "verdicts": {
-     "author": 13,
-     "trend": 12,
-     "other": 8,
-     "partial": 3,
-     "visual": 2
+     "visual": 6,
+     "trend": 10,
+     "author": 14,
+     "partial": 5,
+     "other": 3
     }
    }
   },
   "topics": [
    {
     "name": "Coding agents (Codex, Claude)",
-    "posts": 36,
+    "posts": 30,
     "authors": 9,
-    "views": 2188750,
-    "momentum": "up",
+    "views": 3121737,
+    "momentum": "down",
     "keywords": [
      "Codex",
      "Claude / Opus",
@@ -1410,30 +1382,30 @@
     "examples": [
      {
       "handle": "@AnthropicAI",
-      "views": 1166425,
+      "views": 1964441,
       "url": "https://x.com/AnthropicAI/status/2115871889549865429",
       "hook": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a…"
      },
      {
-      "handle": "@dotey",
-      "views": 157873,
-      "url": "https://x.com/dotey/status/2115667965328977920",
-      "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
+      "handle": "@AnthropicAI",
+      "views": 350577,
+      "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+      "hook": "New Anthropic research: Automating subtle emergent misalignment research."
      },
      {
-      "handle": "@vista8",
-      "views": 132468,
-      "url": "https://x.com/vista8/status/2115487808404230154",
-      "hook": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。"
+      "handle": "@dotey",
+      "views": 199595,
+      "url": "https://x.com/dotey/status/2115667965328977920",
+      "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
      }
     ]
    },
    {
     "name": "Anthropic IPO and next model",
-    "posts": 20,
+    "posts": 15,
     "authors": 6,
-    "views": 1856498,
-    "momentum": "up",
+    "views": 2803457,
+    "momentum": "down",
     "keywords": [
      "Anthropic",
      "IPO",
@@ -1442,30 +1414,30 @@
     "examples": [
      {
       "handle": "@AnthropicAI",
-      "views": 1166425,
+      "views": 1964441,
       "url": "https://x.com/AnthropicAI/status/2115871889549865429",
       "hook": "We’ve trained Claude to flag potential misuse in conversations, a technique we call self-assessment. Right after it responds, Claude gives a…"
      },
      {
-      "handle": "@dotey",
-      "views": 157873,
-      "url": "https://x.com/dotey/status/2115667965328977920",
-      "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
+      "handle": "@AnthropicAI",
+      "views": 350577,
+      "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+      "hook": "New Anthropic research: Automating subtle emergent misalignment research."
      },
      {
-      "handle": "@vista8",
-      "views": 132468,
-      "url": "https://x.com/vista8/status/2115487808404230154",
-      "hook": "感觉自己运气好，Claude 账号一个都没被封过，不是凡尔赛啊。"
+      "handle": "@dotey",
+      "views": 199595,
+      "url": "https://x.com/dotey/status/2115667965328977920",
+      "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
      }
     ]
    },
    {
     "name": "OpenAI GPT-6.1 / computer use",
-    "posts": 19,
-    "authors": 7,
-    "views": 1432149,
-    "momentum": "up",
+    "posts": 14,
+    "authors": 8,
+    "views": 1946419,
+    "momentum": "down",
     "keywords": [
      "OpenAI / GPT",
      "model / 模型"
@@ -1473,29 +1445,61 @@
     "examples": [
      {
       "handle": "@OpenAI",
-      "views": 692044,
+      "views": 839956,
       "url": "https://x.com/OpenAI/status/2115896329645723836",
       "hook": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s at…"
      },
      {
+      "handle": "@AnthropicAI",
+      "views": 350577,
+      "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+      "hook": "New Anthropic research: Automating subtle emergent misalignment research."
+     },
+     {
+      "handle": "@OpenAI",
+      "views": 349075,
+      "url": "https://x.com/OpenAI/status/2116186509384815084",
+      "hook": "Privacy should advance as fast as intelligence. OpenAI Private Intelligence gives businesses stronger controls over their data while using o…"
+     }
+    ]
+   },
+   {
+    "name": "Agent memory / RAG",
+    "posts": 16,
+    "authors": 8,
+    "views": 856489,
+    "momentum": "up",
+    "keywords": [
+     "Memory / RAG",
+     "AI Agent",
+     "Skills"
+    ],
+    "examples": [
+     {
+      "handle": "@AnthropicAI",
+      "views": 350577,
+      "url": "https://x.com/AnthropicAI/status/2116349211549843666",
+      "hook": "New Anthropic research: Automating subtle emergent misalignment research."
+     },
+     {
       "handle": "@dotey",
-      "views": 157873,
+      "views": 199595,
       "url": "https://x.com/dotey/status/2115667965328977920",
       "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
      },
      {
-      "handle": "@dotey",
-      "views": 132758,
-      "url": "https://x.com/dotey/status/2115591064073413118",
-      "hook": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有"
+      "handle": "@op7418",
+      "views": 67548,
+      "url": "https://x.com/op7418/status/2116203707318841379",
+      "hook": "终于把自己的几个设计 Skill 合并了！"
      }
     ]
    },
    {
     "name": "Open source tools and free access",
-    "posts": 13,
+    "posts": 8,
     "authors": 6,
-    "views": 495647,
+    "views": 326024,
     "momentum": "down",
     "keywords": [
      "open source / 开源",
@@ -1505,61 +1509,29 @@
     "examples": [
      {
       "handle": "@dotey",
-      "views": 157873,
+      "views": 199595,
       "url": "https://x.com/dotey/status/2115667965328977920",
       "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
      },
      {
       "handle": "@dotey",
-      "views": 132758,
-      "url": "https://x.com/dotey/status/2115591064073413118",
-      "hook": "ChatGPT Pro 和 Business 订阅即日起每月送最高 500 美元 API 额度，不另收费，Plus 没有"
+      "views": 38301,
+      "url": "https://x.com/dotey/status/2116233564823974005",
+      "hook": "Claude 200 美元档改名 Ultra，已验证账号取消 5 小时限额，价格和周额度不变"
      },
      {
-      "handle": "@vista8",
-      "views": 46358,
-      "url": "https://x.com/vista8/status/2115446064593674587",
-      "hook": "如果你关心国内外的 AI 资讯和工具，这个免费产品值得收藏。"
-     }
-    ]
-   },
-   {
-    "name": "Agent memory / RAG",
-    "posts": 13,
-    "authors": 7,
-    "views": 352999,
-    "momentum": "up",
-    "keywords": [
-     "Memory / RAG",
-     "AI Agent",
-     "Skills"
-    ],
-    "examples": [
-     {
-      "handle": "@dotey",
-      "views": 157873,
-      "url": "https://x.com/dotey/status/2115667965328977920",
-      "hook": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。"
-     },
-     {
-      "handle": "@dotey",
-      "views": 39067,
-      "url": "https://x.com/dotey/status/2115314783503196605",
-      "hook": "避免 worktree 残留的最佳策略是在 AGENTS.md 里面添加规则，要求 worktree 不遗留，让 Agent 自己去清理。"
-     },
-     {
-      "handle": "@vista8",
-      "views": 37356,
-      "url": "https://x.com/vista8/status/2115318655525523714",
-      "hook": "评论发自己最喜欢用的 AI 工具和项目！"
+      "handle": "@0xlangeai",
+      "views": 27825,
+      "url": "https://x.com/0xlangeai/status/2115974734957703677",
+      "hook": "全体起立 ❗️❗️❗️   Rea 现在 40.8 万 Star ,   荣登今年新增 Github 最高星项目 ,  超越了  OpenClaw  39.3 万 Star"
      }
     ]
    },
    {
     "name": "Grok Bot + video hacks",
-    "posts": 11,
-    "authors": 6,
-    "views": 281953,
+    "posts": 12,
+    "authors": 5,
+    "views": 179487,
     "momentum": "down",
     "keywords": [
      "Grok Bot",
@@ -1568,90 +1540,90 @@
     ],
     "examples": [
      {
-      "handle": "@xiaohu",
-      "views": 108384,
-      "url": "https://x.com/xiaohu/status/2115366691660308553",
-      "hook": "这俩人打情骂俏起来了"
-     },
-     {
       "handle": "@dotey",
-      "views": 53334,
+      "views": 60106,
       "url": "https://x.com/dotey/status/2115842646031642966",
       "hook": "我 7 岁的孩子都学会自己在 ChatGPT 做游戏了"
      },
      {
       "handle": "@cgnot996",
-      "views": 26391,
+      "views": 27703,
       "url": "https://x.com/cgnot996/status/2115722202712789476",
       "hook": "😎 整了个大活儿 ！Grok @bot 终于能被别的 Agent 指挥了。"
+     },
+     {
+      "handle": "@op7418",
+      "views": 22589,
+      "url": "https://x.com/op7418/status/2116119701487337890",
+      "hook": "夸克网盘有 Skill了，这个牛逼啊！"
      }
     ]
    }
   ],
   "ideas": [
    {
-    "title": "Self-assessment is the missing ops check for agents",
-    "topic": "Coding agents (Codex, Claude)",
+    "title": "Fancy agent memory still loses to boring RAG",
+    "topic": "Agent memory / RAG",
     "keywords": [
-     "Claude / Opus",
-     "Anthropic",
-     "AI Agent"
+     "Memory / RAG",
+     "AI Agent",
+     "model / 模型"
     ],
     "format": "talking-head",
     "visual_type": "talking-head",
-    "hook_en": "Claude now scores its own reply for misuse right after it answers. OpenAI is publishing how they monitor frontier models in production. As someone who still thinks in alerts and runbooks, this feels late and necessary. I do not want a smarter agent first. I want an agent that can say 'this session went weird' before my cluster pays for it.",
-    "video_tip": "20s talking-head: flash Anthropic 'self-assessment' and OpenAI 'monitoring' headlines side by side, then cut to a fake ops dashboard with one red 'session self-flag' chip lighting up.",
-    "angle": "yin min DevOps / Ops Agent lens on Anthropic self-assessment + OpenAI monitoring news — safety as observability, not PR.",
-    "why": "AnthropicAI self-assessment post hit 1.16M views on 10-29; OpenAI monitoring post 692K; dotey's CN summary of Claude self-check ~34.5K.",
+    "hook_en": "A new Memory Tax paper tested 11 agent memory systems on LongMemEval-s. None of them beat plain RAG over the raw chat history. Chunk, hybrid search, rerank. That is it. As someone who spends days on Milvus and Ops Agent memory, this hurts in a good way. Stop shipping a clever store before your boring retrieval baseline is honest.",
+    "video_tip": "20s talking-head: whiteboard with 11 fancy memory logos crossed out, one box left labeled 'chunk + hybrid + rerank' with a green check; flash the LongMemEval-s line as caption.",
+    "angle": "yin min Milvus / Memory ambassador reaction to Memory Tax result — first-principles retrieval before fancy agent memory.",
+    "why": "Outsider @manthanguptaa Memory Tax post 7.6K views; Claude Code context-reload debate on @dotey 28.9K; Memory/RAG + AI Agent keywords strong among >=5k hits.",
     "evidence_urls": [
-     "https://x.com/AnthropicAI/status/2115871889549865429",
-     "https://x.com/OpenAI/status/2115896329645723836",
-     "https://x.com/dotey/status/2115923359149998490"
+     "https://x.com/manthanguptaa/status/2116030102563873160",
+     "https://x.com/dotey/status/2116026448234332315"
     ],
     "source": "watchlist",
-    "visual": "20s talking-head: flash Anthropic 'self-assessment' and OpenAI 'monitoring' headlines side by side, then cut to a fake ops dashboard with one red 'session self-flag' chip lighting up."
+    "visual": "20s talking-head: whiteboard with 11 fancy memory logos crossed out, one box left labeled 'chunk + hybrid + rerank' with a green check; flash the LongMemEval-s line as caption."
    },
    {
-    "title": "Never start your agent in Downloads",
+    "title": "Unlimited AI tokens is not an architecture",
     "topic": "Coding agents (Codex, Claude)",
     "keywords": [
+     "AI Agent",
+     "code / 代码",
      "Codex",
+     "Claude / Opus"
+    ],
+    "format": "talking-head",
+    "visual_type": "talking-head",
+    "hook_en": "Cisco's president gave a 27-year-old unlimited AI access to rewrite 98 percent of legacy code in two years. The Chinese timeline of that story already crossed 78K views. I lead an ops team and I build with Codex every day, so this hits close. Unlimited tokens are cheap courage. What I still want on the board is the blast radius, the rollback, and who owns the night the rewrite fails.",
+    "video_tip": "25s talking-head: slide 'unlimited AI' big and green, then stamp three red ops chips over it — blast radius / rollback / on-call owner — while the Cisco 98% line stays as subtitle.",
+    "angle": "yin min DevOps / Ops Agent lens on the Cisco unlimited-AI rewrite story — tokens vs judgment and ownership.",
+    "why": "@dotey Cisco/Paddy rewrite post 78.2K views; coding-agent chatter also includes @0xlangeai WorkBuddy vs Codex 35.5K.",
+    "evidence_urls": [
+     "https://x.com/dotey/status/2116218545906319826",
+     "https://x.com/0xlangeai/status/2115764128375881791"
+    ],
+    "source": "watchlist",
+    "visual": "25s talking-head: slide 'unlimited AI' big and green, then stamp three red ops chips over it — blast radius / rollback / on-call owner — while the Cisco 98% line stays as subtitle."
+   },
+   {
+    "title": "Thousands of agents as your red team",
+    "topic": "Coding agents (Codex, Claude)",
+    "keywords": [
+     "Anthropic",
      "Claude / Opus",
      "AI Agent"
     ],
     "format": "screencast",
     "visual_type": "screencast",
-    "hook_en": "I told my Codex and Claude Code friends this morning: do not launch the agent from ~/Downloads. Forever Security found a malicious AGENTS.md sitting there on a real customer machine. Agents trust AGENTS.md by design. Browsers can write into Downloads without a click. That combo is a remote instruction channel into your coding agent. Change the working directory before you type anything.",
-    "video_tip": "15s screencast: open ~/Downloads, highlight a planted AGENTS.md, start Claude Code there vs from a clean repo root, show the trusted-file path as the risk.",
-    "angle": "Expand yin min's own CN security warning into EN; first-principles trust-boundary lesson for coding agents.",
-    "why": "yinmin1987's own 10-30 tip on malicious AGENTS.md in Downloads (674 views so far); coding-agent / Claude / Codex keywords dominated the board.",
+    "hook_en": "Anthropic just set thousands of Claude agents loose to hunt subtle emergent misalignment — automated red-teaming because humans run out of hours. That research post is already past 350K views. I keep thinking about my Ops Agent the same way. One clever prompt is a demo. A fleet that keeps poking the same failure mode overnight is an ops practice.",
+    "video_tip": "20s screencast: spawn a terminal grid of many agent workers labeled 'probe / evade / report', then collapse them into one overnight red-team job queue next to an Ops Agent logo.",
+    "angle": "yin min Ops Agent builder reading Anthropic's multi-agent red-team research as a pattern for continuous ops probing.",
+    "why": "@AnthropicAI automated misalignment research 350.5K views; self-assessment still at 1.96M as background safety meta; Claude/Agent keywords led the lexicon counts.",
     "evidence_urls": [
-     "https://x.com/yinmin1987/status/2115979802096336927"
+     "https://x.com/AnthropicAI/status/2116349211549843666",
+     "https://x.com/AnthropicAI/status/2115871889549865429"
     ],
     "source": "watchlist",
-    "visual": "15s screencast: open ~/Downloads, highlight a planted AGENTS.md, start Claude Code there vs from a clean repo root, show the trusted-file path as the risk."
-   },
-   {
-    "title": "Your agents are idle because the job is undefined",
-    "topic": "Agent memory / RAG",
-    "keywords": [
-     "AI Agent",
-     "Grok Bot",
-     "Skills"
-    ],
-    "format": "talking-head",
-    "visual_type": "talking-head",
-    "hook_en": "A post that kept circulating yesterday said the loudest complaint is simple: people set up Grok Bot, Muse, Hermes… then watch them gather dust. I feel that. When I build an Ops Agent the hard part is never wiring the model. It is writing the one sentence: what is this agent allowed to touch, and what does 'done' look like. No use case, no memory design. No memory design, no agent.",
-    "video_tip": "20s talking-head: desk with several agent logos on sticky notes, then flip each note to blank except one labeled 'on-call: restart failed pod + page me' — that one stays.",
-    "angle": "yin min building Ops Agent / Memory-RAG: reframes the 'idle agents' meme as a job-definition + memory problem, not a tooling problem.",
-    "why": "Outsider ZH posts on Agent Use Cases hit ~47.6K and ~22.5K on 10-29; Grok Bot / AI Agent keywords strong; shao__meng's 78-page Tencent AI Agent enterprise handbook ~23.2K.",
-    "evidence_urls": [
-     "https://x.com/sdf302030/status/2115597825929322791",
-     "https://x.com/baozong_facai/status/2115725084145172578",
-     "https://x.com/shao__meng/status/2115785693599523089"
-    ],
-    "source": "watchlist",
-    "visual": "20s talking-head: desk with several agent logos on sticky notes, then flip each note to blank except one labeled 'on-call: restart failed pod + page me' — that one stays."
+    "visual": "20s screencast: spawn a terminal grid of many agent workers labeled 'probe / evade / report', then collapse them into one overnight red-team job queue next to an Ops Agent logo."
    }
   ],
   "legend": "Topics are keyword clusters over ≥5000-view watchlist posts of the last 3 complete days."
